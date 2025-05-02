@@ -79,14 +79,12 @@ module QuestModule
   
   Quest6 = {
     :ID => "6",
-    :Name => "The journey begins",
-    :QuestGiver => "Professor Oak",
-    :Stage1 => "Deliver the parcel to the Pokémon Mart in Viridian City.",
-    :Stage2 => "Return to the Professor.",
-    :Location1 => "Viridian City",
-    :Location2 => "nil",
-    :QuestDescription => "The Professor has entrusted me with an important delivery for the Viridian City Pokémon Mart. This is my first task, best not mess it up!",
-    :RewardString => "nil"
+    :Name => "An Important File",
+    :QuestGiver => "???",
+    :Stage1 => "Take the file to Prof. Oak.",
+    :Location1 => "Pallet Town",
+    :QuestDescription => "Some scientist-looking guy has given you a file to bring to Prof. Oak. Wonder what it contains.",
+    :RewardString => "Special"
   }
   
   Quest7 = {
