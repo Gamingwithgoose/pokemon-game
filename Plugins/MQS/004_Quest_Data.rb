@@ -91,12 +91,12 @@ module QuestModule
   
   Quest7 = {
     :ID => "7",
-    :Name => "Close encounters of the... first kind?",
-    :QuestGiver => "nil",
-    :Stage1 => "Make contact with the strange creatures.",
+    :Name => "Pre-Historic Allies",
+    :QuestGiver => "BLUE",
+    :Stage1 => "Look for fossils!",
     :Location1 => "Rock Tunnel",
-    :QuestDescription => "A sudden burst of light, and then...! What are you?",
-    :RewardString => "A possible probing."
+    :QuestDescription => "Can you get to the fossils before TEAM ROCKET?",
+    :RewardString => "A pre-historic friend."
   }
   
   Quest8 = {
