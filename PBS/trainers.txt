@@ -1,0 +1,2694 @@
+﻿# See the documentation on the wiki to learn how to edit this file.
+#-------------------------------
+[YOUNGSTER,Template]
+LoseText = ...
+Pokemon = MAGIKARP,5
+#-------------------------------
+[OFFICER,Johnny]
+LoseText = Sorry. I thought you might be up to something.
+Pokemon = GROWLITHE,20
+#-------------------------------
+[YOUNGSTER,Eddie]
+LoseText = Huh? That's not right!
+Pokemon = EKANS,21
+#-------------------------------
+[GAMBLER,Hugo]
+LoseText = Atcha!  Didn't go my way!
+Pokemon = POLIWAG,18
+Pokemon = HORSEA,18
+#-------------------------------
+[YOUNGSTER,Dillon]
+LoseText = My POKéMON couldn't win... Haven't they grown enough?
+Pokemon = SANDSHREW,19
+Pokemon = ZUBAT,19
+#-------------------------------
+[YOUNGSTER,Dave]
+LoseText = Bye-bye! Thank you, and good-bye!
+Pokemon = NIDORANmA,18
+Pokemon = NIDORANmA,18
+#-------------------------------
+[ENGINEER,Bernie]
+LoseText = Whoa! You spark plug!
+Pokemon = MAGNEMITE,18
+Pokemon = MAGNEMITE,18
+Pokemon = MAGNETON,18
+#-------------------------------
+[GAMBLER,Jasper]
+LoseText = I had a chance!
+Pokemon = BELLSPROUT,18
+Pokemon = ODDISH,18
+#-------------------------------
+[ENGINEER,Braxton]
+LoseText = That was electric!
+Pokemon = MAGNEMITE,21
+#-------------------------------
+[GAMBLER,Darian]
+LoseText = I saw this coming...
+Pokemon = GROWLITHE,18
+Pokemon = VULPIX,18
+#-------------------------------
+[YOUNGSTER,Yasu]
+LoseText = Darn! My POKéMON need to be stronger!
+Pokemon = RATTATA,17
+Pokemon = RATTATA,17
+Pokemon = RATICATE,17
+#-------------------------------
+[GAMBLER,Dirk]
+LoseText = My first loss!
+Pokemon = VOLTORB,18
+Pokemon = MAGNEMITE,18
+#-------------------------------
+[BUGCATCHER,Sammy]
+LoseText = I give! You're good at this!
+Pokemon = WEEDLE,9
+#-------------------------------
+[BUGCATCHER,Charlie]
+LoseText = Oh! I lost!
+Pokemon = METAPOD,7
+Pokemon = CATERPIE,7
+Pokemon = METAPOD,7
+#-------------------------------
+[BUGCATCHER,Anthony]
+LoseText = Oh, boo. Nothing went right.
+Pokemon = CATERPIE,7
+Pokemon = CATERPIE,8
+#-------------------------------
+[BUGCATCHER,Doug]
+LoseText = Huh? I ran out of POKéMON!
+Pokemon = WEEDLE,7
+Pokemon = KAKUNA,7
+Pokemon = WEEDLE,7
+#-------------------------------
+[BUGCATCHER,Rick]
+LoseText = No! Caterpie can't hack it!
+Pokemon = WEEDLE,6
+Pokemon = CATERPIE,6
+#-------------------------------
+[COOLTRAINER_F,Naomi]
+LoseText = I lost out.
+Pokemon = PERSIAN,42
+Pokemon = PONYTA,42
+Pokemon = RAPIDASH,42
+Pokemon = VULPIX,42
+Pokemon = NINETALES,42
+#-------------------------------
+[COOLTRAINER_M,Rolando]
+LoseText = I had a chance...
+Pokemon = RATICATE,42
+Pokemon = IVYSAUR,42
+Pokemon = WARTORTLE,42
+Pokemon = CHARMELEON,42
+Pokemon = CHARIZARD,42
+#-------------------------------
+[BLACKBELT,Daisuke]
+LoseText = Atcho!
+Pokemon = MACHOKE,43
+	Item = BLACKBELT
+Pokemon = MACHOP,43
+	Item = BLACKBELT
+Pokemon = MACHOKE,43
+	Item = BLACKBELT
+#-------------------------------
+[JUGGLER,Nelson]
+LoseText = You got me!
+Pokemon = DROWZEE,41
+Pokemon = HYPNO,41
+Pokemon = KADABRA,41
+Pokemon = KADABRA,41
+#-------------------------------
+[TAMER,Vincent]
+LoseText = I got whipped!
+Pokemon = PERSIAN,44
+Pokemon = GOLDUCK,44
+#-------------------------------
+[JUGGLER,Gregory]
+LoseText = Well done!
+Pokemon = MRMIME,48
+#-------------------------------
+[COOLTRAINER_M,George]
+LoseText = The rumors were true!
+Pokemon = EXEGGUTOR,42
+Pokemon = SANDSLASH,42
+Pokemon = CLOYSTER,42
+Pokemon = ELECTRODE,42
+Pokemon = ARCANINE,42
+#-------------------------------
+[POKEMANIAC,Dawson]
+LoseText = No! Unbelievable!
+Pokemon = CHARMELEON,40
+Pokemon = LAPRAS,40
+Pokemon = LICKITUNG,40
+#-------------------------------
+[COOLTRAINER_F,Alexa]
+LoseText = Oh! So Strong!
+Pokemon = CLEFAIRY,42
+Pokemon = JIGGLYPUFF,42
+Pokemon = PERSIAN,42
+Pokemon = DEWGONG,42
+Pokemon = CHANSEY,42
+#-------------------------------
+[COOLTRAINER_M,Colby]
+LoseText = I don't believe it!
+Pokemon = KINGLER,41
+Pokemon = POLIWHIRL,42
+Pokemon = TENTACRUEL,42
+Pokemon = SEADRA,42
+Pokemon = BLASTOISE,42
+#-------------------------------
+[COOLTRAINER_F,Caroline]
+LoseText = I'm furious!
+Pokemon = BELLSPROUT,42
+Pokemon = WEEPINBELL,42
+Pokemon = VICTREEBEL,42
+Pokemon = PARAS,42
+Pokemon = PARASECT,42
+#-------------------------------
+[COOLCOUPLE,Ray & Tyra]
+LoseText = Ludicrous! This can't be!
+Pokemon = NIDOKING,45
+Pokemon = NIDOQUEEN,45
+#-------------------------------
+[LASS,JANICE]
+LoseText = You're mean!
+Pokemon = PIDGEY,9
+Pokemon = PIDGEY,9
+#-------------------------------
+[BUGCATCHER,COLTON]
+LoseText = You beat me!
+Pokemon = CATERPIE,10
+Pokemon = WEEDLE,10
+Pokemon = CATERPIE,10
+#-------------------------------
+[YOUNGSTER,BEN]
+LoseText = I don't believe it!
+Pokemon = RATTATA,11
+Pokemon = RATTATA,11
+#-------------------------------
+[BUGCATCHER,GREG]
+LoseText = If I had new POKéMON, I would've won!
+Pokemon = WEEDLE,9
+Pokemon = KAKUNA,9
+Pokemon = CATERPIE,9
+Pokemon = METAPOD,9
+#-------------------------------
+[YOUNGSTER,CALVIN]
+LoseText = Lost! Lost! Lost!
+Pokemon = SPEAROW,14
+#-------------------------------
+[LASS,SALLY]
+LoseText = Be nice!
+Pokemon = RATTATA,10
+Pokemon = NIDORANfE,10
+#-------------------------------
+[BUGCATCHER,JAMES]
+LoseText = Done like dinner!
+Pokemon = CATERPIE,11
+Pokemon = METAPOD,11
+#-------------------------------
+[LASS,ROBIN]
+LoseText = That's it?
+Pokemon = JIGGLYPUFF,14
+#-------------------------------
+[LASS,Crissy]
+LoseText = After all I did to catch them!
+Pokemon = PARAS,31
+Pokemon = PARAS,31
+Pokemon = PARASECT,31
+#-------------------------------
+[BUGCATCHER,KENT]
+LoseText = You got me!
+Pokemon = WEEDLE,11
+Pokemon = KAKUNA,11
+#-------------------------------
+[LASS,IRISS]
+LoseText = I lost?
+Pokemon = CLEFAIRY,14
+#-------------------------------
+[SUPERNERD,JOVAN]
+LoseText = My POKéMON won't do!
+Pokemon = MAGNEMITE,11
+Pokemon = VOLTORB,11
+#-------------------------------
+[BUGCATCHER,ROBBY]
+LoseText = I lost.
+Pokemon = CATERPIE,10
+Pokemon = METAPOD,10
+Pokemon = CATERPIE,10
+#-------------------------------
+[LASS,MIRIAM]
+LoseText = Oh! I lost it!
+Pokemon = ODDISH,11
+Pokemon = BELLSPROUT,11
+#-------------------------------
+[YOUNGSTER,JOSH]
+LoseText = Losing stinks! It's so uncool.
+Pokemon = RATTATA,10
+Pokemon = RATTATA,10
+Pokemon = ZUBAT,10
+#-------------------------------
+[HIKER,MARCOS]
+LoseText = Wow! Shocked again!
+Pokemon = GEODUDE,10
+Pokemon = GEODUDE,10
+Pokemon = ONIX,10
+#-------------------------------
+[TEAMROCKET_M,GRUNT,1]
+LoseText = I blew it!
+Pokemon = SANDSHREW,11
+Pokemon = RATTATA,11
+Pokemon = ZUBAT,11
+#-------------------------------
+[TEAMROCKET_M,GRUNT,2]
+LoseText = So, you are good...
+Pokemon = ZUBAT,11
+Pokemon = EKANS,11
+#-------------------------------
+[TEAMROCKET_M,GRUNT,3]
+LoseText = I'm steamed!
+Pokemon = RATTATA,13
+Pokemon = SANDSHREW,13
+#-------------------------------
+[TEAMROCKET_M,GRUNT,4]
+LoseText = Urgh! Now I'm Mad!
+Pokemon = RATTATA,13
+Pokemon = ZUBAT,13
+#-------------------------------
+[SUPERNERD,MIGUEL]
+LoseText = Okay! I'll share!
+Pokemon = GRIMER,12
+Pokemon = VOLTORB,12
+Pokemon = KOFFING,12
+#-------------------------------
+[BUGCATCHER,CALE]
+LoseText = Whoo! Good stuff!
+Pokemon = CATERPIE,10
+Pokemon = WEEDLE,10
+Pokemon = METAPOD,10
+Pokemon = KAKUNA,10
+#-------------------------------
+[LASS,ALI]
+LoseText = How could I lose?
+Pokemon = PIDGEY,12
+Pokemon = ODDISH,12
+Pokemon = BELLSPROUT,12
+#-------------------------------
+[YOUNGSTER,TIMMY]
+LoseText = Ow! Stomped flat!
+Pokemon = SANDSHREW,14
+Pokemon = EKANS,14
+#-------------------------------
+[LASS,RELI]
+LoseText = I lost too!
+Pokemon = NIDORANmA,16
+Pokemon = NIDORANfE,16
+#-------------------------------
+[CAMPER,ETHAN]
+LoseText = Whoa! Too much!
+Pokemon = MANKEY,18
+#-------------------------------
+[TEAMROCKET_M,GRUNT,5]
+LoseText = Arrgh! You are good!
+Pokemon = EKANS,15
+Pokemon = ZUBAT,15
+#-------------------------------
+[CAMPER,SHANE]
+LoseText = I thought not!
+Pokemon = RATTATA,14
+Pokemon = EKANS,14
+#-------------------------------
+[HIKER,Franklin]
+LoseText = You worked hard!
+Pokemon = MACHOP,15
+Pokemon = GEODUDE,15
+#-------------------------------
+[HIKER,Wayne]
+LoseText = You're something.
+Pokemon = ONIX,17
+#-------------------------------
+[YOUNGSTER,Joey]
+LoseText = You're decent.
+Pokemon = RATTATA,15
+Pokemon = SPEAROW,15
+#-------------------------------
+[YOUNGSTER,Dan]
+LoseText = I'm not mad!
+Pokemon = SLOWPOKE,17
+#-------------------------------
+[PICNICKER,Kelsey]
+LoseText = My conditioning isn't the best...
+Pokemon = NIDORANmA,15
+Pokemon = NIDORANfE,15
+#-------------------------------
+[HIKER,Nob]
+LoseText = You done got me, and real good too!
+Pokemon = GEODUDE,13
+Pokemon = GEODUDE,13
+Pokemon = MACHOP,13
+Pokemon = GEODUDE,13
+#-------------------------------
+[CAMPER,Flint]
+LoseText = Aww, darn.
+Pokemon = RATTATA,14
+Pokemon = EKANS,14
+#-------------------------------
+[YOUNGSTER,Chad]
+LoseText = I knew I'd lose, too!
+Pokemon = EKANS,14
+Pokemon = SANDSHREW,14
+#-------------------------------
+[LASS,Haley]
+LoseText = I'm not so jealous!
+Pokemon = ODDISH,13
+Pokemon = PIDGEY,13
+Pokemon = ODDISH,13
+#-------------------------------
+[BLACKBELT,Hideki]
+LoseText = Judge! One point!
+Pokemon = MACHOP,32
+    Item = BLACKBELT
+Pokemon = MACHOKE,32
+    Item = BLACKBELT
+#-------------------------------
+[BLACKBELT,Hitoshi]
+LoseText = Oof! I give up!
+Pokemon = MACHOP,31
+    Item = BLACKBELT
+Pokemon = MANKEY,31
+    Item = BLACKBELT
+Pokemon = PRIMEAPE,31
+    Item = BLACKBELT
+#-------------------------------
+[BLACKBELT,Mike]
+LoseText = I give up!
+Pokemon = MANKEY,31
+    Item = BLACKBELT
+Pokemon = MANKEY,31
+    Item = BLACKBELT
+Pokemon = PRIMEAPE,31
+    Item = BLACKBELT
+#-------------------------------
+[BLACKBELT,Aaron]
+LoseText = Yow! Stubbed fingers!
+Pokemon = PRIMEAPE,36
+    Item = BLACKBELT
+#-------------------------------
+[BLACKBELT,Koichi]
+LoseText = Hwa! Arrgh! Beaten!
+Pokemon = HITMONLEE,37
+    Item = BLACKBELT
+Pokemon = HITMONCHAN,37
+    Item = BLACKBELT
+#-------------------------------
+[BUGCATCHER,Keigo]
+LoseText = No! You're kidding!
+Pokemon = WEEDLE,16
+Pokemon = CATERPIE,16
+Pokemon = WEEDLE,16
+#-------------------------------
+[CAMPER,Ricky]
+LoseText = I just can't win!
+Pokemon = SQUIRTLE,20
+#-------------------------------
+[PICNICKER,Nancy]
+LoseText = Ugh! I hate losing.
+Pokemon = RATTATA,16
+Pokemon = PIKACHU,16
+#-------------------------------
+[BUGCATCHER,Elijah]
+LoseText = You're too good!
+Pokemon = BUTTERFREE,20
+#-------------------------------
+[PICNICKER,Isabelle]
+LoseText = Things just didn't work...
+Pokemon = PIDGEY,16
+Pokemon = PIDGEY,16
+Pokemon = PIDGEY,16
+#-------------------------------
+[CAMPER,Jeff]
+LoseText = This stinks...I couldn't beat your challenge...
+Pokemon = SPEAROW,16
+Pokemon = RATICATE,16
+#-------------------------------
+[PICNICKER,Alicia]
+LoseText = you deceived me...
+Pokemon = ODDISH,18
+Pokemon = BELLSPROUT,18
+Pokemon = ODDISH,18
+Pokemon = BELLSPROUT,18
+#-------------------------------
+[HIKER,Jeremy]
+LoseText = Keep it comeing eh! Oh wait. I'm out of POKéMON!
+Pokemon = MACHOP,20
+Pokemon = ONIX,20
+#-------------------------------
+[CAMPER,Chris]
+LoseText = Out like a light!
+Pokemon = GROWLITHE,21
+Pokemon = CHARMANDER,21
+#-------------------------------
+[BUGCATCHER,Brent]
+LoseText = WHAT? What a total waste of time!
+Pokemon = BEEDRILL,19
+Pokemon = BEEDRILL,19
+#-------------------------------
+[HIKER,Alan]
+LoseText = Hahahaha! You beat me fair!
+Pokemon = GEODUDE,21
+Pokemon = ONIX,21
+#-------------------------------
+[BUGCATCHER,Conner]
+LoseText = My bugs...
+Pokemon = CATERPIE,20
+Pokemon = WEEDLE,20
+Pokemon = VENONAT,20
+#-------------------------------
+[CAMPER,Drew]
+LoseText = Can't measure up...
+Pokemon = RATTATA,19
+Pokemon = SANDSHREW,19
+Pokemon = EKANS,19
+Pokemon = SANDSHREW,19
+#-------------------------------
+[HIKER,Brice]
+LoseText = What's that?
+Pokemon = GEODUDE,20
+Pokemon = GEODUDE,20
+Pokemon = MACHOP,20
+#-------------------------------
+[PICNICKER,Caitlin]
+LoseText = No! You're too much.
+Pokemon = MEOWTH,23
+#-------------------------------
+[PICNICKER,Heidi]
+LoseText = Ohh! After all my training!
+Pokemon = PIKACHU,20
+Pokemon = CLEFAIRY,20
+#-------------------------------
+[POKEMANIAC,Mark]
+LoseText = Humph. I'm not angry!
+Pokemon = RHYHORN,29
+Pokemon = LICKITUNG,29
+#-------------------------------
+[PICNICKER,Carol]
+LoseText = I'm too tired. I wasn't up for it.
+Pokemon = PIDGEY,21
+Pokemon = PIDGEOTTO,21
+#-------------------------------
+[HIKER,Clark]
+LoseText = Ha-haha! Not laughing! Ha-hay fever! Haha-ha-choo!
+Pokemon = GEODUDE,21
+Pokemon = ONIX,21
+#-------------------------------
+[HIKER,Trent]
+LoseText = That cleared my head!
+Pokemon = ONIX,19
+Pokemon = GRAVELER,19
+#-------------------------------
+[POKEMANIAC,Herman]
+LoseText = Oh, no! My POKéMON!
+Pokemon = CUBONE,20
+Pokemon = SLOWPOKE,20
+#-------------------------------
+[POKEMANIAC,Ashton]
+LoseText = Game over!
+Pokemon = CUBONE,23
+Pokemon = SLOWPOKE,23
+#-------------------------------
+[POKEMANIAC,Winston]
+LoseText = Whew... I'm exhausted...
+Pokemon = SLOWPOKE,25
+#-------------------------------
+[PICNICKER,Martha]
+LoseText = Oh! I lost!
+Pokemon = ODDISH,22
+Pokemon = BULBASAUR,22
+#-------------------------------
+[POKEMANIAC,Steve]
+LoseText = Well, that's that.
+Pokemon = CHARMANDER,22
+Pokemon = CUBONE,22
+#-------------------------------
+[HIKER,Allen]
+LoseText = I give! You're a better technician!
+Pokemon = GEODUDE,25
+#-------------------------------
+[HIKER,Eric]
+LoseText = Fired away!
+Pokemon = MACHOP,20
+Pokemon = ONIX,20
+#-------------------------------
+[HIKER,Lenny]
+LoseText = Doh! You win!
+Pokemon = GEODUDE,19
+Pokemon = MACHOP,19
+Pokemon = GEODUDE,19
+Pokemon = GEODUDE,19
+#-------------------------------
+[HIKER,Oliver]
+LoseText = Ease up! What am I doing? Which way is out?
+Pokemon = ONIX,20
+Pokemon = ONIX,20
+Pokemon = GEODUDE,20
+#-------------------------------
+[HIKER,Lucas]
+LoseText = I give!
+Pokemon = GEODUDE,21
+Pokemon = GRAVELER,21
+#-------------------------------
+[PICNICKER,Sofia]
+LoseText = Ohhh! I did my best!
+Pokemon = JIGGLYPUFF,21
+Pokemon = PIDGEY,21
+Pokemon = MEOWTH,21
+#-------------------------------
+[HIKER,Dudley]
+LoseText = Opps! Out muscled!
+Pokemon = GEODUDE,21
+Pokemon = GEODUDE,21
+Pokemon = GRAVELER,21
+#-------------------------------
+[POKEMANIAC,Cooper]
+LoseText = Shoot! I am so jealous!
+Pokemon = SLOWPOKE,20
+Pokemon = SLOWPOKE,20
+Pokemon = SLOWPOKE,20
+#-------------------------------
+[PICNICKER,Leah]
+LoseText = It was too dark...
+Pokemon = BELLSPROUT,22
+Pokemon = CLEFAIRY,22
+#-------------------------------
+[PICNICKER,Ariana]
+LoseText = You play hard!
+Pokemon = PIDGEY,19
+Pokemon = RATTATA,19
+Pokemon = RATTATA,19
+Pokemon = BELLSPROUT,19
+#-------------------------------
+[PICNICKER,Dana]
+LoseText = I'm out of POKéMON!
+Pokemon = MEOWTH,20
+Pokemon = ODDISH,20
+Pokemon = PIDGEY,20
+#-------------------------------
+[LASS,Julia]
+LoseText = Stop! Don't be so mean to my CLEFAIRY!
+Pokemon = CLEFAIRY,22
+Pokemon = CLEFAIRY,22
+#-------------------------------
+[GAMBLER,Rich]
+LoseText = Missed the big chance!
+Pokemon = GROWLITHE,24
+Pokemon = VULPIX,24
+#-------------------------------
+[SUPERNERD,Glenn]
+LoseText = It's not logical!
+Pokemon = GRIMER,22
+Pokemon = MUK,22
+Pokemon = GRIMER,22
+#-------------------------------
+[TWINS,Eli & Anne]
+LoseText = But...we used our twin power...
+Pokemon = CLEFAIRY,22
+Pokemon = JIGGLYPUFF,22
+#-------------------------------
+[LASS,Paige]
+LoseText = Why? Why??
+Pokemon = NIDORANfE,23
+Pokemon = NIDORINA,23
+#-------------------------------
+[SUPERNERD,Leslie]
+LoseText = You made it clear to me that I should stick with school.
+Pokemon = KOFFING,26
+#-------------------------------
+[LASS,Andrea]
+LoseText = Meeeeyow!
+Pokemon = MEOWTH,24
+Pokemon = MEOWTH,24
+Pokemon = MEOWTH,24
+#-------------------------------
+[LASS,Megan]
+LoseText = Look what you did to my poor, cute POKéMON!
+Pokemon = PIDGEY,19
+Pokemon = RATTATA,19
+Pokemon = NIDORANmA,19
+Pokemon = MEOWTH,19
+Pokemon = PIKACHU,19
+#-------------------------------
+[BIKER,Jaren]
+LoseText = You for real, kid?
+Pokemon = GRIMER,24
+Pokemon = GRIMER,24
+#-------------------------------
+[BIKER,Ricardo]
+LoseText = Aww, man. I'm not into this.
+Pokemon = KOFFING,22
+Pokemon = KOFFING,22
+Pokemon = GRIMER,23
+#-------------------------------
+[GAMBLER,Stan]
+LoseText = Drat! Came up short!
+Pokemon = POLIWAG,22
+Pokemon = POLIWAG,22
+Pokemon = POLIWHIRL,22
+#-------------------------------
+[SUPERNERD,Aidan]
+LoseText = Ow! Meltdown!
+Pokemon = VOLTORB,20
+Pokemon = VOLTORB,20
+Pokemon = MAGNEMITE,20
+Pokemon = KOFFING,20
+#-------------------------------
+[FISHERMAN,Ned]
+LoseText = Tch! Just a small fry...
+Pokemon = GOLDEEN,22
+Pokemon = POLIWAG,22
+Pokemon = GOLDEEN,22
+#-------------------------------
+[FISHERMAN,Chip]
+LoseText = That one got away!
+Pokemon = TENTACOOL,24
+Pokemon = GOLDEEN,24
+#-------------------------------
+[FISHERMAN,Hank]
+LoseText = Touch too much!
+Pokemon = GOLDEEN,27
+#-------------------------------
+[FISHERMAN,Elliot]
+LoseText = It's not easy...
+Pokemon = POLIWAG,21
+Pokemon = SHELLDER,21
+Pokemon = GOLDEEN,21
+Pokemon = HORSEA,21
+#-------------------------------
+[YOUNGCOUPLE,Gia & Jes]
+LoseText = Oh, but why?
+Pokemon = NIDORANmA,24
+Pokemon = NIDORANfE,24
+#-------------------------------
+[ROCKER,Luca]
+LoseText = Unplugged!
+Pokemon = VOLTORB,29
+Pokemon = ELECTRODE,29
+#-------------------------------
+[CAMPER,Justin]
+LoseText = Oww!
+Pokemon = NIDORANmA,29
+Pokemon = NIDORINO,29
+#-------------------------------
+[FISHERMAN,Andrew]
+LoseText = Lost it!
+Pokemon = MAGIKARP,24
+Pokemon = MAGIKARP,24
+#-------------------------------
+[PICNICKER,Alma]
+LoseText = Oh, too bad! I just messed up!
+Pokemon = GOLDEEN,28
+Pokemon = POLIWAG,28
+Pokemon = HORSEA,28
+#-------------------------------
+[BIRDKEEPER,Sebastian]
+LoseText = My PIDGEY and PIDGEOTTO combo lost?
+Pokemon = PIDGEY,29
+Pokemon = PIDGEOTTO,29
+#-------------------------------
+[PICNICKER,Susie]
+LoseText = Ohh! I lost!
+Pokemon = PIDGEY,24
+Pokemon = MEOWTH,24
+Pokemon = RATTATA,24
+Pokemon = PIKACHU,24
+Pokemon = MEOWTH,24
+#-------------------------------
+[BEAUTY,Lola]
+LoseText = Oh! You little beast!
+Pokemon = RATTATA,27
+Pokemon = PIKACHU,27
+Pokemon = RATTATA,27
+#-------------------------------
+[BEAUTY,Sheile]
+LoseText = It's over already?
+Pokemon = CLEFAIRY,29
+Pokemon = MEOWTH,29
+#-------------------------------
+[PICNICKER,Valerie]
+LoseText = Not enough!
+Pokemon = POLIWAG,30
+Pokemon = POLIWAG,30
+#-------------------------------
+[PICNICKER,Gwen]
+LoseText = Good going! You totally won!
+Pokemon = PIDGEY,27
+Pokemon = MEOWTH,27
+Pokemon = PIDGEY,27
+Pokemon = PIDGEOTTO,27
+#-------------------------------
+[BIRDKEEPER,Robert]
+LoseText = Out of power!
+Pokemon = PIDGEY,26
+Pokemon = PIDGEOTTO,26
+Pokemon = SPEAROW,26
+Pokemon = FEAROW,26
+#-------------------------------
+[BIRDKEEPER,Perry]
+LoseText = The wind turned!
+Pokemon = SPEAROW,25
+Pokemon = PIDGEY,25
+Pokemon = PIDGEY,25
+Pokemon = SPEAROW,25
+Pokemon = SPEAROW,25
+#-------------------------------
+[BIKER,Jared]
+LoseText = Dang! Stripped gears!
+Pokemon = KOFFING,28
+Pokemon = KOFFING,28
+Pokemon = KOFFING,28
+#-------------------------------
+[BIRDKEEPER,Carter]
+LoseText = Not good enough quite yet.
+Pokemon = PIDGEY,28
+Pokemon = DODUO,28
+Pokemon = PIDGEOTTO,28
+#-------------------------------
+[BIRDKEEPER,Mitch]
+LoseText = Not ready yet!
+Pokemon = PIDGEY,26
+Pokemon = SPEAROW,26
+Pokemon = PIDGEY,26
+Pokemon = FEAROW,26
+#-------------------------------
+[BIRDKEEPER,Marlon]
+LoseText = Shot down in flames!
+Pokemon = SPEAROW,28
+Pokemon = DODUO,28
+Pokemon = FEAROW,28
+#-------------------------------
+[BIRDKEEPER,Beck]
+LoseText = Aww, bummer!
+Pokemon = PIDGEOTTO,29
+Pokemon = FEAROW,29
+#-------------------------------
+[BIRDKEEPER,Donald]
+LoseText = Why? Why'd I lose?
+Pokemon = FARFETCHD,33
+#-------------------------------
+[BIRDKEEPER,Benny]
+LoseText = I knew it!
+Pokemon = SPEAROW,29
+Pokemon = FEAROW,29
+#-------------------------------
+[TWINS,Kiri & Jan]
+LoseText = Whimper... We lost didn't we?
+Pokemon = CHARMANDER,29
+Pokemon = SQUIRTLE,29
+#-------------------------------
+[BIKER,Gerald]
+LoseText = Wipeout!
+Pokemon = KOFFING,29
+Pokemon = MUK,29
+#-------------------------------
+[BIKER,Malik]
+LoseText = Blown away!
+Pokemon = KOFFING,29
+Pokemon = GRIMER,29
+#-------------------------------
+[BIKER,Isaac]
+LoseText = What? You!?
+Pokemon = GRIMER,28
+Pokemon = GRIMER,28
+Pokemon = KOFFING,28
+#-------------------------------
+[BIKER,Lukas]
+LoseText = Arrg! Lost! Get lost!
+Pokemon = KOFFING,26
+Pokemon = KOFFING,26
+Pokemon = GRIMER,26
+Pokemon = KOFFING,26
+#-------------------------------
+[PICNICKER,Becky]
+LoseText = No, wrong!
+Pokemon = PIKACHU,29
+Pokemon = RAICHU,29
+#-------------------------------
+[CRUSHKIN,Ron & Mya]
+LoseText = Oh, no, no...
+Pokemon = HITMONCHAN,29
+    Item = BLACKBELT
+Pokemon = HITMONLEE,29
+    Item = BLACKBELT
+#-------------------------------
+[PICNICKER,Celia]
+LoseText = I said trade!
+Pokemon = CLEFAIRY,33
+#-------------------------------
+[BIKER,Ernest]
+LoseText = Why not?
+Pokemon = KOFFING,25
+Pokemon = KOFFING,25
+Pokemon = WEEZING,25
+Pokemon = KOFFING,25
+Pokemon = GRIMER,25
+#-------------------------------
+[BIKER,Alex]
+LoseText = That can't be true!
+Pokemon = KOFFING,28
+Pokemon = GRIMER,28
+Pokemon = WEEZING,28
+#-------------------------------
+[BEAUTY,Grace]
+LoseText = You looked so cute, too!
+Pokemon = PIDGEOTTO,29
+Pokemon = WIGGLYTUFF,29
+#-------------------------------
+[BEAUTY,Olivia]
+LoseText = POKéMON isn't about winning or losing for me.
+Pokemon = BULBASAUR,29
+Pokemon = IVYSAUR,29
+#-------------------------------
+[PICNICKER,Kindra]
+LoseText = Not good enough!
+Pokemon = GLOOM,28
+Pokemon = ODDISH,28
+Pokemon = ODDISH,28
+#-------------------------------
+[BIRDKEEPER,Chester]
+LoseText = Just as I thought!
+Pokemon = DODRIO,28
+Pokemon = DODUO,28
+Pokemon = DODUO,28
+#-------------------------------
+[BIRDKEEPER,Edwin]
+LoseText = Ow! That's tragic!
+Pokemon = PIDGEOTTO,26
+Pokemon = FARFETCHD,26
+Pokemon = DODUO,26
+Pokemon = PIDGEY,26
+#-------------------------------
+[PICNICKER,Yazmin]
+LoseText = I was too impatient!
+Pokemon = BELLSPROUT,29
+Pokemon = ODDISH,29
+Pokemon = TANGELA,29
+#-------------------------------
+[BIRDKEEPER,Jacob]
+LoseText = Darn!
+Pokemon = SPEAROW,26
+Pokemon = SPEAROW,26
+Pokemon = FEAROW,26
+Pokemon = SPEAROW,26
+#-------------------------------
+[BIRDKEEPER,Wilton]
+LoseText = Tch!
+Pokemon = SPEAROW,29
+Pokemon = FEAROW,29
+#-------------------------------
+[BIRDKEEPER,Ramiro]
+LoseText = I had to bug you!
+Pokemon = DODRIO,34
+#-------------------------------
+[CUEBALL,Isaiah]
+LoseText = Whoo!
+Pokemon = MACHOP,29
+Pokemon = MACHAMP,29
+#-------------------------------
+[BIKER,Virgil]
+LoseText = Crash and burn!
+Pokemon = WEEZING,28
+Pokemon = KOFFING,28
+Pokemon = WEEZING,28
+#-------------------------------
+[CUEBALL,Raul]
+LoseText = Burned out!
+Pokemon = MANKEY,29
+Pokemon = PRIMEAPE,29
+#-------------------------------
+[BIKER,Billy]
+LoseText = Smoked!
+Pokemon = MUK,33
+#-------------------------------
+[CUEBALL,Jamal]
+LoseText = Whew! Good workout!
+Pokemon = MANKEY,26
+Pokemon = MANKEY,26
+Pokemon = MACHAMP,26
+Pokemon = MACHOP,26
+#-------------------------------
+[BIKER,Nikolas]
+LoseText = Grounded out!
+Pokemon = VOLTORB,29
+Pokemon = VOLTORB,29
+#-------------------------------
+[CUEBALL,Zeek]
+LoseText = Why, you!
+Pokemon = MACHOKE,33
+#-------------------------------
+[CUEBALL,Corey]
+LoseText = Aaaargh!
+Pokemon = PRIMEAPE,29
+Pokemon = MACHOKE,29
+#-------------------------------
+[BIKER,Jaxon]
+LoseText = Shoot!
+Pokemon = WEEZING,29
+Pokemon = MUK,29
+#-------------------------------
+[BIKER,William]
+LoseText = Are you satisfied?
+Pokemon = KOFFING,25
+Pokemon = WEEZING,25
+Pokemon = KOFFING,25
+Pokemon = WEEZING,25
+Pokemon = KOFFING,25
+#-------------------------------
+[YOUNGCOUPLE,Lea & Jed]
+LoseText = Oh no! My love has seen me as a loser!
+Pokemon = RAPIDASH,29
+Pokemon = NINETALES,29
+#-------------------------------
+[BIKER,Lao]
+LoseText = Don't you dare laugh!
+Pokemon = GRIMER,29
+Pokemon = KOFFING,29
+#-------------------------------
+[CUEBALL,Koji]
+LoseText = Knockout!
+Pokemon = MACHOP,28
+Pokemon = MANKEY,28
+Pokemon = MACHOP,28
+#-------------------------------
+[CUEBALL,Luke]
+LoseText = You little rat!
+Pokemon = MANKEY,29
+Pokemon = MACHOP,29
+#-------------------------------
+[BIKER,Hideo]
+LoseText = Kaboom!
+Pokemon = WEEZING,33
+#-------------------------------
+[BIKER,Ruben]
+LoseText = Don't make me mad!
+Pokemon = WEEZING,28
+Pokemon = KOFFING,28
+Pokemon = WEEZING,28
+#-------------------------------
+[CUEBALL,Camron]
+LoseText = Bad, bad, bad!
+Pokemon = MANKEY,29
+Pokemon = MACHOP,29
+#-------------------------------
+[TEAMROCKET_M,GRUNT,6]
+LoseText = Dang!
+Pokemon = RATICATE,20
+Pokemon = ZUBAT,20
+#-------------------------------
+[FISHERMAN,Wade]
+LoseText = Hehe, MAGIKARP just don't make the grade do they?
+Pokemon = MAGIKARP,27
+Pokemon = MAGIKARP,27
+Pokemon = MAGIKARP,27
+Pokemon = MAGIKARP,27
+Pokemon = MAGIKARP,27
+Pokemon = MAGIKARP,27
+#-------------------------------
+[FISHERMAN,Ronald]
+LoseText = Dang!
+Pokemon = SEAKING,28
+Pokemon = GOLDEEN,28
+Pokemon = SEAKING,28
+Pokemon = SEAKING,28
+#-------------------------------
+[SISANDBRO,Lil & Ian]
+LoseText = Oh, see? We lost. Happy now?
+Pokemon = SEADRA,33
+Pokemon = STARMIE,33
+#-------------------------------
+[SWIMMER_M,Spencer]
+LoseText = Ayah!
+Pokemon = SEADRA,33
+Pokemon = TENTACRUEL,33
+#-------------------------------
+[FISHERMAN,Claude]
+LoseText = Sorry! I'm just so frustrated from not catching anything.
+Pokemon = SHELLDER,31
+Pokemon = CLOYSTER,31
+#-------------------------------
+[FISHERMAN,Nolan]
+LoseText = That burned some time.
+Pokemon = SEAKING,33
+Pokemon = GOLDEEN,33
+#-------------------------------
+[SWIMMER_M,Jack]
+LoseText = Diver!! Down!!
+Pokemon = STARMIE,37
+#-------------------------------
+[SWIMMER_M,Roland]
+LoseText = Yow! I lost!
+Pokemon = POLIWHIRL,32
+Pokemon = TENTACOOL,32
+Pokemon = SEADRA,32
+#-------------------------------
+[SWIMMER_M,Jerome]
+LoseText = Pant...pant...pant.
+Pokemon = STARYU,33
+Pokemon = WARTORTLE,33
+#-------------------------------
+[SWIMMER_M,Barry]
+LoseText = Splash!
+Pokemon = SHELLDER,31
+Pokemon = CLOYSTER,31
+#-------------------------------
+[SWIMMER_M,Darrin]
+LoseText = Ouch! Torpedoed!
+Pokemon = HORSEA,28
+Pokemon = HORSEA,28
+Pokemon = HORSEA,28
+Pokemon = SEADRA,28
+#-------------------------------
+[SWIMMER_F,Shirley]
+LoseText = Quit it!
+Pokemon = SEADRA,30
+Pokemon = HORSEA,30
+Pokemon = SEADRA,30
+#-------------------------------
+[SWIMMER_F,Tiffany]
+LoseText = Yowch!
+Pokemon = SEAKING,35
+#-------------------------------
+[PICNICKER,Irene]
+LoseText = No mercy at all!
+Pokemon = TENTACOOL,30
+Pokemon = HORSEA,30
+Pokemon = SEEL,30
+#-------------------------------
+[BIRDKEEPER,Roger]
+LoseText = Oh, no! What am I to do?
+Pokemon = FEAROW,30
+Pokemon = FEAROW,30
+Pokemon = PIDGEOTTO,30
+#-------------------------------
+[SWIMMER_F,Nora]
+LoseText = Oh, no! My pearls were in them!
+Pokemon = SHELLDER,30
+Pokemon = SHELLDER,30
+Pokemon = CLOYSTER,30
+#-------------------------------
+[SWIMMER_M,Dean]
+LoseText = Wimpy!
+Pokemon = STARYU,35
+#-------------------------------
+[PICNICKER,Missy]
+LoseText = I'm so dissapointed!
+Pokemon = GOLDEEN,31
+Pokemon = SEAKING,31
+#-------------------------------
+[SWIMMER_F,Melissa]
+LoseText = Wait! You're supposed to wait!
+Pokemon = POLIWAG,31
+Pokemon = SEAKING,31
+#-------------------------------
+[SWIMMER_M,Richard]
+LoseText = All warmed up!
+Pokemon = TENTACOOL,30
+Pokemon = SHELLDER,30
+#-------------------------------
+[SWIMMER_M,Reece]
+LoseText = Ooh! That's chilly!
+Pokemon = GOLDEEN,29
+Pokemon = HORSEA,29
+Pokemon = STARYU,29
+#-------------------------------
+[SWIMMER_M,Tony]
+LoseText = Ooh! Traumatic!
+Pokemon = HORSEA,30
+Pokemon = HORSEA,30
+#-------------------------------
+[SWIMMER_M,David]
+LoseText = Help!
+Pokemon = GOLDEEN,29
+Pokemon = SHELLDER,29
+Pokemon = SEAKING,29
+#-------------------------------
+[SWIMMER_M,Douglas]
+LoseText = Glub!
+Pokemon = HORSEA,27
+Pokemon = TENTACOOL,27
+Pokemon = TENTACOOL,27
+Pokemon = GOLDEEN,27
+#-------------------------------
+[SWIMMER_M,Matthew]
+LoseText = Belly flop!
+Pokemon = POLIWAG,30
+Pokemon = POLIWHIRL,30
+#-------------------------------
+[SISANDBRO,Lia & Luc]
+LoseText = Oh, wow! Soomeone tough!
+Pokemon = GOLDEEN,30
+Pokemon = SEAKING,30
+#-------------------------------
+[SWIMMER_M,Axle]
+LoseText = Ooh! Dangerous!
+Pokemon = TENTACOOL,27
+Pokemon = TENTACOOL,27
+Pokemon = STARYU,27
+Pokemon = HORSEA,27
+Pokemon = TENTACRUEL,27
+#-------------------------------
+[SWIMMER_F,Alice]
+LoseText = Shocker!
+Pokemon = GOLDEEN,30
+Pokemon = SEAKING,30
+#-------------------------------
+[SWIMMER_F,Anya]
+LoseText = Oh! I lost!
+Pokemon = POLIWAG,27
+Pokemon = GOLDEEN,27
+Pokemon = SEAKING,27
+Pokemon = GOLDEEN,27
+Pokemon = POLIWAG,27
+#-------------------------------
+[SWIMMER_F,Connie]
+LoseText = I'm exhausted...
+Pokemon = STARYU,29
+Pokemon = STARYU,29
+Pokemon = STARYU,29
+#-------------------------------
+[SWIMMER_F,AMARA]
+LoseText = I lost... It feels awful.
+Pokemon = SEEL,36
+Pokemon = SEEL,36
+Pokemon = DEWGONG,36
+#-------------------------------
+[SWIMMER_F,ABIGAIL]
+LoseText = Oh, you're so awful.
+Pokemon = PSYDUCK,35
+Pokemon = PSYDUCK,36
+Pokemon = GOLDUCK,37
+#-------------------------------
+[PICNICKER,CLAIRE]
+LoseText = That made me all sweaty.
+Pokemon = MEOWTH,35
+Pokemon = MEOWTH,35
+Pokemon = PIKACHU,35
+Pokemon = CLEFAIRY,35
+#-------------------------------
+[CRUSHGIRL,TANYA]
+LoseText = I'm such a fool!
+Pokemon = HITMONLEE,38
+Pokemon = HITMONCHAN,38
+#-------------------------------
+[CAMPER,BRYCE]
+LoseText = Awww, blown!
+Pokemon = NIDORINO,36
+Pokemon = RATICATE,36
+Pokemon = SANDSLASH,36
+#-------------------------------
+[SWIMMER_M,GARRETT]
+LoseText = Hey, what the... You're good, you!
+Pokemon = SHELLDER,35
+Pokemon = CLOYSTER,35
+Pokemon = WARTORTLE,38
+#-------------------------------
+[CRUSHKIN,MIK & KIA]
+LoseText = Whoa! That's too much!
+Pokemon = MACHOKE,39
+Pokemon = PRIMEAPE,39
+#-------------------------------
+[BLACKBELT,HUGH]
+LoseText = Why me?!
+Pokemon = MACHOP,37
+Pokemon = MACHOKE,37
+#-------------------------------
+[BLACKBELT,SHEA]
+LoseText = Gasp... Gasp...
+Pokemon = MACHOP,38
+Pokemon = MACHOKE,38
+#-------------------------------
+[CRUSHGIRL,SHARON]
+LoseText = You were a cut above me.
+Pokemon = MANKEY,37
+Pokemon = PRIMEAPE,37
+#-------------------------------
+[SWIMMER_M,FINN]
+LoseText = Well, aren't you tough?
+Pokemon = STARMIE,38
+#-------------------------------
+[SWIMMER_F,MARIA]
+LoseText = Aiyeeeeh!
+Pokemon = SEADRA,37
+Pokemon = SEADRA,37
+#-------------------------------
+[FISHERMAN,TOMMY]
+LoseText = I've lost it all again…
+Pokemon = GOLDEEN,33
+Pokemon = GOLDEEN,33
+Pokemon = SEAKING,35
+Pokemon = SEAKING,35
+Pokemon = SEAKING,35
+#-------------------------------
+[SWIMMER_F,TISHA]
+LoseText = Okay, you've won! Now will you please go away!
+Pokemon = KINGLER,38
+#-------------------------------
+[PICNICKER,JOY]
+LoseText = Darn. I challenged you and I still lost...
+Pokemon = CLEFFA,7
+#-------------------------------
+[PICNICKER,MEG]
+LoseText = That was fun! We should battle again sometime.
+Pokemon = CLEFFA,7
+#-------------------------------
+[AROMALADY,VIOLET]
+LoseText = You're raising some wonderful POKéMON.
+Pokemon = BULBASAUR,6
+Pokemon = BULBASAUR,6
+Pokemon = BULBASAUR,6
+#-------------------------------
+[TUBER_F,ALEXIS]
+LoseText = What happens now?
+Pokemon = STARYU,5
+Pokemon = STARYU,5
+Pokemon = KRABBY,5
+Pokemon = KRABBY,5
+#-------------------------------
+[TUBER_F,AMIRA]
+LoseText = Waaah! Waaah!
+Pokemon = POLIWAG,6
+Pokemon = POLIWAG,6
+Pokemon = POLIWAG,6
+#-------------------------------
+[AROMALADY,NIKKI]
+LoseText = ...Sniff, sniff... Something smells unpleasant.
+Pokemon = BELLSPROUT,7
+Pokemon = BELLSPROUT,7
+#-------------------------------
+[CAMPER,JERRY]
+LoseText = ...
+Pokemon = SANDSLASH,35
+Pokemon = RHYHORN,35
+#-------------------------------
+[CAMPER,LIAM]
+LoseText = Darn! Light-years isn't time... It measures distance! 
+Pokemon = GRAVELER,30
+Pokemon = CUBONE,30
+#-------------------------------
+[LEADER_Brock,BROCK]
+Items = FULLRESTORE,FULLRESTORE
+LoseText = ...
+Pokemon = GRAVELER,49
+    AbilityIndex = 1
+    Moves = DEFENSECURL,ROLLOUT,EARTHQUAKE,EXPLOSION
+Pokemon = ONIX,51
+    AbilityIndex = 1
+    Moves = SCREECH,SANDSTORM,IRONTAIL,ROCKTOMB
+    Ball = HEAVYBALL
+#-------------------------------
+[LEADER_Brock,BROCK,1]
+LoseText = ...
+Pokemon = GRAVELER,40
+Pokemon = ONIX,40
+#-------------------------------
+[LEADER_Brock,BROCK,2]
+LoseText = ...
+Pokemon = RHYHORN,40
+Pokemon = ONIX,40
+#-------------------------------
+[LEADER_Brock,BROCK,3]
+LoseText = ...
+Pokemon = OMASTAR,40
+Pokemon = ONIX,40
+#-------------------------------
+[LEADER_Brock,BROCK,4]
+LoseText = ...
+Pokemon = KABUTOPS,40
+Pokemon = ONIX,40
+#-------------------------------
+[LEADER_Brock,BROCK,5]
+LoseText = ...
+Pokemon = GOLEM,80
+Pokemon = KABUTOPS,80
+Pokemon = OMASTAR,80
+Pokemon = AERODACTYL,80
+Pokemon = RHYDON,80
+Pokemon = STEELIX,80
+#-------------------------------
+[SWIMMER_M,LUIS]
+LoseText = ...
+Pokemon = SHELLDER,32
+Pokemon = SHELLDER,32
+#-------------------------------
+[PICNICKER,DIANA]
+LoseText = ...
+Pokemon = GOLDEEN,32
+Pokemon = PSYDUCK,32
+#-------------------------------
+[LEADER_Misty,MISTY]
+LoseText = ...
+Items = FULLRESTORE,FULLRESTORE
+Pokemon = POLIWHIRL,45
+    AbilityIndex = 2
+    Moves = RAINDANCE,HYDROPUMP,EARTHPOWER,HYPNOSIS
+Pokemon = STARYU,50
+    AbilityIndex = 2
+    Moves = RECOVER,CONFUSERAY,SURF,BRINE
+    Ball = NETBALL
+#-------------------------------
+[LEADER_Misty,MISTY,1]
+LoseText = ...
+Pokemon = GOLDUCK,40
+Pokemon = STARMIE,40
+#-------------------------------
+[LEADER_Misty,MISTY,2]
+LoseText = ...
+Pokemon = QUAGSIRE,40
+Pokemon = STARMIE,40
+#-------------------------------
+[LEADER_Misty,MISTY,3]
+LoseText = ...
+Pokemon = GYARADOS,40
+Pokemon = STARMIE,40
+#-------------------------------
+[LEADER_Misty,MISTY,4]
+LoseText = ...
+Pokemon = LAPRAS,40
+Pokemon = STARMIE,40
+#-------------------------------
+[LEADER_Misty,MISTY,5]
+LoseText = ...
+Pokemon = LAPRAS,80
+Pokemon = VAPOREON,80
+Pokemon = DEWGONG,80
+Pokemon = GOLDUCK,80
+Pokemon = GYARADOS,80
+Pokemon = STARMIE,80
+#-------------------------------
+[SAILOR,DWAYNE]
+LoseText = ...
+Pokemon = PIKACHU,33
+Pokemon = PIKACHU,33
+Pokemon = MAGNEMITE,33
+#-------------------------------
+[ROCKER,VINCENT]
+LoseText = ...
+Pokemon = VOLTORB,33
+Pokemon = MAGNEMITE,33
+Pokemon = MAGNEMITE,33
+#-------------------------------
+[ENGINEER,BAILEY]
+LoseText = ...
+Pokemon = VOLTORB,34
+Pokemon = VOLTORB,34
+#-------------------------------
+[GENTLEMAN,TUCKER]
+LoseText = ...
+Pokemon = PIKACHU,33
+Pokemon = MAGNEMITE,33
+Pokemon = VOLTORB,33
+#-------------------------------
+[LEADER_Surge,LT. SURGE]
+LoseText = ...
+Items = FULLRESTORE,FULLRESTORE,FULLRESTORE
+Pokemon = VOLTORB,55
+    AbilityIndex = 2
+    Moves = EXPLOSION,MAGNETRISE,ELECTROBALL,GYROBALL
+Pokemon = MAGNEMITE,55
+    Ability = LEVITATE
+    Moves = METALSOUND,LOCKON,ZAPCANNON,SUPERSONIC
+Pokemon = RAICHU,42
+    AbilityIndex = 0
+    Moves = DOUBLETEAM,THUNDER,IRONTAIL,RAINDANCE
+    Ball = FASTBALL
+#-------------------------------
+[LEADER_Surge,LT. SURGE,1]
+LoseText = ...
+Pokemon = ELECTRODE,40
+Pokemon = RAICHU,40
+#-------------------------------
+[LEADER_Surge,LT. SURGE,2]
+LoseText = ...
+Pokemon = MAGNETON,40
+Pokemon = RAICHU,40
+#-------------------------------
+[LEADER_Surge,LT. SURGE,3]
+LoseText = ...
+Pokemon = ELECTABUZZ,40
+Pokemon = RAICHU,40
+#-------------------------------
+[LEADER_Surge,LT. SURGE,4]
+LoseText = ...
+Pokemon = JOLTEON,40
+Pokemon = RAICHU,40
+#-------------------------------
+[LEADER_Surge,LT. SURGE,5]
+LoseText = ...
+Pokemon = JOLTEON,80
+Pokemon = ELECTABUZZ,80
+Pokemon = ELECTRODE,80
+Pokemon = MAGNETON,80
+Pokemon = ELECTRODE,80
+Pokemon = RAICHU,80
+#-------------------------------
+[LASS,KAY]
+LoseText = ...
+Pokemon = WEEPINBELL,36
+Pokemon = WEEPINBELL,36
+#-------------------------------
+[BEAUTY,BRIDGET]
+LoseText = ...
+Pokemon = ODDISH,34
+Pokemon = ODDISH,34
+Pokemon = GLOOM,34
+POkemon = GLOOM,34
+#-------------------------------
+[COOLTRAINER_F,MARY]
+LoseText = ...
+Pokemon = EXEGGCUTE,33
+Pokemon = ODDISH,33
+Pokemon = WEEPINBELL,33
+Pokemon = GLOOM,33
+Pokemon = IVYSAUR,33
+#-------------------------------
+[LASS,LISA]
+LoseText = ...
+Pokemon = ODDISH,36
+Pokemon = GLOOM,36
+#-------------------------------
+[PICNICKER,TINA]
+LoseText = ...
+Pokemon = IVYSAUR,36
+Pokemon = IVYSAUR,36
+#-------------------------------
+[BEAUTY,LORI]
+LoseText = ...
+Pokemon = EXEGGCUTE,37
+#-------------------------------
+[BEAUTY,TAMIA]
+LoseText = ...
+Pokemon = WEEPINBELL,36
+Pokemon = WEEPINBELL,36
+#-------------------------------
+[LEADER_Erika,ERIKA]
+LoseText = ...
+Items = FULLRESTORE,FULLRESTORE,FULLRESTORE
+Pokemon = PARASECT,58
+    AbilityIndex = 0
+Pokemon = IVYSAUR,60
+    Moves = SOLARBEAM,SYNTHESIS,SUNNYDAY,LEECHSEED
+Pokemon = TANGELA,61
+    Moves = INGRAIN,GIGADRAIN,POISONPOWDER,POWERWHIP
+    Ball = FRIENDBALL
+#-------------------------------
+[LEADER_Erika,ERIKA,1]
+LoseText = ...
+Pokemon = VICTREEBEL,40
+Pokemon = TANGELA,40
+#-------------------------------
+[LEADER_Erika,ERIKA,2]
+LoseText = ...
+Pokemon = VILEPLUME,40
+Pokemon = TANGELA,40
+#-------------------------------
+[LEADER_Erika,ERIKA,3]
+LoseText = ...
+Pokemon = BELLOSSOM,40
+Pokemon = TANGELA,40
+#-------------------------------
+[LEADER_Erika,ERIKA,4]
+LoseText = ...
+Pokemon = EXEGGUTOR,40
+Pokemon = TANGELA,40
+#-------------------------------
+[LEADER_Erika,ERIKA,5]
+LoseText = ...
+Pokemon = VICTREEBEL,80
+Pokemon = VILEPLUME,80
+Pokemon = BELLOSSOM,80
+Pokemon = EXEGGUTOR,80
+Pokemon = JUMPLUFF,80
+Pokemon = TANGROWTH,80
+#-------------------------------
+[JUGGLER,NATE]
+LoseText = ...
+Pokemon = DROWZEE,38
+Pokemon = KADABRA,38
+#-------------------------------
+[JUGGLER,KAYDEN]
+LoseText = ...
+Pokemon = DROWZEE,39
+#-------------------------------
+[JUGGLER,KIRK]
+LoseText = ...
+Pokemon = DROWZEE,36
+Pokemon = DROWZEE,36
+Pokemon = KADABRA,36
+Pokemon = DROWZEE,36
+#-------------------------------
+[TAMER,EDGAR]
+LoseText = ...
+Pokemon = NIDORINA,37
+Pokemon = NIDORINO,37
+Pokemon = BEEDRILL,37
+#-------------------------------
+[TAMER,PHIL]
+LoseText = ...
+Pokemon = NIDORINO,38
+Pokemon = NIDORINA,38
+#-------------------------------
+[JUGGLER,SHAWN]
+LoseText = ...
+Pokemon = DROWZEE,38
+Pokemon = KADABRA,38
+#-------------------------------
+[LEADER_Koga,KOGA]
+LoseText = ...
+Items = FULLRESTORE,FULLRESTORE,FULLRESTORE
+Pokemon = ARBOK,58
+    Moves = GLARE,COIL,GUNKSHOT,ACIDSPRAY
+Pokemon = GOLBAT,62
+    AbilityIndex = 2
+    Moves = MEANLOOK,POISONFANG,CONFUSERAY,AIRSLASH
+Pokemon = VENOMOTH,63
+    AbilityIndex = 1
+    Moves = SLEEPPOWDER,POISONPOWDER,BUGBUZZ,QUIVERDANCE
+    Ball = SAFARIBALL
+#-------------------------------
+[LEADER_Koga,KOGA,1]
+LoseText = ...
+Pokemon = KOFFING,40
+Pokemon = WEEZING,40
+Pokemon = GRIMER,40
+Pokemon = MUK,40
+#-------------------------------
+[LEADER_Koga,KOGA,2]
+LoseText = ...
+Pokemon = VENONAT,40
+Pokemon = VENOMOTH,40
+Pokemon = ZUBAT,40
+Pokemon = GOLBAT,40
+#-------------------------------
+[LEADER_Koga,KOGA,3]
+LoseText = ...
+Pokemon = VENONAT,40
+Pokemon = VENOMOTH,40
+Pokemon = GRIMER,40
+Pokemon = MUK,40
+#-------------------------------
+[LEADER_Koga,KOGA,4]
+LoseText = ...
+Pokemon = KOFFING,40
+Pokemon = WEEZING,40
+Pokemon = ZUBAT,40
+Pokemon = GOLBAT,40
+#-------------------------------
+[LEADER_Janine,JANINE]
+LoseText = ...
+Pokemon = VENOMOTH,80
+Pokemon = CROBAT,80
+Pokemon = ARIADOS,80
+Pokemon = WEEZING,80
+Pokemon = ARBOK,80
+Pokemon = MUK,80
+#-------------------------------
+[CHANNELER,AMANDA]
+LoseText = ...
+Pokemon = GASTLY,40
+Pokemon = HAUNTER,40
+#-------------------------------
+[PSYCHIC_M,CAMERON]
+LoseText = ...
+Pokemon = SLOWPOKE,39
+Pokemon = SLOWPOKE,39
+Pokemon = SLOWPOKE,39
+#-------------------------------
+[PSYCHIC_M,TYRON]
+LoseText = ...
+Pokemon = DROWZEE,40
+Pokemon = KADABRA,40
+#-------------------------------
+[CHANNELER,STACY]
+LoseText = ...
+Pokemon = HAUNTER,41
+#-------------------------------
+[PSYCHIC_M,PRESTON]
+LoseText = ...
+Pokemon = HAUNTER,41
+#-------------------------------
+[CHANNELER,TASHA]
+LoseText = ...
+Pokemon = GASTLY,39
+Pokemon = GASTLY,39
+Pokemon = HAUNTER,39
+#-------------------------------
+[PSYCHIC_M,JOHAN]
+LoseText = ...
+Pokemon = KADABRA,38
+Pokemon = DROWZEE,38
+Pokemon = SLOWPOKE,38
+Pokemon = KADABRA,38
+#-------------------------------
+[LEADER_Sabrina,SABRINA]
+LoseText = ...
+Items = FULLRESTORE,FULLRESTORE
+Pokemon = KADABRA,63
+    Moves = TRIATTACK,RECOVER,FUTURESIGHT,CALMMIND
+    Ball = TIMERBALL
+Pokemon = MRMIME,65
+    AbilityIndex = 1
+    Moves = PSYCHIC,DAZZLINGGLEAM,TEETERDANCE,ENCORE
+#-------------------------------
+[LEADER_Sabrina,SABRINA,1]
+LoseText = ...
+Pokemon = MRMIME,40
+Pokemon = KADABRA,40
+Pokemon = ALAKAZAM,40
+#-------------------------------
+[LEADER_Sabrina,SABRINA,2]
+LoseText = ...
+Pokemon = ABRA,40
+Pokemon = KADABRA,40
+Pokemon = ALAKAZAM,40
+#-------------------------------
+[LEADER_Sabrina,SABRINA,3]
+LoseText = ...
+Pokemon = ESPEON,40
+Pokemon = MRMIME,40
+Pokemon = ALAKAZAM,40
+#-------------------------------
+[LEADER_Sabrina,SABRINA,4]
+LoseText = ...
+Pokemon = ESPEON,40
+Pokemon = SLOWBRO,40
+Pokemon = ALAKAZAM,40
+#-------------------------------
+[LEADER_Sabrina,SABRINA,5]
+LoseText = ...
+Pokemon = EXEGGUTOR,80
+Pokemon = HYPNO,80
+Pokemon = MRMIME,80
+Pokemon = SLOWBRO,80
+Pokemon = JYNX,80
+Pokemon = ALAKAZAM,80
+#-------------------------------
+[SUPERNERD,ERIK]
+LoseText = ...
+Pokemon = CHARMANDER,41
+Pokemon = PONYTA,41
+Pokemon = CHARMELEON,41
+#-------------------------------
+[BURGLAR,QUINN]
+LoseText = ...
+Pokemon = CHARMANDER,41
+Pokemon = GROWLITHE,41
+Pokemon = GROWLITHE,41
+#-------------------------------
+[SUPERNERD,DEREK]
+LoseText = ...
+Pokemon = PONYTA,42
+Pokemon = PONYTA,42
+#-------------------------------
+[BURGLAR,DUSTY]
+LoseText = ...
+Pokemon = GROWLITHE,42
+Pokemon = CHARMELEON,42
+#-------------------------------
+[SUPERNERD,AVERY]
+LoseText = ...
+Pokemon = PONYTA,41
+Pokemon = CHARMELEON,41
+Pokemon = GROWLITHE,41
+#-------------------------------
+[BURGLAR,RAMON]
+LoseText = ...
+Pokemon = PONYTA,43
+#-------------------------------
+[SUPERNERD,ZAC]
+LoseText = ...
+Pokemon = GROWLITHE,42
+Pokemon = GROWLITHE,42
+#-------------------------------
+[LEADER_Blaine,BLAINE]
+LoseText = ...
+Items = FULLRESTORE,FULLRESTORE
+Pokemon = RAPIDASH,66
+    AbilityIndex = 2
+    Moves = FLAREBLITZ,FIRESPIN,STOMP,TAILWHIP
+Pokemon = MAGMAR,68
+    Moves = FIREBLAST,FIREPUNCH,SUNNYDAY,CONFUSERAY
+#-------------------------------
+[LEADER_Blaine,BLAINE,1]
+LoseText = ...
+Pokemon = RAPIDASH,40
+Pokemon = NINETALES,40
+Pokemon = ARCANINE,40
+Pokemon = MAGMAR,40
+#-------------------------------
+[LEADER_Blaine,BLAINE,2]
+LoseText = ...
+Pokemon = RAPIDASH,40
+Pokemon = MAGCARGO,40
+Pokemon = FLAREON,40
+Pokemon = MAGMAR,40
+#-------------------------------
+[LEADER_Blaine,BLAINE,3]
+LoseText = ...
+Pokemon = MAGCARGO,40
+Pokemon = NINETALES,40
+Pokemon = ARCANINE,40
+Pokemon = MAGMAR,40
+#-------------------------------
+[LEADER_Blaine,BLAINE,4]
+LoseText = ...
+Pokemon = FLAREON,40
+Pokemon = CHARIZARD,40
+Pokemon = RAPIDASH,40
+Pokemon = MAGMAR,40
+#-------------------------------
+[LEADER_Blaine,BLAINE,5]
+LoseText = ...
+Pokemon = FLAREON,80
+Pokemon = MAGCARGO,80
+Pokemon = NINETALES,80
+Pokemon = ARCANINE,80
+Pokemon = RAPIDASH,80
+Pokemon = MAGMORTAR,80
+#-------------------------------
+[COOLTRAINER_F,ARABELLA]
+LoseText = ...
+Pokemon = STANTLER,35
+Pokemon = TAUROS,35
+#-------------------------------
+[COOLCOUPLE,ELAN & IDA]
+LoseText = ...
+Pokemon = NIDOKING,37
+Pokemon = NIDOQUEEN,37
+#-------------------------------
+[LEADER_Giovanni,GIOVANNI]
+LoseText = ...
+Items = FULLRESTORE,FULLRESTORE,FULLRESTORE,FULLRESTORE,FULLRESTORE
+Pokemon = SANDSLASH,71
+    Moves = SLASH,EARTHQUAKE,SANDSTORM,SWORDSDANCE
+Pokemon = GOLEM,72
+    AbilityIndex = 1
+    Moves = STEALTHROCK,SANDSTORM,STONEEDGE,HEAVYSLAM
+Pokemon = NIDOQUEEN,73
+    AbilityIndex = 2
+    Moves = TOXICSPIKES,EARTHQUAKE,FOCUSENERGY,THUNDER
+Pokemon = NIDOKING,73
+    AbilityIndex = 1
+    Moves = TOXICSPIKES,MEGAHORN,EARTHQUAKE,FOCUSENERGY
+Pokemon = RHYDON,75
+    AbilityIndex = 1
+    Moves = HORNDRILL,EARTHQUAKE,TAKEDOWN
+#-------------------------------
+[LEADER_Giovanni,GIOVANNI,1]
+LoseText = ...
+Pokemon = GOLEM,40
+Pokemon = NIDOKING,40
+Pokemon = RHYDON,42
+Pokemon = PERSIAN,45
+#-------------------------------
+[LEADER_Giovanni,GIOVANNI,2]
+LoseText = ...
+Pokemon = GOLEM,40
+Pokemon = NIDOQUEEN,40
+Pokemon = RHYDON,42
+Pokemon = PERSIAN,45
+#-------------------------------
+[LEADER_Giovanni,GIOVANNI,3]
+LoseText = ...
+Pokemon = RHYDON,40
+Pokemon = DUGTRIO,40
+Pokemon = GOLEM,42
+Pokemon = PERSIAN,45
+#-------------------------------
+[LEADER_Giovanni,GIOVANNI,4]
+LoseText = ...
+Pokemon = NIDOKING,40
+Pokemon = NIDOQUEEN,40
+Pokemon = RHYDON,42
+Pokemon = PERSIAN,45
+#-------------------------------
+[LEADER_Blue,BLUE]
+LoseText = ...
+Pokemon = EXEGGUTOR,80
+Pokemon = RHYDON,80
+Pokemon = MACHAMP,80
+Pokemon = GYARADOS,80
+Pokemon = ARCANINE,80
+Pokemon = PIDGEOT,80
+#-------------------------------
+[YOUNGSTER,JOHNSON]
+LoseText = Tch! I can't get any wins.
+Pokemon = EKANS,33
+Pokemon = EKANS,33
+Pokemon = RATICATE,34
+#-------------------------------
+[BURGLAR,ARNIE]
+LoseText = Oh, no! My bag of loot!
+Pokemon = CHARMANDER,34
+Pokemon = CHARMELEON,34
+#-------------------------------
+[BURGLAR,SIMON]
+LoseText = Ayah!
+Pokemon = NINETALES,38
+#-------------------------------
+[SCIENTIST,BRAYDON]
+LoseText = Whew! Overwhelming
+Pokemon = MAGNEMITE,33
+Pokemon = MAGNETON,33
+Pokemon = VOLTORB,33
+#-------------------------------
+[SCIENTIST,TED]
+LoseText = Who are you? There shouldn't be anyone here.
+Pokemon = ELECTRODE,29
+Pokemon = WEEZING,29
+#-------------------------------
+[BURGLAR,LEWIS]
+LoseText = Awooh!
+Pokemon = GROWLITHE,34
+Pokemon = PONYTA,34
+#-------------------------------
+[SCIENTIST,IVAN]
+LoseText = What was that for?
+Pokemon = MAGNEMITE,34
+Pokemon = ELECTRODE,34
+#-------------------------------
+[POKEMONBREEDER,ALIZE]
+LoseText = Your POKéMON are growing up admirably well!
+Pokemon = PIKACHU,48
+Pokemon = CLEFAIRY,48
+Pokemon = MARILL,48
+#-------------------------------
+[PAINTER,RAYNA]
+LoseText = Oh... My feelings, they are blue.
+Pokemon = SMEARGLE,50
+    Moves = CROSSCHOP,MEGAHORN,DOUBLEEDGE,SELFDESTRUCT
+#-------------------------------
+[LADY,JACKI]
+LoseText = Oh, my, so strong.
+Pokemon = HOPPIP,48
+    Item = STARDUST
+Pokemon = SKIPLOOM,50
+    Item = STARDUST
+#-------------------------------
+[PAINTER,CELINA]
+LoseText = This loss... I feel like I'm whiting out.
+Pokemon = SMEARGLE,50
+    Moves = FLY,DIVE,DIG,BOUNCE
+#-------------------------------
+[LADY,GILLIAN]
+LoseText = Oh, my goodness gracious!
+Pokemon = MAREEP,47
+    Item = STARDUST
+Pokemon = MAREEP,48
+    Item = STARDUST
+Pokemon = FLAAFFY,49
+    Item = NUGGET
+#-------------------------------
+[YOUNGSTER,DESTIN]
+LoseText = Oops! I rushed things!
+Pokemon = RATICATE,48
+Pokemon = PIDGEOTTO,48
+#-------------------------------
+[PAINTER,DAISY]
+LoseText = The shame of this. I'm red-faced.
+Pokemon = SMEARGLE,50
+    Moves = DYNAMICPUNCH,DIZZYPUNCH,FOCUSPUNCH,MEGAPUNCH
+#-------------------------------
+[SWIMMER_M,TOBY]
+LoseText = That's a shocker!
+Pokemon = POLIWHIRL,48
+Pokemon = TENTACOOL,48
+Pokemon = TENTACRUEL,48
+#-------------------------------
+[RUINMANIAC,LAWSON]
+LoseText = Aiyeeeeeh! Mercy!
+Pokemon = ONIX,47
+Pokemon = GRAVELER,48
+Pokemon =MAROWAK,49
+#-------------------------------
+[PSYCHIC_F,LAURA]
+LoseText = If you don't go into the right tunnel, you won't get ahead.
+Pokemon = NATU,48
+Pokemon = NATU,48
+Pokemon = XATU,49
+#-------------------------------
+[LADY,SELPHY]
+Items = FULLRESTORE,FULLRESTORE
+LoseText = Oh... I was afraid that you meant to harm me.
+Pokemon = PERSIAN,49
+    Item = NUGGET
+Pokemon = PERSIAN,49
+    Item = NUGGET
+#-------------------------------
+[JUGGLER,EDWARD]
+LoseText = Nobody saw me losing, right?
+Pokemon = VOLTORB,46
+Pokemon = VOLTORB,46
+Pokemon = ELECTRODE,47
+Pokemon = MRMIME,48
+#-------------------------------
+[HIKER,EARL]
+LoseText = I lost my way while I was busy battling!
+Pokemon = ONIX,49
+Pokemon = MACHOKE,49
+#-------------------------------
+[SWIMMER_F,DENISE]
+LoseText = Awww, I knew this would happen!
+Pokemon = CHINCHOU,49
+Pokemon = LANTURN,49
+#-------------------------------
+[SWIMMER_M,SAMIR]
+LoseText = Oh, no, no, no.
+Pokemon = GYARADOS,50
+#-------------------------------
+[TWINS,MIU & MIA]
+LoseText = MIU: Oh, no! Mommy! MIA: You're mean! You're bad for winning!
+Pokemon = PIKACHU,50
+Pokemon = PIKACHU,50
+#-------------------------------
+[AROMALADY,Rose]
+LoseText = Giggle... You're so cute when you're determined.
+Pokemon = SUNKERN,49
+Pokemon = SUNFLORA,49
+#-------------------------------
+[PSYCHIC_F,JACLYN]
+LoseText = Big boo-boo!
+Pokemon = NATU,48
+Pokemon = SLOWBRO,48
+Pokemon = KADABRA,49
+#-------------------------------
+[YOUNGSTER,CORDELL]
+LoseText = I bet you think I'm weak, don't you, eh?
+Pokemon = FARFETCHD,48
+Pokemon = FARFETCHD,48
+#-------------------------------
+[POKEMONBREEDER,BETHANY]
+LoseText = You raise your POKéMON with a whole lot of love!
+Pokemon = CHANSEY,50
+#-------------------------------
+[BUGCATCHER,GARRET]
+LoseText = Hehehe... Isn't my POKéMON awesome?
+Pokemon = HERACROSS,49
+#-------------------------------
+[LASS,JOANA]
+LoseText = I lost, but I'm still laughing. Am I the only girl like that?
+Pokemon = SNUBBULL,49
+#-------------------------------
+[YOUNGSTER,NASH]
+LoseText = Super awesome!
+Pokemon = WEEPINBELL,47
+Pokemon = WEEPINBELL,47
+Pokemon = VICTREEBEL,49
+#-------------------------------
+[BUGCATCHER,VANCE]
+LoseText = I got beat while I was still busy celebrating!
+Pokemon = VENONAT,48
+Pokemon = VENOMOTH,48
+#-------------------------------
+[RUINMANIAC,LAYTON]
+LoseText = Have you taken a good look around these parts?
+Pokemon = SANDSLASH,48
+Pokemon = ONIX,48
+Pokemon = SANDSLASH,48
+#-------------------------------
+[PICNICKER,MARCY]
+LoseText = It wasn't a bug. I cut my shin on some grass.
+Pokemon = PARAS,48
+Pokemon = PARAS,48
+Pokemon = PARASECT,49
+#-------------------------------
+[BUGCATCHER,JONAH]
+LoseText It's okay, losing is a fun part of POKéMON's appeal, too.
+Pokemon = YANMA,45
+Pokemon = BEEDRILL,45
+Pokemon = YANMA,46
+Pokemon = BEEDRILL,47
+#-------------------------------
+[LASS,DALIA]
+LoseText = If you'd like, I can teach you how to breathe properly.
+Pokemon = HOPPIP,46
+Pokemon = HOPPIP,47
+Pokemon = SKIPLOOM,47
+Pokemon = SKIPLOOM,48
+#-------------------------------
+[POKEMONBREEDER,ALLISON]
+LoseText = Oh, for someone so you, you are tremendous!
+Pokemon = CLEFAIRY,48
+Pokemon = CLEFAIRY,48
+Pokemon = CLEFABLE,48
+#-------------------------------
+[CAMPER,RILEY]
+LoseText = Wimped out...
+Pokemon = PINSIR,49
+Pokemon = HERACROSS,50
+#-------------------------------
+[SWIMMER_F,NICOLE]
+LoseText = I didn't lose to you at swimming. This doesn't bother me.
+Pokemon = MARILL,50
+#-------------------------------
+[SISANDBRO,AVA & GEB]
+LoseText = AVA: Oh, you're amazing. Even better, you're on your own. GEB: Wow, Big Sister, this person's really good!
+Pokemon = STARMIE,50
+Pokemon = POLIWHIRL,50
+#-------------------------------
+[SWIMMER_M,MYMO]
+LoseText = Gasp... Gasp...
+Pokemon = KINGLER,49
+Pokemon = WARTORTLE,49
+#-------------------------------
+[FISHERMAN,TYLOR]
+LoseText = Nope, no luck at all...
+Pokemon = QWILFISH,49
+Pokemon = QWILFISH,49
+#-------------------------------
+[HIKER,DARYL]
+LoseText = Oh, the heartbreak of losing so easily to you!
+Pokemon = SUDOWOODO,50
+#-------------------------------
+[POKEMANIAC,HECTOR]
+LoseText = You don't need to be so pushy. I'll be happy to tell you.
+Pokemon = RHYHORN,49
+Pokemon = KANGASKHAN,49
+#-------------------------------
+[RUINMANIAC,STANLY]
+LoseText = Hmm...
+Pokemon = GRAVELER,48
+Pokemon = ONIX,48
+Pokemon = GRAVELER,48
+#-------------------------------
+[RUINMANIAC,FOSTER]
+LoseText = It's been so long since I battled, my instincts are off.
+Pokemon = GOLEM,50
+#-------------------------------
+[RUINMANIAC,LARRY]
+LoseText = Oh, interesting.
+Pokemon = MACHOKE,49
+Pokemon = MACHOKE,49
+#-------------------------------
+[PSYCHIC_F,RODETTE]
+LoseText = What an amazing TRAINER!
+Pokemon = NATU,48
+Pokemon = DROWZEE,48
+Pokemon = HYPNO,50
+#-------------------------------
+[PSYCHIC_M,DARIO]
+LoseText = Give up...
+Pokemon = GIRAFARIG,52
+#-------------------------------
+[AROMALADY,MIAH]
+LoseText = Tch! Too strong for me!
+Pokemon = BELLOSSOM,50
+Pokemon = BELLOSSOM,50
+#-------------------------------
+[JUGGLER,MASON]
+LoseText = Oh, so you're not a fan... Well, I can change that. Let me sing for you!
+Pokemon = VOLTORB,47
+Pokemon = VOLTORB,47
+Pokemon = PINECO,47
+Pokemon = PINECO,47
+#-------------------------------
+[POKEMONRANGER_M,NICOLAS]
+LoseText = Uh-huh...
+Pokemon = WEEPINBELL,51
+Pokemon = VICTREEBEL,51
+#-------------------------------
+[POKEMONRANGER_F,MADELINE]
+LoseText = You don't seem to be a problem TRAINER.
+Pokemon = GLOOM,51
+Pokemon = VILEPLUME,51
+#-------------------------------
+[YOUNGCOUPLE,EVE & JON]
+LoseText = EVE: Me and JON, we lost. Ehehe  JON: When I'm with EVE, it doesn't feel like I've lost!
+Pokemon = GOLDUCK,50
+Pokemon = PSYDUCK,50
+#-------------------------------
+[COOLCOUPLE,LEX & NYA]
+LoseText = LEX: I seem to have been too careless.  NYA:Oh no... I'm so sorry, I...
+Pokemon = TAUROS,52
+Pokemon = MILTANK,52
+#-------------------------------
+[TAMER,EVAN]
+LoseText = You're a master at this.
+Pokemon = SANDSLASH,48
+Pokemon = LICKITUNG,48
+Pokemon = URSARING,49
+#-------------------------------
+[POKEMONRANGER_M,JACKSON]
+LoseText = Whoah! You're tough! How about protecting me?
+Pokemon = TANGELA,49
+Pokemon = EXEGGCUTE,49
+Pokemon = EXEGGUTOR,49
+#-------------------------------
+[POKEMONRANGER_F,KATELYN]
+LoseText = You're hot stuff in spite of your cute looks.
+Pokemon = CHANSEY,52
+#-------------------------------
+[CRUSHGIRL,CYNDY]
+LoseText = Huh? Something's not right...
+Pokemon = PRIMEAPE,48
+        Item = BLACKBELT
+Pokemon = HITMONTOP,48
+        Item = BLACKBELT
+Pokemon = MACHOKE,48
+        Item = BLACKBELT
+#-------------------------------
+[COOLTRAINER_M,LEROY]
+LoseText = I knew it! You're as tough as I thought!
+Pokemon = RHYDON,47
+Pokemon = SLOWBRO,48
+Pokemon = MACHOKE,48
+Pokemon = KANGASKHAN,47
+Pokemon = URSARING,50
+#-------------------------------
+[COOLTRAINER_F,MICHELLE]
+LoseText = Thank you. I feel like I've been set free by losing to you.
+Pokemon = PERSIAN,47
+Pokemon = DEWGONG,47
+Pokemon = NINETALES,48
+Pokemon = RAPIDASH,48
+Pokemon = GIRAFARIG,50
+#-------------------------------
+[RUINMANIAC,BRANDON]
+LoseText = That was uncalled for. You didn't have to go so rough.
+Pokemon = ONIX,50
+#-------------------------------
+[GENTLEMAN,CLIFFORD]
+LoseText = My, how extraordinary.
+Pokemon = MAROWAK,49
+Pokemon = GOLDUCK,49
+#-------------------------------
+[PAINTER,EDNA]
+LoseText = We might get in trouble for being noisy here.
+Pokemon = SMEARGLE,50
+#-------------------------------
+[RUINMANIAC,BENJAMIN]
+LoseText = I'm not much good in battle.
+Pokemon = GEODUDE,48
+Pokemon = GRAVELER,48
+Pokemon = GRAVELER,48
+#-------------------------------
+[TAMER,COLE]
+LoseText = Yowch! Whiplash!
+Pokemon = NIDORINO,44
+Pokemon = LICKITUNG,44
+#-------------------------------
+[BLACKBELT,KIYO]
+LoseText = Aiyah!
+Pokemon = MACHOKE,45
+	Item = BLACKBELT
+#-------------------------------
+[COOLTRAINER_M,SAMUEL]
+LoseText = I was beaten?
+Pokemon = CUBONE,41
+Pokemon = MAROWAK,41
+Pokemon = RHYHORN,41
+Pokemon = NIDORINO,41
+Pokemon = NIDORINO,41
+#-------------------------------
+[COOLTRAINER_M,YUJI]
+LoseText = I ran out of gas!
+Pokemon = CUBONE,41
+Pokemon = GRAVELER,41
+Pokemon = ONIX,41
+Pokemon = GRAVELER,41
+Pokemon = MAROWAK,41
+#-------------------------------
+[BLACKBELT,ATSUSHI]
+LoseText = Wargh!
+Pokemon = MACHOKE,44
+	Item = BLACKBELT
+Pokemon = MACHOKE,44
+	Item = BLACKBELT
+#-------------------------------
+[TAMER,JASON]
+LoseText = You are in perfect harmony!
+Pokemon = RHYHORN,45
+#-------------------------------
+[COOLTRAINER_M,WARREN]
+LoseText = I lost my grip!
+Pokemon = CUBONE,41
+Pokemon = MAROWAK,41
+Pokemon = RHYHORN,41
+Pokemon = NIDORINA,41
+Pokemon = NIDORINA,41
+#-------------------------------
+[BLACKBELT,TAKASHI]
+LoseText = Ayah!
+Pokemon = MACHOKE,43
+	Item = BLACKBELT
+Pokemon = MACHOKE,43
+	Item = BLACKBELT
+Pokemon = MACHOKE,43
+	Item = BLACKBELT
+#-------------------------------
+[POKEMONRANGER_F,BETH]
+LoseText = Atchah! You're shockingly good!
+Pokemon = BELLSPROUT,38
+Pokemon = GLOOM,38
+Pokemon = GLOOM,38
+#-------------------------------
+[POKEMONRANGER_M,LOGAN]
+LoseText = Whew... That was hot! Sweat's erupting from me!
+Pokemon = EXEGGCUTE,37
+Pokemon = EXEGGUTOR,40
+#-------------------------------
+[CRUSHGIRL,JOCELYN]
+LoseText = I think I tried to overdo it...
+Pokemon = HITMONCHAN,38
+Pokemon = HITMONCHAN,38
+#-------------------------------
+[TEAMROCKET_M,GRUNT,8]
+LoseText = Oww! Beaten!
+Pokemon = DROWZEE,21
+Pokemon = MACHOP,21
+#-------------------------------
+[TEAMROCKET_M,GRUNT,9]
+LoseText = Boom!
+Pokemon = DROWZEE,21
+Pokemon = MACHOP,21
+#-------------------------------
+[TEAMROCKET_M,GRUNT,10]
+LoseText = This won't do!
+Pokemon = RATTATA,19
+Pokemon = RATICATE,19
+Pokemon = RATICATE,19
+Pokemon = RATTATA,19
+#-------------------------------
+[TEAMROCKET_M,GRUNT,11]
+LoseText = I can't do it!
+Pokemon = GRIMER,20
+Pokemon = KOFFING,20
+Pokemon = KOFFING,20
+#-------------------------------
+[TEAMROCKET_M,GRUNT,12]
+LoseText = Why...?
+Pokemon = GRIMER,22
+Pokemon = KOFFING,22
+#-------------------------------
+[TEAMROCKET_M,GRUNT,13]
+LoseText = I surrender!
+Pokemon = ZUBAT,17
+Pokemon = KOFFING,17
+Pokemon = GRIMER,17
+Pokemon = ZUBAT,17
+Pokemon = RATICATE,17
+#-------------------------------
+[TEAMROCKET_M,GRUNT,14]
+LoseText = What? I Lost? No!
+Pokemon = MACHOP,21
+Pokemon = MACHOP,21
+#-------------------------------
+[TEAMROCKET_M,GRUNT,15]
+LoseText = Oof! Taken down!
+Pokemon = RATTATA,20
+Pokemon = RATICATE,20
+Pokemon = DROWZEE,20
+#-------------------------------
+[TEAMROCKET_M,GRUNT,16]
+LoseText = No!
+Pokemon = KOFFING,21
+Pokemon = ZUBAT,21
+#-------------------------------
+[TEAMROCKET_M,GRUNT,17]
+LoseText = Burned again!
+Pokemon = SANDSHREW,23
+Pokemon = EKANS,23
+Pokemon = SANDSLASH,23
+#-------------------------------
+[TEAMROCKET_M,GRUNT,18]
+LoseText = Ayaya!
+Pokemon = EKANS,23
+Pokemon = SANDSHREW,23
+Pokemon = ARBOK,23
+#-------------------------------
+[TEAMROCKET_M,GRUNT,19]
+LoseText = I give up!
+Pokemon = ZUBAT,25
+Pokemon = ZUBAT,25
+Pokemon = GOLBAT,25
+#-------------------------------
+[TEAMROCKET_M,GRUNT,20]
+LoseText = Please! No more!
+Pokemon = KOFFING,26
+Pokemon = DROWZEE,26
+#-------------------------------
+[TEAMROCKET_M,GRUNT,21]
+LoseText = Don't fight us ROCKETS!
+Pokemon = ZUBAT,23
+Pokemon = RATTATA,23
+Pokemon = RATICATE,23
+Pokemon = ZUBAT,23
+#-------------------------------
+[ROCKETBOSS,GIOVANNI,1]
+LoseText = WHAT! This can't be!
+Pokemon = ONIX,25
+Pokemon = RHYHORN,24
+Pokemon = KANGASKHAN,29
+#-------------------------------
+[CHANNELER,HOPE]
+LoseText = Hwa! I'm saved!
+Pokemon = GASTLY,23
+#-------------------------------
+[CHANNELER,PATRICIA]
+LoseText = Whew! The spirit left!
+Pokemon = GASTLY,22
+#-------------------------------
+[CHANNELER,CARLY]
+LoseText = Hmm? What am I doing?
+Pokemon = GASTLY,24
+#-------------------------------
+[CHANNELER,LAUREL]
+LoseText = What!
+Pokemon = GASTLY,23
+Pokemon = GASTLY,23
+#-------------------------------
+[CHANNELER,JODY]
+LoseText = Huh? Who? What?
+Pokemon = GASTLY,22
+#-------------------------------
+[CHANNELER,PAULA]
+LoseText = Where is the ghost?
+Pokemon = GASTLY,24
+#-------------------------------
+[CHANNELER,RUTH]
+LoseText = What a nightmare!
+Pokemon = GASTLY,22
+#-------------------------------
+[CHANNELER,TAMMY]
+LoseText = Gasp!
+Pokemon = HAUNTER,23
+#-------------------------------
+[CHANNELER,KARINA]
+LoseText = Ha?
+Pokemon = GASTLY,24
+#-------------------------------
+[CHANNELER,JANAE]
+LoseText = Whoo!
+Pokemon = GASTLY,22
+#-------------------------------
+[CHANNELER,ANGELICA]
+LoseText = Groan!
+Pokemon = GASTLY,22
+Pokemon = GASTLY,22
+Pokemon = GASTLY,22
+#-------------------------------
+[CHANNELER,JENNIFER]
+LoseText = Keee!
+Pokemon = GASTLY,24
+#-------------------------------
+[CHANNELER,EMILIA]
+LoseText = Something fell out!
+Pokemon = GASTLY,24
+#-------------------------------
+[TEAMROCKET_M,GRUNT,23]
+LoseText = ...
+Pokemon = GOLBAT,25
+Pokemon = ZUBAT,25
+Pokemon = ZUBAT,25
+Pokemon = RATICATE,25
+Pokemon = ZUBAT,25
+#-------------------------------
+[TEAMROCKET_M,GRUNT,24]
+LoseText = ...
+Pokemon = CUBONE,29
+Pokemon = ZUBAT,29
+#-------------------------------
+[TEAMROCKET_M,GRUNT,25]
+LoseText = ...
+Pokemon = RATICATE,28
+Pokemon = HYPNO,28
+Pokemon = RATICATE,28
+#-------------------------------
+[TEAMROCKET_M,GRUNT,26]
+LoseText = ...
+Pokemon = EKANS,28
+Pokemon = ZUBAT,28
+Pokemon = CUBONE,28
+#-------------------------------
+[TEAMROCKET_M,GRUNT,27]
+LoseText = ...
+Pokemon = MACHOP,29
+Pokemon = DROWZEE,29
+#-------------------------------
+[TEAMROCKET_M,GRUNT,28]
+LoseText = ...
+Pokemon = HYPNO,33
+#-------------------------------
+[TEAMROCKET_M,GRUNT,29]
+LoseText = ...
+Pokemon = ARBOK,33
+#-------------------------------
+[TEAMROCKET_M,GRUNT,30]
+LoseText = ...
+Pokemon = MACHOP,29
+Pokemon = MACHOKE,29
+#-------------------------------
+[TEAMROCKET_M,GRUNT,31]
+LoseText = ...
+Pokemon = ZUBAT,28
+Pokemon = ZUBAT,28
+Pokemon = GOLBAT,28
+#-------------------------------
+[TEAMROCKET_M,GRUNT,32]
+LoseText = ...
+Pokemon = CUBONE,29
+Pokemon = CUBONE,29
+#-------------------------------
+[TEAMROCKET_M,GRUNT,33]
+LoseText = ...
+Pokemon = RATICATE,26
+Pokemon = ZUBAT,26
+Pokemon = GOLBAT,26
+Pokemon = RATTATA,26
+#-------------------------------
+[TEAMROCKET_M,GRUNT,34]
+LoseText = ...
+Pokemon = SANDSHREW,29
+Pokemon = SANDSLASH,29
+#-------------------------------
+[TEAMROCKET_M,GRUNT,35]
+LoseText = ...
+Pokemon = RATICATE,26
+Pokemon = GOLBAT,26
+Pokemon = ARBOK,26
+Pokemon = KOFFING,26
+#-------------------------------
+[TEAMROCKET_M,GRUNT,36]
+LoseText = ...
+Pokemon = WEEZING,28
+Pokemon = GOLBAT,28
+Pokemon = KOFFING,28
+#-------------------------------
+[TEAMROCKET_M,GRUNT,37]
+LoseText = ...
+Pokemon = GOLBAT,28
+Pokemon = DROWZEE,28
+Pokemon = HYPNO,28
+#-------------------------------
+[TEAMROCKET_M,GRUNT,38]
+LoseText = ...
+Pokemon = DROWZEE,28
+Pokemon = GRIMER,28
+Pokemon = MACHOP,28
+#-------------------------------
+[TEAMROCKET_M,GRUNT,39]
+LoseText = ...
+Pokemon = MACHOKE,33
+#-------------------------------
+[TEAMROCKET_M,GRUNT,40]
+LoseText = ...
+Pokemon = RATTATA,25
+Pokemon = ZUBAT,25
+Pokemon = EKANS,25
+Pokemon = RATTATA,25
+Pokemon = RATTATA,25
+#-------------------------------
+[TEAMROCKET_M,GRUNT,41]
+LoseText = ...
+Pokemon = CUBONE,32
+Pokemon = DROWZEE,32
+Pokemon = MAROWAK,32
+#-------------------------------
+[ROCKETBOSS,GIOVANNI,2]
+LoseText = ...
+Pokemon = NIDORINO,37
+Pokemon = RHYHORN,37
+Pokemon = KANGASKHAN,35
+Pokemon = NIDOQUEEN,41
+#-------------------------------
+[SCIENTIST,JERRY]
+LoseText = ...
+Pokemon = MAGNEMITE,28
+Pokemon = VOLTORB,28
+Pokemon = MAGNETON,28
+#-------------------------------
+[SCIENTIST,CONNOR]
+LoseText = ...
+Pokemon = GRIMER,26
+Pokemon = WEEZING,26
+Pokemon = KOFFING,26
+Pokemon = WEEZING,26
+#-------------------------------
+[SCIENTIST,JOSE]
+LoseText = ...
+Pokemon = ELECTRODE,29
+Pokemon = WEEZING,29
+#-------------------------------
+[SCIENTIST,RODNEY]
+LoseText = ...
+Pokemon = ELECTRODE,33
+#-------------------------------
+[JUGGLER,DALTON]
+LoseText = ...
+Pokemon = KADABRA,29
+Pokemon = MRMIME,29
+#-------------------------------
+[SCIENTIST,BEAU]
+LoseText = ...
+Pokemon = MAGNETON,26
+Pokemon = MAGNEMITE,26
+Pokemon = KOFFING,26
+Pokemon = WEEZING,26
+#-------------------------------
+[SCIENTIST,TAYLOR]
+LoseText = ...
+Pokemon = VOLTORB,25
+Pokemon = KOFFING,25
+Pokemon = MAGNETON,25
+Pokemon = MAGNEMITE,25
+Pokemon = KOFFING,25
+#-------------------------------
+[SCIENTIST,JOSHUA]
+LoseText = ...
+Pokemon = ELECTRODE,29
+Pokemon = MUK,29
+#-------------------------------
+[SCIENTIST,PARKER]
+LoseText = ...
+Pokemon = GRIMER,29
+Pokemon = ELECTRODE,29
+#-------------------------------
+[SCIENTIST,ED]
+LoseText = ...
+Pokemon = VOLTORB,28
+Pokemon = MAGNETON,28
+Pokemon = KOFFING,28
+#-------------------------------
+[SCIENTIST,TRAVIS]
+LoseText = ...
+Pokemon = MAGNEMITE,29
+Pokemon = KOFFING,29
+#-------------------------------
+[TEAMROCKET_M,GRUNT,42]
+LoseText = Huh, what?
+Pokemon = CUBONE,37
+Pokemon = MAROWAK,37
+#-------------------------------
+[TEAMROCKET_M,GRUNT,43]
+LoseText = Wait! But how?
+Pokemon = RATTATA,35
+Pokemon = RATICATE,35
+Pokemon = SANDSHREW,35
+Pokemon = SANDSLASH,35
+#-------------------------------
+[TEAMROCKET_M,GRUNT,44]
+LoseText = We didn't plan on this!
+Pokemon = ZUBAT,38
+Pokemon = ZUBAT,38
+Pokemon = GOLBAT,38
+#-------------------------------
+[TEAMROCKET_F,GRUNT,45]
+LoseText = Oh, but... Too much!
+Pokemon = HOUNDOUR,49
+Pokemon = HOUNDOUR,49
+#-------------------------------
+[TEAMROCKET_M,GRUNT,46]
+LoseText = What do you think you're doing?!
+Pokemon = MACHOP,48
+Pokemon = MACHOP,48
+Pokemon = MACHOKE,48
+#-------------------------------
+[TEAMROCKET_M,GRUNT,47]
+LoseText = Don't... you... dare... laugh...
+Pokemon = HYPNO,49
+Pokemon = HYPNO,49
+#-------------------------------
+[TEAMROCKET_F,ADMIN,1]
+LoseText = I... I'm shattered
+Pokemon = MUK,52
+Pokemon = ARBOK,53
+Pokemon = VILEPLUME,54
+#-------------------------------
+[TEAMROCKET_M,ADMIN,2]
+LoseText = Urg... You were too strong... ... ... ... Th-that''s GIOVANNI's BADGE! So it's true? TEAM ROCKET really has disbanded?
+Pokemon = GOLBAT,53
+Pokemon = WEEZING,54
+Pokemon = HOUNDOOM,55
+#-------------------------------
+[SCIENTIST,GIDEON]
+LoseText = Gah! Darn! Darn! Darn!
+Pokemon = VOLTORB,46
+Pokemon = ELECTRODE,46
+Pokemon = MAGNEMITE,46
+Pokemon = MAGNETON,45
+Pokemon = PORYGON,46
+#-------------------------------
+[TEAMROCKET_M,GRUNT,48]
+LoseText = Is this for real?
+Pokemon = RATTATA,48
+Pokemon = GRIMER,48
+Pokemon = MUK,48
+#-------------------------------
+[TEAMROCKET_M,GRUNT,49]
+LoseText = That wasn't supposed to happen...
+Pokemon = EKANS,48
+Pokemon = GLOOM,48
+Pokemon = GLOOM,48
+#-------------------------------
+[TEAMROCKET_M,GRUNT,50]
+LoseText = Oh, that makes me furious!
+Pokemon = KOFFING,49
+Pokemon = WEEZING,49
+#-------------------------------
+[ELITEFOUR_Lorelei,LORELEI]
+LoseText = ...Things shouldn't be this way!
+Pokemon = DEWGONG,70
+Pokemon = CLOYSTER,72
+Pokemon = SLOWBRO,71
+Pokemon = NINETALES,72
+    Form = 1
+Pokemon = LAPRAS,73
+#-------------------------------
+[ELITEFOUR_Bruno,BRUNO]
+LoseText = Why? How could I lose?
+Pokemon = STEELIX,74
+Pokemon = STEELIX,74
+Pokemon = POLIWRATH,75
+Pokemon = HERACROSS,75
+Pokemon = MACHAMP,77
+#-------------------------------
+[ELITEFOUR_Agatha,AGATHA]
+LoseText = Oh, my! You're something special, child!
+Pokemon = GENGAR,78
+Pokemon = CROBAT,79
+Pokemon = TYPHLOSION,80
+    Form = 1
+Pokemon = WEEZING,80
+Pokemon = GENGAR,82
+#-------------------------------
+[ELITEFOUR_Lance,LANCE]
+LoseText = That's it! I hate to admit it, but you are a POKéMON master!
+Pokemon = GYARADOS,83
+Pokemon = DRAGONITE,84
+Pokemon = KINGDRA,85
+Pokemon = AERODACTYL,85
+Pokemon = DRAGONITE,86
+#-------------------------------
+[CHAMPION,BLUE]
+LoseText = NO! That can't be! You beat me at my best! After all that work to become the LEAGUE CHAMP? My reign is over already? It's not fair!
+Pokemon = PIDGEOT,89
+Pokemon = ALAKAZAM,88
+Pokemon = RHYDON,90
+Pokemon = EXEGGCUTE,92
+Pokemon = ARCANINE,93
+Pokemon = GYARADOS,95

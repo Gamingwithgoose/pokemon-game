@@ -1,0 +1,4 @@
+Name         = PickupOverhaul Extended
+Version      = 1.0
+Credits      = Goose
+Essentials   = 21.1

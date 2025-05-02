@@ -1,0 +1,5 @@
+Name         = Thief into Bag
+Version      = 1.1
+Credits      = Apples, Indian Animator
+Essentials   = 21
+Link         = https://www.reliccastle.com/resources/1037/

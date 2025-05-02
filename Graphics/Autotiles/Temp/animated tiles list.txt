@@ -1,0 +1,33 @@
+Outdoor
+x5 Deep Ocean
+x4 Strong Current
+x10 water rocks
+x5 shallow ocean water
+x2 Ocean (1 non surfable)
+x24 Ocean Shadows (12 non surfable)
+x29 Beach
+x2 Lake (1 fishing hole in winter)
+x12 Lake Shadows
+x6 Celadon Fountain
+x3 transparent steam variations
+x3 waterfall
+x1 bubbling lava
+x1 celadon gym flowers
+x2 generic flowers
+x2+ Mauville Flower variants
+x2+ Ever Grande Flower Variants
+
+
+
+
+Indoor
+Silph Co Fountain
+vermillion gym lazer wall
+mauville gym lazer wall
+sootopolis gym waterfalls
+elite 4 floor lights
+battle pyramid & dome things
+
+Underwater
+x1 Seaweed
+

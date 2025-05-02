@@ -1,0 +1,59 @@
+﻿# See the documentation on the wiki to learn how to edit this file.
+#-------------------------------
+[0]
+StartMoney = 3000
+StartItemStorage = POTION
+Home = 302,4,4,6
+StorageCreator = BILL
+WildBattleBGM = Battle wild
+TrainerBattleBGM = Battle trainer
+WildVictoryBGM = Battle victory wild
+TrainerVictoryBGM = Battle victory trainer
+#-------------------------------
+[1]
+TrainerType = POKEMONTRAINER_Red
+WalkCharset = trainer_POKEMONTRAINER_Red
+RunCharset = pc1_run
+CycleCharset = pc1_bike
+SurfCharset = pc1_surf
+FishCharset = pc1_fish_offset
+#-------------------------------
+[2]
+TrainerType = POKEMONTRAINER_Leaf
+WalkCharset = trainer_POKEMONTRAINER_Leaf
+RunCharset = pc2_run
+CycleCharset = pc2_bike
+SurfCharset = pc2_surf
+FishCharset = pc2_fish_offset
+#-------------------------------
+[3]
+TrainerType = POKEMONTRAINER_Ethan
+WalkCharset = trainer_POKEMONTRAINER_Ethan
+RunCharset = pc3_run
+CycleCharset = pc3_bike
+SurfCharset = pc3_surf
+FishCharset = pc3_fish_offset
+#-------------------------------
+[4]
+TrainerType = POKEMONTRAINER_Lyra
+WalkCharset = trainer_POKEMONTRAINER_Lyra
+RunCharset = pc4_run
+CycleCharset = pc4_bike
+SurfCharset = pc4_surf
+FishCharset = pc4_fish_offset
+#-------------------------------
+[5]
+TrainerType = POKEMONTRAINER_ORAS_Brendan
+WalkCharset = trainer_POKEMONTRAINER_ORAS_Brendan
+RunCharset = pc5_run
+CycleCharset = pc5_bike
+SurfCharset = pc5_surf
+FishCharset = pc5_fish_offset
+#-------------------------------
+[6]
+TrainerType = POKEMONTRAINER_ORAS_May
+WalkCharset = trainer_POKEMONTRAINER_ORAS_May
+RunCharset = pc6_run
+CycleCharset = pc6_bike
+SurfCharset = pc6_surf
+FishCharset = pc6_fish_offset

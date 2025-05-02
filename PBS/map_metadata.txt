@@ -1,0 +1,2845 @@
+﻿# See the documentation on the wiki to learn how to edit this file.
+#-------------------------------
+[001]   # Intro
+Name = Intro
+#-------------------------------
+[002]   # Region Transfer
+Name = Lappet Town
+Outdoor = true
+ShowArea = true
+MapPosition = 0,13,12
+BattleBack = field
+#-------------------------------
+[003]   # OneIsl. PokeCentre
+Name = ONE ISLAND NET CENTRE
+MapPosition = 8,5,11
+#-------------------------------
+[004]   # ThreeIsl. PokeMart
+Name = THREE ISLAND
+MapPosition = 8,22,15
+#-------------------------------
+[005]   # League (Scrap It)
+Name = INDIGO LEAGUE
+#-------------------------------
+[006]   # PALLET TOWN SUMMER
+Name = PALLET TOWN - SUMMER
+Outdoor = true
+ShowArea = true
+Bicycle = true
+HealingSpot = 6,12,7
+MapPosition = 1,8,13
+#-------------------------------
+[007]   # PALLET TOWN AUTUMN
+Name = PALLET TOWN - AUTUMN
+Outdoor = true
+ShowArea = true
+Bicycle = true
+HealingSpot = 7,12,7
+MapPosition = 2,8,13
+#-------------------------------
+[008]   # PALLET TOWN WINTER
+Name = PALLET TOWN - WINTER
+Outdoor = true
+ShowArea = true
+Bicycle = true
+HealingSpot = 8,12,7
+MapPosition = 3,8,13
+#-------------------------------
+[009]   # ROUTE 1 SPRING
+Name = ROUTE 1 - SPRING
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,8,11
+#-------------------------------
+[010]   # ROUTE 1 SUMMER
+Name = ROUTE 1 - SUMMER
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 1,8,11
+#-------------------------------
+[011]   # ROUTE 1 AUTUMN
+Name = ROUTE 1 - AUTUMN
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 2,8,11
+#-------------------------------
+[012]   # ROUTE 1 WINTER
+Name = ROUTE 1 - WINTER
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 3,8,11
+#-------------------------------
+[013]   # VIRIDIAN CITY SPRING
+Name = VIRIDIAN CITY - SPRING
+Outdoor = true
+ShowArea = true
+Bicycle = true
+HealingSpot = 13,26,26
+MapPosition = 0,8,10
+#-------------------------------
+[014]   # Pewter Poké Center
+Name = PEWTER CITY
+MapPosition = 0,8,6
+#-------------------------------
+[015]   # Viridian City Houses
+Name = VIRIDIAN CITY
+MapPosition = 0,8,10
+#-------------------------------
+[016]   # VIRIDIAN CITY SUMMER
+Name = VIRIDIAN CITY - SUMMER
+Outdoor = true
+ShowArea = true
+Bicycle = true
+HealingSpot = 16,26,26
+MapPosition = 1,8,10
+#-------------------------------
+[017]   # VIRIDIAN CITY AUTUMN
+Name = VIRIDIAN CITY - AUTUMN
+Outdoor = true
+ShowArea = true
+Bicycle = true
+HealingSpot = 17,26,26
+MapPosition = 2,8,10
+#-------------------------------
+[018]   # VIRIDIAN CITY WINTER
+Name = VIRIDIAN CITY - WINTER
+Outdoor = true
+ShowArea = true
+Bicycle = true
+HealingSpot = 18,26,26
+MapPosition = 3,8,10
+#-------------------------------
+[019]   # ROUTE 22 SPRING
+Name = ROUTE 22 - SPRING
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,6,10
+#-------------------------------
+[020]   # Pokemon League Front Gate
+Name = INDIGO LEAGUE RECEPTION GATE
+ShowArea = true
+MapPosition = 0,5,9
+#-------------------------------
+[021]   # ROUTE 22 SUMMER
+Name = ROUTE 22 - SUMMER
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 1,6,10
+BattleBack = field
+#-------------------------------
+[022]   # ROUTE 22 AUTUMN
+Name = ROUTE 22 - AUTUMN
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 2,6,10
+#-------------------------------
+[023]   # ROUTE 22 WINTER
+Name = ROUTE 22 - WINTER
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 3,6,10
+#-------------------------------
+[024]   # ROUTE 23 SPRING
+Name = ROUTE 23 - SPRING
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,5,8
+#-------------------------------
+[025]   # ROUTE 23 SUMMER
+Name = ROUTE 23 - SUMMER
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 1,5,8
+#-------------------------------
+[026]   # ROUTE 23 AUTUMN
+Name = ROUTE 23 - AUTUMN
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 2,5,8
+#-------------------------------
+[027]   # ROUTE 23 WINTER
+Name = ROUTE 23 - WINTER
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 3,5,8
+#-------------------------------
+[028]   # VICTORY ROAD 1
+Name = VICTORY ROAD
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,5,6
+BattleBack = field
+#-------------------------------
+[029]   # VICTORY ROAD 2
+Name = VICTORY ROAD
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,5,6
+#-------------------------------
+[030]   # VICTORY ROAD 3
+Name = VICTORY ROAD
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,5,6
+#-------------------------------
+[031]   # INDIGO PLATEAU SPRING
+Name = INDIGO PLATEAU - SPRING
+Outdoor = true
+ShowArea = true
+Bicycle = true
+HealingSpot = 31,13,6
+MapPosition = 0,5,5
+BattleBack = field
+#-------------------------------
+[032]   # Pokémon League
+Name = INDIGO PLATEAU
+MapPosition = 0,5,5
+#-------------------------------
+[033]   # INDIGO PLATEAU SUMMER
+Name = INDIGO PLATEAU - SUMMER
+Outdoor = true
+ShowArea = true
+Bicycle = true
+HealingSpot = 33,13,6
+MapPosition = 1,5,5
+#-------------------------------
+[034]   # INDIGO PLATEAU AUTUMN
+Name = INDIGO PLATEAU - AUTUMN
+Outdoor = true
+ShowArea = true
+Bicycle = true
+HealingSpot = 34,13,6
+MapPosition = 2,5,5
+#-------------------------------
+[035]   # INDIGO PLATEAU WINTER
+Name = INDIGO PLATEAU - WINTER
+Outdoor = true
+ShowArea = true
+Bicycle = true
+HealingSpot = 35,13,6
+MapPosition = 3,5,5
+#-------------------------------
+[036]   # Hall of Fame
+Name = INDIGO PLATEAU - HALL OF FAME
+MapPosition = 0,5,5
+#-------------------------------
+[037]   # ROUTE 2 SPRING
+Name = ROUTE 2 - SPRING
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,8,8
+#-------------------------------
+[038]   # Route 2 Interior
+Name = ROUTE 2
+MapPosition = 0,8,8
+#-------------------------------
+[039]   # ROUTE 2 SUMMER
+Name = ROUTE 2 - SUMMER
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 1,8,8
+#-------------------------------
+[040]   # ROUTE 2 AUTUMN
+Name = ROUTE 2 - AUTUMN
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 2,8,8
+#-------------------------------
+[041]   # ROUTE 2 WINTER
+Name = ROUTE 2 - WINTER
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 3,8,8
+#-------------------------------
+[042]   # VIRIDIAN FOREST SPRING
+Name = VIRIDAN FOREST - SPRING
+Outdoor = true
+Bicycle = true
+MapPosition = 0,8,8
+#-------------------------------
+[043]   # VIRIDIAN FOREST SUMMER
+Name = VIRIDIAN FOREST - SUMMER
+Outdoor = true
+Bicycle = true
+MapPosition = 1,8,8
+#-------------------------------
+[044]   # VIRIDIAN FOREST AUTUMN
+Name = VIRIDIAN FOREST - AUTUMN
+Outdoor = true
+Bicycle = true
+MapPosition = 2,8,8
+BattleBack = field
+#-------------------------------
+[045]   # VIRIDIAN FOREST WINTER
+Name = VIRIDIAN FOREST - WINTER
+Outdoor = true
+Bicycle = true
+MapPosition = 3,8,8
+#-------------------------------
+[046]   # DIGLETT'S CAVE
+Name = DIGLETT'S CAVE
+Bicycle = true
+MapPosition = 0,14,9
+#-------------------------------
+[047]   # PEWTER CITY SPRING
+Name = PEWTER CITY - SPRING
+Outdoor = true
+ShowArea = true
+Bicycle = true
+HealingSpot = 47,21,31
+MapPosition = 0,8,6
+#-------------------------------
+[048]   # Cerulean Poké Center
+Name = CERULEAN CITY
+MapPosition = 0,18,5
+#-------------------------------
+[049]   # Pewter City Houses
+Name = PEWTTER CITY
+Bicycle = true
+MapPosition = 0,8,6
+#-------------------------------
+[050]   # Pewter Museum
+Name = PEWTER MUSEUM
+ShowArea = true
+MapPosition = 0,8,6
+#-------------------------------
+[051]   # PEWTER CITY SUMMER
+Name = PEWTER CITY - SUMMER
+Outdoor = true
+ShowArea = true
+Bicycle = true
+HealingSpot = 51,21,31
+MapPosition = 1,8,6
+#-------------------------------
+[052]   # PEWTER CITY AUTUMN
+Name = PEWTER CITY - AUTUMN
+Outdoor = true
+ShowArea = true
+Bicycle = true
+HealingSpot = 52,21,31
+MapPosition = 2,8,6
+#-------------------------------
+[053]   # PEWTER CITY WINTER
+Name = PEWTER CITY - WINTER
+Outdoor = true
+ShowArea = true
+Bicycle = true
+HealingSpot = 53,21,31
+MapPosition = 3,8,6
+#-------------------------------
+[054]   # ROUTE 3 SPRING
+Name = ROUTE 3 - SPRING
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,10,6
+#-------------------------------
+[055]   # ROUTE 3 SUMER
+Name = BROUTE 3 - SUMMER
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 1,10,6
+#-------------------------------
+[056]   # ROUTE 3 AUTUMN
+Name = ROUTE 3 - AUTUMN
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 2,10,6
+#-------------------------------
+[057]   # ROUTE 3 WINTER
+Name = ROUTE 3 - WINTER
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 3,10,6
+#-------------------------------
+[058]   # ROUTE 4 SPRING
+Name = ROUTE 4 - SPRING
+Outdoor = true
+ShowArea = true
+Bicycle = true
+HealingSpot = 58,62,19
+MapPosition = 0,15,5
+#-------------------------------
+[059]   # Route 4 Interior
+Name = ROUTE 4
+MapPosition = 0,12,5
+#-------------------------------
+[060]   # MT. MOON 1
+Name = MT. MOON
+Bicycle = true
+MapPosition = 0,13,5
+#-------------------------------
+[061]   # MT. MOON 2
+Name = MT. MOON
+Bicycle = true
+MapPosition = 0,13,5
+#-------------------------------
+[062]   # MT. MOON 3
+Name = MT. MOON
+Bicycle = true
+MapPosition = 0,13,5
+#-------------------------------
+[063]   # ROUTE 4 SUMMER
+Name = ROUTE 4 - SUMMER
+Outdoor = true
+ShowArea = true
+Bicycle = true
+HealingSpot = 63,62,19
+MapPosition = 1,15,5
+#-------------------------------
+[064]   # ROUTE 4 AUTUMN
+Name = ROUTE 4 - AUTUMN
+Outdoor = true
+ShowArea = true
+Bicycle = true
+HealingSpot = 64,62,19
+MapPosition = 2,15,5
+#-------------------------------
+[065]   # ROUTE 4 WINTER
+Name = ROUTE 4 - WINTER
+Outdoor = true
+ShowArea = true
+Bicycle = true
+HealingSpot = 65,62,19
+MapPosition = 3,15,5
+#-------------------------------
+[066]   # CERULEAN CITY SPRING
+Name = CERULEAN CITY - SPRING
+Outdoor = true
+ShowArea = true
+Bicycle = true
+HealingSpot = 66,22,19
+MapPosition = 0,18,5
+BattleBack = field
+#-------------------------------
+[067]   # Vermilion Poké Center
+Name = VERMILION CITY
+MapPosition = 0,18,11
+#-------------------------------
+[068]   # Cerulean City Houses
+Name = CERULEAN CITY
+MapPosition = 0,18,5
+#-------------------------------
+[069]   # Cerulean Bike Shop
+Name = CERULEAN CITY
+MapPosition = 0,18,5
+#-------------------------------
+[070]   # CERULEAN CITY SUMMER
+Name = CERULEAN CITY - SUMMER
+Outdoor = true
+ShowArea = true
+Bicycle = true
+HealingSpot = 70,22,19
+MapPosition = 1,18,5
+#-------------------------------
+[071]   # CERULEAN CITY AUTUMN
+Name = CERULEAN CITY - AUTUMN
+Outdoor = true
+ShowArea = true
+Bicycle = true
+HealingSpot = 71,22,19
+MapPosition = 2,18,5
+#-------------------------------
+[072]   # CERULEAN CITY WINTER
+Name = CERULEAN CITY - WINTER
+Outdoor = true
+ShowArea = true
+Bicycle = true
+HealingSpot = 72,22,19
+MapPosition = 3,18,5
+#-------------------------------
+[073]   # CERULEAN CAVE 1
+Name = CERULEAN CAVE
+Bicycle = true
+MapPosition = 0,18,5
+#-------------------------------
+[074]   # CERULEAN CAVE 2
+Name = CERULEAN CAVE
+Bicycle = true
+MapPosition = 0,18,5
+#-------------------------------
+[075]   # CERULEAN CAVE 3
+Name = CERULEAN CAVE
+Bicycle = true
+MapPosition = 0,18,5
+#-------------------------------
+[076]   # ROUTE 24 SPRING
+Name = ROUTE 24 - SPRING
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,18,4
+#-------------------------------
+[077]   # ROUTE 24 SUMMER
+Name = ROUTE 24 - SUMMER
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 1,18,4
+#-------------------------------
+[078]   # ROUTE 24 AUTUMN
+Name = ROUTE 24 - AUTUMN
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 2,18,4
+#-------------------------------
+[079]   # ROUTE 24 WINTER
+Name = ROUTE 24 - WINTER
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 3,18,4
+#-------------------------------
+[080]   # ROUTE 25 SPRING
+Name = ROUTE 25 - SPRING
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,19,3
+#-------------------------------
+[081]   # Seaside Cottage
+Name = SEA COTTAGE
+MapPosition = 0,20,3
+#-------------------------------
+[082]   # ROUTE 25 SUMMER
+Name = ROUTE 25 - SUMMER
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 1,19,3
+#-------------------------------
+[083]   # ROUTE 25 AUTUMN
+Name = ROUTE 25 - AUTUMN
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 2,19,3
+#-------------------------------
+[084]   # ROUTE 25 WINTER
+Name = ROUTE 25 - WINTER
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 2,19,3
+#-------------------------------
+[085]   # ROUTE 5 SPRING
+Name = ROUTE 5 - SPRING
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,18,6
+#-------------------------------
+[086]   # Route 5 Interior
+Name = ROUTE 5
+MapPosition = 0,18,7
+#-------------------------------
+[087]   # ROUTE 5 SUMMER
+Name = ROUTE 5 - SUMMER
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 1,18,6
+#-------------------------------
+[088]   # ROUTE 5 AUTUMN
+Name = ROUTE 5 - AUTUMN
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 2,18,6
+#-------------------------------
+[089]   # ROUTE 5 WINTER
+Name = ROUTE 5 - WINTER
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 3,18,6
+#-------------------------------
+[090]   # UNDERGOUND PATH
+Name = UNDERGOUND PATH
+Bicycle = true
+MapPosition = 0,18,8
+#-------------------------------
+[091]   # ROUTE 9 SPRING
+Name = ROUTE 9 - SPRING
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,20,5
+#-------------------------------
+[092]   # ROUTE 9 SUMMER
+Name = ROUTE 9 - SUMMER
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 1,20,5
+#-------------------------------
+[093]   # ROUTE 9 AUTUMN
+Name = ROUTE 9 - AUTUMN
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 2,20,5
+#-------------------------------
+[094]   # ROUTE 9 WINTER
+Name = ROUTE 9 - WINTER
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 3,20,5
+#-------------------------------
+[095]   # ROUTE 10 SPRING
+Name = ROUTE 10 - SPRING
+Outdoor = true
+ShowArea = true
+Bicycle = true
+HealingSpot = 95,13,25
+MapPosition = 0,22,6
+#-------------------------------
+[096]   # Route 10 Interior
+Name = Route 10 Interior
+MapPosition = 0,22,5
+#-------------------------------
+[097]   # ROCK TUNNEL 1
+Name = ROCK TUNNEL
+Bicycle = true
+MapPosition = 0,22,5
+DarkMap = true
+#-------------------------------
+[098]   # ROCK TUNNEL 2
+Name = ROCK TUNNEL
+Bicycle = true
+MapPosition = 0,22,5
+DarkMap = true
+#-------------------------------
+[099]   # POWER PLANT
+Name = POWER PLANT
+MapPosition = 0,22,6
+#-------------------------------
+[100]   # ROUTE 10 SUMMER
+Name = ROUTE 10 - SUMMER
+Outdoor = true
+ShowArea = true
+Bicycle = true
+HealingSpot = 100,13,25
+MapPosition = 1,22,6
+#-------------------------------
+[101]   # ROUTE 10 AUTUMN
+Name = ROUTE 10 - AUTUMN
+Outdoor = true
+ShowArea = true
+Bicycle = true
+HealingSpot = 101,13,25
+MapPosition = 2,22,6
+#-------------------------------
+[102]   # ROUTE 10 WINTER
+Name = ROUTE 10 - WINTER
+Outdoor = true
+ShowArea = true
+Bicycle = true
+HealingSpot = 102,13,25
+MapPosition = 3,22,6
+#-------------------------------
+[103]   # LAVENDER TOWN SPRING
+Name = LAVENDER TOWN - SPRING
+Outdoor = true
+ShowArea = true
+Bicycle = true
+HealingSpot = 103,6,5
+MapPosition = 0,22,8
+#-------------------------------
+[104]   # Celadon Poké Center
+Name = CELADON CITY
+MapPosition = 0,15,8
+#-------------------------------
+[105]   # Lavender Town Houses
+Name = LAVENDER TOWN
+MapPosition = 0,22,8
+#-------------------------------
+[106]   # POKEMON TOWER G
+Name = POKEMON TOWER
+MapPosition = 0,22,8
+#-------------------------------
+[107]   # Pokemon Tower 2F
+Name = POKEMON TOWER - 2F
+MapPosition = 0,22,8
+#-------------------------------
+[108]   # Pokemon Tower 3F
+Name = POKEMON TOWER - 3F
+Weather = Fog,100
+MapPosition = 0,22,8
+#-------------------------------
+[109]   # Pokemon Tower 4F
+Name = POKEMON TOWER - 4F
+Weather = Fog,100
+MapPosition = 0,22,8
+#-------------------------------
+[110]   # Pokemon Tower 5F
+Name = POKEMON TOWER - 5F
+Weather = Fog,100
+MapPosition = 0,22,8
+#-------------------------------
+[111]   # Pokemon Tower 6F
+Name = POKEMON TOWER - 6F
+Weather = Fog,100
+MapPosition = 0,22,8
+#-------------------------------
+[112]   # Pokemon Tower 7F
+Name = POKEMON TOWER - 7F
+Weather = Fog,100
+MapPosition = 0,22,8
+#-------------------------------
+[113]   # LAVENDER TOWN SUMMER
+Name = LAVENDER TOWN - SUMMER
+Outdoor = true
+ShowArea = true
+Bicycle = true
+HealingSpot = 113,6,5
+MapPosition = 1,22,8
+#-------------------------------
+[114]   # LAVENDER TOWN AUTUMN
+Name = LAVENDER TOWN - AUTUMN
+Outdoor = true
+ShowArea = true
+Bicycle = true
+HealingSpot = 114,6,5
+MapPosition = 2,22,8
+#-------------------------------
+[115]   # LAVENDER TOWN WINTER
+Name = LAVENDER TOWN - WINTER
+Outdoor = true
+ShowArea = true
+Bicycle = true
+HealingSpot = 115,6,5
+MapPosition = 3,22,8
+#-------------------------------
+[116]   # ROUTE 8 SPRING
+Name = ROUTE 8 - SPRING
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,20,8
+#-------------------------------
+[117]   # Route 8 Interior
+Name = ROUTE 8
+MapPosition = 0,19,8
+#-------------------------------
+[118]   # ROUTE 8 SUMMER
+Name = ROUTE 8 - SUMMER
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 1,20,8
+#-------------------------------
+[119]   # ROUTE 8 AUTUMN
+Name = ROUTE 8 - AUTUMN
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 2,20,8
+#-------------------------------
+[120]   # ROUTE 8 WINTER
+Name = ROUTE 8 - WINTER
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 3,20,8
+#-------------------------------
+[121]   # ROUTE 12 SPRING
+Name = ROUTE 12 - SPRING
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,22,11
+#-------------------------------
+[122]   # Route 12 Interior
+Name = ROUTE 12
+MapPosition = 0,22,11
+#-------------------------------
+[123]   # ROUTE 12 SUMMER
+Name = ROUTE 12 - SUMMER
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 1,22,11
+#-------------------------------
+[124]   # ROUTE 12 AUTUMN
+Name = ROUTE 12 - AUTUMN
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 2,22,11
+#-------------------------------
+[125]   # ROUTE 12 WINTER
+Name = ROUTE 12 - WINTER
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 3,22,11
+#-------------------------------
+[126]   # ROUTE 11 SPRING
+Name = ROUTE 11 - SPRING
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,20,11
+#-------------------------------
+[127]   # Route 11 gate
+Name = ROUTE 11
+MapPosition = 0,21,11
+#-------------------------------
+[128]   # ROUTE 11 SUMMER
+Name = ROUTE 11 - SUMMER
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 1,20,11
+#-------------------------------
+[129]   # ROUTE 11 AUTUMN
+Name = ROUTE 11 - AUTUMN
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 2,20,11
+#-------------------------------
+[130]   # ROUTE 11 WINTER
+Name = ROUTE 11 - WINTER
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 3,20,11
+#-------------------------------
+[131]   # VERMILION CITY SPRING
+Name = VERMILION CITY - SPRING
+Outdoor = true
+ShowArea = true
+Bicycle = true
+HealingSpot = 131,20,6
+MapPosition = 0,18,11
+#-------------------------------
+[132]   # Lavender Poké Center
+Name = LAVENDER TOWN
+MapPosition = 0,22,8
+#-------------------------------
+[133]   # Vermilion City Houses
+Name = VERMILION CITY
+MapPosition = 0,18,11
+#-------------------------------
+[134]   # VERMILION CITY SUMMER
+Name = VERMILION CITY - SUMMER
+Outdoor = true
+ShowArea = true
+Bicycle = true
+HealingSpot = 134,20,6
+MapPosition = 1,18,11
+#-------------------------------
+[135]   # VERMILION CITY AUTUMN
+Name = VERMILION CITY - AUTUMN
+Outdoor = true
+ShowArea = true
+Bicycle = true
+HealingSpot = 135,20,6
+MapPosition = 2,18,11
+#-------------------------------
+[136]   # VERMILION CITY WINTER
+Name = VERMILION CITY - WINTER
+Outdoor = true
+ShowArea = true
+Bicycle = true
+HealingSpot = 136,20,6
+MapPosition = 3,18,11
+#-------------------------------
+[137]   # ROUTE 6 SPRING
+Name = ROUTE 6 - SPRING
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,18,9
+#-------------------------------
+[138]   # Route 6 Interior
+Name = ROUTE 6
+MapPosition = 0,18,9
+#-------------------------------
+[139]   # ROUTE 6 SUMMER
+Name = ROUTE 6 - SUMMER
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 1,18,9
+#-------------------------------
+[140]   # ROUTE 6 AUTUMN
+Name = ROUTE 6 - AUTUMN
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 2,18,9
+#-------------------------------
+[141]   # ROUTE 6 WINTER
+Name = ROUTE 6 - SUMMER
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 3,18,9
+#-------------------------------
+[142]   # ROUTE 13 SPRING
+Name = ROUTE 13 - SPRING
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,20,13
+#-------------------------------
+[143]   # ROUTE 13 SUMMER
+Name = ROUTE 13 - SUMMER
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 1,20,13
+#-------------------------------
+[144]   # ROUTE 13 AUTUMN
+Name = ROUTE 13 - AUTUMN
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 2,20,13
+#-------------------------------
+[145]   # ROUTE 13 WINTER
+Name = ROUTE 13 - WINTER
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 3,20,13
+#-------------------------------
+[146]   # ROUTE 14 SPRING
+Name = ROUTE 14 - SPRING
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,19,13
+#-------------------------------
+[147]   # ROUTE 14 SUMMER
+Name = ROUTE 14 - SUMMER
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 1,19,13
+#-------------------------------
+[148]   # ROUTE 14 AUTUMN
+Name = ROUTE 14 - AUTUMN
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 2,19,13
+#-------------------------------
+[149]   # ROUTE 14 WINTER
+Name = ROUTE 14 - WINTER
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 3,19,13
+#-------------------------------
+[150]   # ROUTE 15 SPRING
+Name = ROUTE 15 - SPRING
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,18,14
+#-------------------------------
+[151]   # Route 15 Interior
+Name = ROUTE 15
+MapPosition = 0,17,14
+#-------------------------------
+[152]   # ROUTE 15 SUMMER
+Name = ROUTE 15 - SUMMER
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 1,18,14
+#-------------------------------
+[153]   # ROUTE 15 AUTUMN
+Name = ROUTE 15 - AUTUMN
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 2,18,14
+#-------------------------------
+[154]   # ROUTE 15 WINTER
+Name = ROUTE 15 - WINTER
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 3,18,14
+#-------------------------------
+[155]   # FUCHSIA CITY SPRING
+Name = FUCHSIA CITY - SPRING
+Outdoor = true
+ShowArea = true
+Bicycle = true
+HealingSpot = 155,25,32
+MapPosition = 0,16,14
+#-------------------------------
+[156]   # Saffron Poké Center
+Name = SAFFRON CITY
+MapPosition = 0,18,8
+#-------------------------------
+[157]   # Fuchsia City Houses
+Name = FUCHSIA CITY
+MapPosition = 0,16,14
+#-------------------------------
+[158]   # FUCHSIA CITY SUMMER
+Name = FUCHSIA CITY - SUMMER
+Outdoor = true
+ShowArea = true
+Bicycle = true
+HealingSpot = 158,25,32
+MapPosition = 1,16,14
+#-------------------------------
+[159]   # FUCHSIA CITY AUTUMN
+Name = FUCHSIA CITY - AUTUMN
+Outdoor = true
+ShowArea = true
+Bicycle = true
+HealingSpot = 159,25,32
+MapPosition = 2,16,14
+#-------------------------------
+[160]   # FUCHSIA CITY WINTER
+Name = FUCHSIA CITY - WINTER
+Outdoor = true
+ShowArea = true
+Bicycle = true
+HealingSpot = 160,25,32
+MapPosition = 3,16,14
+#-------------------------------
+[161]   # FILLER
+Name = VERMILION HARBOUR - SPRING
+Outdoor = true
+ShowArea = true
+Bicycle = true
+#-------------------------------
+[162]   # S.S. Anne main
+Name = S.S. ANNE
+MapPosition = 0,17,11
+#-------------------------------
+[163]   # S.S. Anne 2F
+Name = S.S. ANNE
+MapPosition = 0,17,11
+#-------------------------------
+[164]   # S.S. Anne 3F
+Name = S.S. ANNE
+MapPosition = 0,17,11
+#-------------------------------
+[165]   # S.S. Anne BF
+Name = S.S. ANNE
+MapPosition = 0,17,11
+#-------------------------------
+[166]   # S.S. Anne Deck
+Name = S.S. ANNE
+Outdoor = true
+MapPosition = 0,17,11
+#-------------------------------
+[167]   # S.S. Anne Rooms
+Name = S.S. ANNE
+MapPosition = 0,17,11
+#-------------------------------
+[168]   # S.S. ANNE
+Name = VERMILION HARBOUR - SUMMER
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,17,11
+#-------------------------------
+[169]   # South Filler Spring
+Name = VERMILION HARBOUR - AUTUMN
+Outdoor = true
+ShowArea = true
+Bicycle = true
+#-------------------------------
+[170]   # South Filler Summer
+Name = VERMILION HARBOUR - WINTER
+Outdoor = true
+ShowArea = true
+Bicycle = true
+#-------------------------------
+[171]   # SAFARI ZONE 1 SPRING
+Name = ZONE 1 - SPRING
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,16,13
+SafariMap = true
+#-------------------------------
+[172]   # SAFARI ZONE 1 SUMMER
+Name = ZONE 1 - SUMMER
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 1,16,13
+SafariMap = true
+#-------------------------------
+[173]   # SAFARI ZONE 1 AUTUMN
+Name = ZONE 1 - AUTUMN
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 2,16,13
+SafariMap = true
+#-------------------------------
+[174]   # SAFARI ZONE 1 WINTER
+Name = ZONE 1 - WINTER
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 3,16,13
+SafariMap = true
+#-------------------------------
+[175]   # SAFARI ZONE 2 SUMMER
+Name = ZONE 2 - SUMMER
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 1,16,13
+SafariMap = true
+#-------------------------------
+[176]   # SAFARI ZONE 2 SPRING
+Name = ZONE 2 - SPRING
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,16,13
+SafariMap = true
+#-------------------------------
+[177]   # SAFARI ZONE 2 AUTUMN
+Name = ZONE 2 - AUTUMN
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 2,16,13
+SafariMap = true
+#-------------------------------
+[178]   # SAFARI ZONE 2 WINTER
+Name = ZONE 2 - WINTER
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 3,16,13
+SafariMap = true
+#-------------------------------
+[179]   # SAFARI ZONE 3 SUMMER
+Name = ZONE 3 - SUMMER
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 1,16,13
+SafariMap = true
+#-------------------------------
+[180]   # SAFARI ZONE 3 SPRING
+Name = ZONE 3 - SPRING
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,16,13
+SafariMap = true
+#-------------------------------
+[181]   # SAFARI ZONE 3 AUTUMN
+Name = ZONE 3 - AUTUMN
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 2,16,13
+SafariMap = true
+#-------------------------------
+[182]   # SAFARI ZONE 3 WINTER
+Name = ZONE 3 - WINTER
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 3,16,13
+SafariMap = true
+#-------------------------------
+[183]   # SAFARI ZONE 4 SUMMER
+Name = ZONE 4 - SUMMER
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 1,16,13
+SafariMap = true
+#-------------------------------
+[184]   # SAFARI ZONE 4 SPRING
+Name = ZONE 4 - SPRING
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,16,13
+SafariMap = true
+#-------------------------------
+[185]   # SAFARI ZONE 4 AUTUMN
+Name = ZONE 4 - AUTUMN
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 2,16,13
+SafariMap = true
+#-------------------------------
+[186]   # SAFARI ZONE 4 WINTER
+Name = ZONE 4 - WINTER
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 3,16,13
+SafariMap = true
+#-------------------------------
+[187]   # ROUTE 18 SPRING
+Name = ROUTE 18 - SPRING
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,13,14
+#-------------------------------
+[188]   # SAFARI ZONE Interior
+Name = SAFARI ZONE
+MapPosition = 0,16,13
+#-------------------------------
+[189]   # Route 18 Interior
+Name = ROUTE 18
+MapPosition = 0,13,14
+#-------------------------------
+[190]   # CYCLE SPRING
+Name = ROUTE 18 - SPRING
+Outdoor = true
+ShowArea = true
+Bicycle = true
+BicycleAlways = true
+MapPosition = 0,11,14
+#-------------------------------
+[191]   # ROUTE 18 SUMMER
+Name = ROUTE 18 - SUMMER
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 1,13,14
+#-------------------------------
+[192]   # ROUTE 18 AUTUMN
+Name = ROUTE 18 - AUTUMN
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 2,13,14
+#-------------------------------
+[193]   # ROUTE 18 WINTER
+Name = ROUTE 18 - WINTER
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 3,13,14
+#-------------------------------
+[194]   # CYCLE SUMMER
+Name = ROUTE 18 - SUMMMER
+Outdoor = true
+ShowArea = true
+Bicycle = true
+BicycleAlways = true
+MapPosition = 1,11,14
+#-------------------------------
+[195]   # CYCLE AUTUMN
+Name = ROUTE 18 - AUTUMN
+Outdoor = true
+ShowArea = true
+Bicycle = true
+BicycleAlways = true
+MapPosition = 2,11,14
+#-------------------------------
+[196]   # CYCLE WINTER
+Name = ROUTE 18 - WINTER
+Outdoor = true
+ShowArea = true
+Bicycle = true
+BicycleAlways = true
+MapPosition = 3,11,14
+#-------------------------------
+[197]   # ROUTE 17 SPRING
+Name = ROUTE 17 - SPRING
+Outdoor = true
+ShowArea = true
+Bicycle = true
+BicycleAlways = true
+MapPosition = 0,11,11
+#-------------------------------
+[198]   # ROUTE 17 SUMMER
+Name = ROUTE 17 - SUMMER
+Outdoor = true
+ShowArea = true
+Bicycle = true
+BicycleAlways = true
+MapPosition = 1,11,11
+#-------------------------------
+[199]   # ROUTE 17 AUTUMN
+Name = ROUTE 17 - AUTUMN
+Outdoor = true
+ShowArea = true
+Bicycle = true
+BicycleAlways = true
+MapPosition = 2,11,11
+#-------------------------------
+[200]   # ROUTE 17 WINTER
+Name = ROUTE 17 - WINTER
+Outdoor = true
+ShowArea = true
+Bicycle = true
+BicycleAlways = true
+MapPosition = 3,11,11
+#-------------------------------
+[201]   # ROUTE 16 SPRING
+Name = ROUTE 16 - SPRING
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,13,8
+#-------------------------------
+[202]   # Route 16 Interior
+Name = ROUTE 16
+MapPosition = 0,11,8
+#-------------------------------
+[203]   # CYCLE SPRING
+Name = ROUTE 16 - SPRING
+Outdoor = true
+ShowArea = true
+Bicycle = true
+BicycleAlways = true
+MapPosition = 0,11,8
+#-------------------------------
+[204]   # ROUTE 16 SUMMER
+Name = ROUTE 16 - SUMMER
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 1,13,8
+#-------------------------------
+[205]   # ROUTE 16 AUTUMN
+Name = ROUTE 16 - AUTUMN
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 2,13,8
+#-------------------------------
+[206]   # ROUTE 16 WINTER
+Name = ROUTE 16 - WINTER
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 3,13,8
+#-------------------------------
+[207]   # CYCLE SUMMER
+Name = ROUTE 16 - SUMMER
+Outdoor = true
+ShowArea = true
+Bicycle = true
+BicycleAlways = true
+MapPosition = 1,11,8
+#-------------------------------
+[208]   # CYCLE AUTUMN
+Name = ROUTE 16 - AUTUMN
+Outdoor = true
+ShowArea = true
+Bicycle = true
+BicycleAlways = true
+MapPosition = 2,11,8
+#-------------------------------
+[209]   # CYCLE WINTER
+Name = ROUTE 16 - WINTER
+Outdoor = true
+ShowArea = true
+Bicycle = true
+BicycleAlways = true
+MapPosition = 3,11,8
+#-------------------------------
+[210]   # CELADON CITY SPRING
+Name = CELADON CITY - SPRING
+Outdoor = true
+ShowArea = true
+Bicycle = true
+HealingSpot = 210,48,17
+MapPosition = 0,15,8
+#-------------------------------
+[211]   # Fuchsia Poké Center
+Name = FUCHSIA CITY
+MapPosition = 0,16,14
+#-------------------------------
+[212]   # Celadon Dept.Store
+Name = CELADON DEPT. STORE
+MapPosition = 0,15,8
+#-------------------------------
+[213]   # Celadon Houses
+Name = CELADON CITY
+MapPosition = 0,15,8
+#-------------------------------
+[214]   # Game Corner
+Name = ROCKET GAME CORNER
+MapPosition = 0,15,8
+#-------------------------------
+[215]   # ROCKET HIDEOUT
+Name = ROCKET HIDEOUT
+MapPosition = 0,15,8
+#-------------------------------
+[216]   # CELADON CITY SUMMER
+Name = CELADON CITY - SUMMER
+Outdoor = true
+ShowArea = true
+Bicycle = true
+HealingSpot = 216,48,17
+MapPosition = 1,15,8
+#-------------------------------
+[217]   # CELADON CITY AUTUMN
+Name = CELADON CITY - AUTUMN
+Outdoor = true
+ShowArea = true
+Bicycle = true
+HealingSpot = 217,48,17
+MapPosition = 2,15,8
+#-------------------------------
+[218]   # CELADON CITY WINTER
+Name = CELADON CITY - WINTER
+Outdoor = true
+ShowArea = true
+Bicycle = true
+HealingSpot = 218,48,17
+MapPosition = 3,15,8
+#-------------------------------
+[219]   # ROUTE 7 SPRING
+Name = ROUTE 7 - SPRING
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,17,8
+#-------------------------------
+[220]   # Route 7 Interior
+Name = ROUTE 7
+MapPosition = 0,17,8
+#-------------------------------
+[221]   # ROUTE 7 SUMMER
+Name = ROUTE 7 - SUMMER
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 1,17,8
+#-------------------------------
+[222]   # ROUTE 7 AUTUMN
+Name = ROUTE 7 - AUTUMN
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 2,17,8
+#-------------------------------
+[223]   # ROUTE 7 WINTER
+Name = ROUET 7 - WINTER
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 3,17,8
+#-------------------------------
+[224]   # SAFFRON CITY SPRING
+Name = SAFFRON CITY - SPRING
+Outdoor = true
+ShowArea = true
+Bicycle = true
+HealingSpot = 224,24,39
+MapPosition = 0,18,8
+#-------------------------------
+[225]   # Cinnabar Poké Center
+Name = CINNABAR ISLAND
+MapPosition = 0,8,16
+#-------------------------------
+[226]   # Saffron City Houses
+Name = SAFFRON CITY
+MapPosition = 0,18,8
+#-------------------------------
+[227]   # SAFFRON CITY SUMMER
+Name = SAFFRON CITY - SUMMER
+Outdoor = true
+ShowArea = true
+Bicycle = true
+HealingSpot = 227,24,39
+MapPosition = 1,18,8
+#-------------------------------
+[228]   # SAFFRON CITY AUTUMN
+Name = SAFFRON CITY - AUTUMN
+Outdoor = true
+ShowArea = true
+Bicycle = true
+HealingSpot = 228,24,39
+MapPosition = 2,18,8
+#-------------------------------
+[229]   # SAFFRON CITY WINTER
+Name = SAFFRON CITY - WINTER
+Outdoor = true
+ShowArea = true
+Bicycle = true
+HealingSpot = 229,24,39
+MapPosition = 3,18,8
+#-------------------------------
+[230]   # ROUTE 19 SPRING
+Name = ROUTE 19 - SPRING
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,16,15
+#-------------------------------
+[231]   # ROUTE 19 SUMMER
+Name = ROUTE 19 - SUMMER
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 1,16,15
+#-------------------------------
+[232]   # ROUTE 19 AUTUMN
+Name = ROUTE 19 - AUTUMN
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 2,16,15
+#-------------------------------
+[233]   # ROUTE 19 WINTER
+Name = ROUTE 19 - WINTER
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 3,16,15
+#-------------------------------
+[234]   # ROUTE 20 SPRING
+Name = ROUTE 20 - SPRING
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,13,16
+#-------------------------------
+[235]   # SEAFOAM ISLANDS
+Name = SEAFOAM ISLANDS
+Bicycle = true
+MapPosition = 0,12,16
+#-------------------------------
+[236]   # ROUTE 20 SUMMER
+Name = ROUTE 20 - SUMMER
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 1,13,16
+#-------------------------------
+[237]   # ROUTE 20 AUTUMN
+Name = ROUTE 20 - AUTUMN
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 2,13,16
+#-------------------------------
+[238]   # ROUTE 20 WINTER
+Name = ROUTE 20 - WINTER
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 3,13,16
+#-------------------------------
+[239]   # Seafoam Islands 2
+Name = SEAFOAM ISLANDS
+Bicycle = true
+MapPosition = 0,12,16
+#-------------------------------
+[240]   # Seafoam Islands 3
+Name = SEAFOAM ISLANDS
+Bicycle = true
+MapPosition = 0,12,16
+#-------------------------------
+[241]   # Seafoam Islands 4
+Name = SEAFOAM ISLANDS
+Bicycle = true
+MapPosition = 0,12,16
+#-------------------------------
+[242]   # Seafoam Islands 5
+Name = SEAFOAM ISLANDS
+Bicycle = true
+MapPosition = 0,12,16
+#-------------------------------
+[243]   # SILPH CO.
+Name = SILPH CO.
+ShowArea = true
+MapPosition = 0,18,8
+#-------------------------------
+[244]   # CINNABAR ISLAND SPRING
+Name = CINNIBAR ISLAND - SPRING
+Outdoor = true
+ShowArea = true
+Bicycle = true
+HealingSpot = 244,20,11
+MapPosition = 0,8,16
+#-------------------------------
+[245]   # TwoIsl. Poké Center
+Name = TWO ISLAND
+MapPosition = 8,13,12
+#-------------------------------
+[246]   # Cinnibar Pokemon Lab
+Name = CINNIBAR POKEMON LAB
+MapPosition = 0,8,16
+#-------------------------------
+[247]   # POKEMON MANSION
+Name = POKEMON MANSION
+ShowArea = true
+MapPosition = 0,8,16
+#-------------------------------
+[248]   # FIVE ISLAND SPRING
+Name = FIVE ISLAND - SPRING
+Outdoor = true
+ShowArea = true
+Bicycle = true
+HealingSpot = 248,24,7
+MapPosition = 12,20,14
+#-------------------------------
+[249]   # PokeCentre
+Name = FIVE ISLAND POKEMON CENTRE
+MapPosition = 12,20,14
+#-------------------------------
+[250]   # Pokemon Mansion BF
+Name = POKEMON MANSION
+ShowArea = true
+MapPosition = 0,8,16
+#-------------------------------
+[251]   # CINNABAR ISLAND SUMMER
+Name = CINNIBAR ISLAND - SUMMMER
+Outdoor = true
+ShowArea = true
+Bicycle = true
+HealingSpot = 251,20,11
+MapPosition = 1,8,16
+#-------------------------------
+[252]   # CINNABAR ISLAND AUTUMN
+Name = CINIBAR ISLAND - AUTUMN
+Outdoor = true
+ShowArea = true
+Bicycle = true
+HealingSpot = 252,20,11
+MapPosition = 2,8,16
+#-------------------------------
+[253]   # CINNABAR ISLAND WINTER
+Name = CINNIBAR ISLAND - WINTER
+Outdoor = true
+ShowArea = true
+Bicycle = true
+HealingSpot = 253,20,11
+MapPosition = 3,8,16
+#-------------------------------
+[254]   # ROUTE 21 SPRING
+Name = ROUTE 21 - SPRING
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,8,15
+#-------------------------------
+[255]   # ROUTE 21 SUMMER
+Name = ROUTE 21 - SUMMER
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 1,8,15
+#-------------------------------
+[256]   # ROUTE 21 AUTUMN
+Name = ROUTE 21 - AUTUMN
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 2,8,15
+#-------------------------------
+[257]   # ROUTE 21 WINTER
+Name = ROUTE 21 - WINTER
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 3,8,15
+#-------------------------------
+[267]   # PALLET TOWN SPRING
+Name = PALLET TOWN - SPRING
+Outdoor = true
+ShowArea = true
+HealingSpot = 267,12,7
+MapPosition = 0,8,13
+#-------------------------------
+[268]   # Pallet Town Houses
+Name = Pallet Town Houses
+MapPosition = 0,8,13
+#-------------------------------
+[269]   # Prof. Oak's Lab
+Name = Prof. Oak's Lab
+MapPosition = 0,8,13
+#-------------------------------
+[270]   # Vermilion Port
+Name = VERMILION PORT
+MapPosition = 0,18,11
+#-------------------------------
+[273]   # FOUR ISLAND SPRING
+Name = FOUR ISLAND - SPRING
+Outdoor = true
+ShowArea = true
+Bicycle = true
+HealingSpot = 273,18,21
+MapPosition = 12,7,7
+#-------------------------------
+[274]   # ONE ISLAND SPRING
+Name = ONE ISLAND - SPRING
+Outdoor = true
+ShowArea = true
+Bicycle = true
+HealingSpot = 274,17,6
+MapPosition = 8,5,11
+#-------------------------------
+[275]   # OneIsl. Houses
+Name = ONE ISLAND
+MapPosition = 8,5,11
+#-------------------------------
+[276]   # FourIsl. Houses
+Name = FOUR ISLAND
+MapPosition = 12,7,7
+#-------------------------------
+[279]   # Port
+Name = THREE ISLE PORT
+MapPosition = 8,22,16
+#-------------------------------
+[280]   # ONE ISLAND SUMMER
+Name = ONE ISLAND - SUMMER
+Outdoor = true
+ShowArea = true
+Bicycle = true
+HealingSpot = 280,17,6
+MapPosition = 9,5,11
+#-------------------------------
+[281]   # ONE ISLAND AUTUMN
+Name = ONE ISLAND - AUTUMN
+Outdoor = true
+ShowArea = true
+Bicycle = true
+HealingSpot = 281,17,6
+MapPosition = 10,5,11
+#-------------------------------
+[282]   # ONE ISLAND WINTER
+Name = ONE ISLAND - WINTER
+Outdoor = true
+ShowArea = true
+Bicycle = true
+HealingSpot = 282,17,6
+MapPosition = 11,5,11
+#-------------------------------
+[283]   # TREASURE BEACH SPRING
+Name = TREASURE BEACH - SPRING
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 8,5,13
+#-------------------------------
+[284]   # TREASURE BEACH SUMMER
+Name = TREASURE BEACH - SUMMER
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 9,5,13
+#-------------------------------
+[285]   # TREASURE BEACH AUTUMN
+Name = TREASURE BEACH - AUTUMN
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 10,5,13
+#-------------------------------
+[286]   # TREASURE BEACH WINTER
+Name = TREASURE BEACH - WINTER
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 11,5,13
+#-------------------------------
+[287]   # KINDLE ROAD SPRING
+Name = KINDLE ROAD - SPRING
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 8,6,9
+#-------------------------------
+[288]   # KINDLE ROAD SUMMER
+Name = KINDLE ROAD - SUMMER
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 9,6,9
+#-------------------------------
+[289]   # KINDLE ROAD AUTUMN
+Name = KINDLE ROAD - AUTUMN
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 10,6,9
+#-------------------------------
+[290]   # KINDLE ROAD WINTER
+Name = KINDLE ROAD - WINTER
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 11,6,9
+#-------------------------------
+[291]   # TWO ISLAND SPRING
+Name = TWO ISLAND - SPRING
+Outdoor = true
+ShowArea = true
+Bicycle = true
+HealingSpot = 291,21,7
+MapPosition = 8,13,12
+#-------------------------------
+[292]   # TwoIsl. Houses
+Name = TWWO ISLAND
+MapPosition = 8,13,12
+#-------------------------------
+[293]   # SEAGALLOP FERRIES
+Name = OPEN OCEAN
+Outdoor = true
+#-------------------------------
+[294]   # TWO ISLAND SUMMER
+Name = TWO ISLAND  - SUMMER
+Outdoor = true
+ShowArea = true
+Bicycle = true
+HealingSpot = 294,21,7
+MapPosition = 9,13,12
+#-------------------------------
+[295]   # TWO ISLAND AUTUMN
+Name = TWO ISLAND - AUTUMN
+Outdoor = true
+ShowArea = true
+Bicycle = true
+HealingSpot = 295,21,7
+MapPosition = 10,13,12
+#-------------------------------
+[296]   # TWO ISLAND WINTER
+Name = TWO ISLAND - WINTER
+Outdoor = true
+ShowArea = true
+Bicycle = true
+HealingSpot = 296,21,7
+MapPosition = 11,13,12
+#-------------------------------
+[297]   # CAPE BRINK SPRING
+Name = CAPE BRINK - SPRING
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 8,13,11
+#-------------------------------
+[298]   # CAPE BRINK SUMMER
+Name = CAPE BRINK - SUMMER
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 9,13,11
+#-------------------------------
+[299]   # CAPE BRINK AUTUMN
+Name = CAPE BRINK - AUTUMN
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 10,13,11
+#-------------------------------
+[300]   # CAPE BRINK WINTER
+Name = CAPE BRINK - WINTER
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 11,13,11
+#-------------------------------
+[301]   # THREE ISLAND SPRING
+Name = THREE ISLAND - SPRING
+Outdoor = true
+ShowArea = true
+Bicycle = true
+HealingSpot = 301,14,27
+MapPosition = 8,22,15
+#-------------------------------
+[302]   # Threeisl. Interior
+Name = THREE ISLAND
+MapPosition = 8,22,15
+#-------------------------------
+[303]   # THREE ISLAND SUMMER
+Name = THREE ISLAND - SUMMER
+Outdoor = true
+ShowArea = true
+Bicycle = true
+HealingSpot = 303,14,27
+MapPosition = 9,22,15
+#-------------------------------
+[304]   # THREE ISLAND AUTUMN
+Name = THREE ISLAND - AUTUMN
+Outdoor = true
+ShowArea = true
+Bicycle = true
+HealingSpot = 304,14,27
+MapPosition = 10,22,15
+#-------------------------------
+[305]   # THREE ISLAND WINTER
+Name = THREE ISLAND - WINTER
+Outdoor = true
+ShowArea = true
+Bicycle = true
+HealingSpot = 305,14,27
+MapPosition = 11,22,15
+#-------------------------------
+[306]   # THREE ISLE PORT SPRING
+Name = THREE ISLE PORT - SPRING
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 8,22,16
+#-------------------------------
+[307]   # Three Isle Path
+Name = THREE ISLE PATH
+ShowArea = true
+Bicycle = true
+MapPosition = 8,23,16
+#-------------------------------
+[308]   # THREE ISLE PORT SUMMER
+Name = THREE ISLE PORT - SUMMER
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 9,22,16
+#-------------------------------
+[309]   # THREE ISLE PORT AUTUMN
+Name = THREE ISLE PORT - AUTUMN
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 10,22,16
+#-------------------------------
+[310]   # THREE ISLE PORT WINTER
+Name = THREE ISLE PORT - WINTER
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 11,22,16
+#-------------------------------
+[311]   # BOND BRIDGE SPRING
+Name = BOND BRIDGE - SPRING
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 8,20,15
+#-------------------------------
+[312]   # BOND BRIDGE SUMMER
+Name = BOND BRIDGE - SUMMER
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 9,20,15
+#-------------------------------
+[313]   # BOND BRIDGE AUTUMN
+Name = BOND BRIDGE - AUTUMN
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 10,20,15
+#-------------------------------
+[314]   # BOND BRIDGE WINTER
+Name = BOND BRIDGE - WINTER
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 11,20,15
+#-------------------------------
+[315]   # BERRY FOREST SPRING
+Name = BERRY FOREST - SPRING
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 8,18,15
+#-------------------------------
+[316]   # BERRY FOREST SUMMER
+Name = BERRY FOREST - SUMMER
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 9,18,15
+#-------------------------------
+[317]   # BERRY FOREST AUTUMN
+Name = BERRY FOREST - AUTUMN
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 10,18,15
+#-------------------------------
+[318]   # BERRY FOREST WINTER
+Name = BERRY FOREST - WINTER
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 11,18,15
+#-------------------------------
+[319]   # FOUR ISLAND SUMMER
+Name = FOUR ISLAND - SUMMER
+Outdoor = true
+ShowArea = true
+Bicycle = true
+HealingSpot = 319,18,21
+MapPosition = 13,7,7
+#-------------------------------
+[320]   # FOUR ISLAND AUTUMN
+Name = FOUR ISLAND - AUTUMN
+Outdoor = true
+ShowArea = true
+Bicycle = true
+HealingSpot = 320,18,21
+MapPosition = 14,7,7
+#-------------------------------
+[321]   # FOUR ISLAND WINTER
+Name = FOUR ISLAND - WINTER
+Outdoor = true
+ShowArea = true
+Bicycle = true
+HealingSpot = 321,18,21
+MapPosition = 15,7,7
+#-------------------------------
+[322]   # Port
+Name = FIVE ISLAND PORT
+MapPosition = 12,20,14
+#-------------------------------
+[323]   # FIVE ISLAND SUMMER
+Name = FIVE ISLAND - SUMMER
+Outdoor = true
+ShowArea = true
+Bicycle = true
+HealingSpot = 323,24,7
+MapPosition = 13,20,14
+#-------------------------------
+[324]   # Houses
+Name = FIVE ISLAND
+MapPosition = 12,20,14
+#-------------------------------
+[325]   # FIVE ISLAND AUTUMN
+Name = FIVE ISLAND - AUTUMN
+Outdoor = true
+ShowArea = true
+Bicycle = true
+HealingSpot = 325,24,7
+MapPosition = 14,20,14
+#-------------------------------
+[326]   # FIVE ISLAND WINTER
+Name = FIVE ISLAND - WINTER
+Outdoor = true
+ShowArea = true
+Bicycle = true
+HealingSpot = 326,24,7
+MapPosition = 15,20,14
+#-------------------------------
+[327]   # WATER LABYRINTH SPRING
+Name = WATER LABYRINTH - SPRING
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 12,18,13
+#-------------------------------
+[328]   # WATER LABYRINTH SUMMER
+Name = WATER LABYRINTH - SUMMER
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 13,18,13
+#-------------------------------
+[329]   # WATER LABYRINTH AUTUMN
+Name = WATER LABYRINTH - AUTUMN
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 14,18,13
+#-------------------------------
+[330]   # WATER LABYRINTH WINTER
+Name = WATER LABYRINTH - WINTER
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 15,18,13
+#-------------------------------
+[331]   # RESORT GORGEOUS SPRING
+Name = RESORT GORGEOUS - SPRING
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 12,20,12
+#-------------------------------
+[332]   # House
+Name = RESORT GORGEOUS
+MapPosition = 12,21,12
+#-------------------------------
+[333]   # LOST CAVE
+Name = LOST CAVE
+Bicycle = true
+Weather = Fog,100
+MapPosition = 12,22,12
+#-------------------------------
+[334]   # RESORT GORGEOUS SUMMER
+Name = RESORT GORGEOUS - SUMMER
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 13,20,12
+#-------------------------------
+[335]   # RESORT GORGEOUS AUTUMN
+Name = RESORT GORGEOUS - AUTUMN
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 14,20,12
+#-------------------------------
+[336]   # RESORT GORGEOUS WINTER
+Name = RESORT GORGEOUS - WINTER
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 15,20,12
+#-------------------------------
+[337]   # FIVE ISLE MEADOW SPRING
+Name = FIVE ISLE MEADOW - SPRING
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 12,21,14
+#-------------------------------
+[338]   # ROCKET WAEHOUSE
+Name = ROCKET WAREHOUSE
+ShowArea = true
+MapPosition = 12,21,15
+#-------------------------------
+[339]   # FIVE ISLE MEADOW SUMMMER
+Name = FIVE ISLE MEADOW - SUMMER
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 12,21,14
+#-------------------------------
+[340]   # FIVE ISLE MEADOW AUTUMN
+Name = FIVE ISLE MEADOW - AUTUMN
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 14,21,14
+#-------------------------------
+[341]   # FIVE ISLE MEADOW WINTER
+Name = FIVE ISLE MEADOW - WINTER
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 15,21,14
+#-------------------------------
+[342]   # MEMORIAL PILLAR SPRING
+Name = MEMORIAL PILLAR - SPRING
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 12,22,15
+#-------------------------------
+[343]   # MEMORIAL PILLAR SUMMER
+Name = MEMORIAL PILLAR - SUMMER
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 13,22,15
+#-------------------------------
+[344]   # MEMORIAL PILLAR AUTUMN
+Name = MEMORIAL PILLAR - AUTUMN
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 14,22,15
+#-------------------------------
+[345]   # MEMORIAL PILLAR WINTER
+Name = MEMORIAL PILLAR - WINTER
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 15,22,15
+#-------------------------------
+[346]   # SIX ISLAND SPRING
+Name = SIX ISLAND - SPRING
+Outdoor = true
+ShowArea = true
+Bicycle = true
+HealingSpot = 346,11,11
+MapPosition = 16,21,8
+MapSize = 0,
+#-------------------------------
+[347]   # PokeCentre
+Name = SIX ISLAND
+MapPosition = 16,21,8
+#-------------------------------
+[348]   # Port
+Name = SIX ISLAND PORT
+MapPosition = 16,21,8
+#-------------------------------
+[349]   # Houses
+Name = SIX ISLAND
+MapPosition = 16,21,8
+#-------------------------------
+[350]   # PokeMart
+Name = SIX ISLAND
+MapPosition = 16,21,8
+#-------------------------------
+[351]   # SIX ISLAND SUMMER
+Name = SIX ISLAND - SUMMER
+Outdoor = true
+ShowArea = true
+Bicycle = true
+HealingSpot = 351,11,11
+MapPosition = 17,21,8
+#-------------------------------
+[352]   # SIX ISLAND AUTUMN
+Name = SIX ISLAND - AUTUMN
+Outdoor = true
+ShowArea = true
+Bicycle = true
+HealingSpot = 352,11,11
+MapPosition = 18,21,8
+#-------------------------------
+[353]   # SIX ISLAND WINTER
+Name = SIX ISLAND - WINTER
+Outdoor = true
+ShowArea = true
+Bicycle = true
+HealingSpot = 353,11,11
+MapPosition = 19,21,8
+#-------------------------------
+[354]   # WATER PATH SPRING
+Name = WATER PATH - SPRING
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 16,22,6
+#-------------------------------
+[355]   # Houses
+Name = WATER PATH
+MapPosition = 16,22,6
+#-------------------------------
+[356]   # WATER PATH SUMMER
+Name = WATER PATH - SUMMER
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 17,22,6
+#-------------------------------
+[357]   # WATER PATH AUTUMN
+Name = WATER PATH - AUTUMN
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 18,22,6
+#-------------------------------
+[358]   # WATER PATH WINTER
+Name = WATER PATH - WINTER
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 19,22,6
+#-------------------------------
+[359]   # GREEN PATH SPRING
+Name = GREEN PATH - SPRING
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 16,19,6
+#-------------------------------
+[360]   # GREEN PATH SUMMER
+Name = GREEN PATH - AUTUMN
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 17,19,6
+#-------------------------------
+[361]   # GREEN PATH AUTUMN
+Name = GREEN PATH - AUTUMN
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 18,19,6
+#-------------------------------
+[362]   # GREEN PATH WINTER
+Name = GREEN PATH - WINTER
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 19,19,6
+#-------------------------------
+[363]   # PATTERN BUSH SPRING
+Name = PATTERN BUSH - SPRING
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 16,21,6
+#-------------------------------
+[364]   # PATTERN BUSH SUMMER
+Name = PATTERN BUSH - SUMMER
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 17,21,6
+#-------------------------------
+[365]   # PATTERN BUSH AUTUMN
+Name = PATTERN BUSH - AUTUMN
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 18,21,6
+#-------------------------------
+[366]   # PATTERN BUSH WINTER
+Name = PATTRN BUSH - WINTER
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 19,21,6
+#-------------------------------
+[367]   # OUTCAST ISLAND SPRING
+Name = OUTCAST ISLAND - SPRING
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 16,19,3
+#-------------------------------
+[368]   # ALTERING CAVE
+Name = ALTERING CAVE
+Bicycle = true
+MapPosition = 16,19,3
+#-------------------------------
+[369]   # OUTCAST ISLAND SUMMER
+Name = OUTCAST ISLAND - SUMMER
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 17,19,3
+#-------------------------------
+[370]   # OUTCAST ISLAND AUTUMN
+Name = OUTCAST ISLAND - AUTUMN
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 18,19,3
+#-------------------------------
+[371]   # OUTCAST ISLAND WINTER
+Name = OUTCAST ISLAND - WINTER
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 19,19,3
+#-------------------------------
+[372]   # RUIN VALLEY SPRING
+Name = RUIN VALLEY - SPRING
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 16,20,10
+#-------------------------------
+[373]   # DOTTED HOLE
+Name = DOTTED HOLE
+Bicycle = true
+MapPosition = 16,20,11
+#-------------------------------
+[374]   # RUIN VALLEY SUMMER
+Name = RUIN VALLEY - SUMMER
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 17,20,10
+#-------------------------------
+[375]   # RUIN VALLEY AUTUMN
+Name = RUIN VALLEY - AUTUMN
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 18,20,10
+#-------------------------------
+[376]   # RUIN VALLEY WINTER
+Name = RUIN VALLEY - WINTER
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 19,20,10
+#-------------------------------
+[377]   # SEVEN ISLAND SPRING
+Name = SEVEN ISLAND - SPRING
+Outdoor = true
+ShowArea = true
+Bicycle = true
+HealingSpot = 377,12,4
+MapPosition = 16,9,11
+#-------------------------------
+[378]   # PokeCentre
+Name = SEVEN ISLAND
+MapPosition = 16,9,11
+#-------------------------------
+[379]   # PokeMart
+Name = SEVEN ISLAND
+MapPosition = 16,9,11
+#-------------------------------
+[380]   # Port
+Name = SEVEN ISLAND PORT
+MapPosition = 16,9,11
+#-------------------------------
+[381]   # Houses
+Name = SEVEN ISLAND
+MapPosition = 16,9,11
+#-------------------------------
+[382]   # SEVEN ISLAND SUMMER
+Name = SEVEN ISLAND - SUMMER
+Outdoor = true
+ShowArea = true
+Bicycle = true
+HealingSpot = 382,12,4
+MapPosition = 17,9,11
+#-------------------------------
+[383]   # SEVEN ISLAND AUTUMN
+Name = SEVEN ISLAND - AUTUMN
+Outdoor = true
+ShowArea = true
+Bicycle = true
+HealingSpot = 383,12,4
+MapPosition = 18,9,11
+#-------------------------------
+[384]   # SEVEN ISLAND WINTER
+Name = SEVEN ISLAND - WINTER
+Outdoor = true
+ShowArea = true
+Bicycle = true
+HealingSpot = 384,12,4
+MapPosition = 19,9,11
+#-------------------------------
+[385]   # TRAINER TOWER SPRING
+Name = TRAINER TOWER - SPRING
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 16,9,9
+#-------------------------------
+[386]   # TRAINER TOWER SUMMER
+Name = TRAINER TOWER - SUMMER
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 17,9,9
+#-------------------------------
+[387]   # TRAINER TOWER AUTUMN
+Name = TRAINER TOWER - AUTUMN
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 18,9,9
+#-------------------------------
+[388]   # TRAINER TOWER WINTER
+Name = TRAINER TOWER - WINTER
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 19,9,9
+#-------------------------------
+[389]   # CANYON ENTRANCE SPRING
+Name = CANYON ENTRANCE - SPRING
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 16,9,12
+#-------------------------------
+[390]   # CANYON ENTRANCE SUMMMER
+Name = CANYON ENTRANCE - SUMMER
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 17,9,12
+#-------------------------------
+[391]   # CANYON ENTRANCE AUTUMN
+Name = CANYON ENTRANCE - AUTUMN
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 18,9,12
+#-------------------------------
+[392]   # CANYON ENTRANCE WINTER
+Name = CANYON ENTRANCE - WINTER
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 19,9,12
+#-------------------------------
+[393]   # SEVAULT CANYON SPRING
+Name = SEVAULT CANYON: SPRING
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 16,10,12
+#-------------------------------
+[394]   # TANOBY KEY
+Name = TANOBY KEY
+ShowArea = true
+Bicycle = true
+MapPosition = 16,10,13
+#-------------------------------
+[395]   # House
+Name = SEVAULT CANYON
+MapPosition = 16,10,14
+#-------------------------------
+[396]   # SEVAULT CANYON SUMMER
+Name = SEVAULT CANYON: SUMMER
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 17,10,12
+#-------------------------------
+[397]   # SEVAULT CANYON AUTUMN
+Name = SEVAULT CANYON: AUTUMN
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 18,10,12
+#-------------------------------
+[398]   # SEVAULT CANYON WINTER
+Name = SEVAULT CANYON: WINTER
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 19,10,12
+#-------------------------------
+[399]   # TANOBY RUINS SPRING
+Name = TANOBY RUINS: SPRING
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 16,7,15
+#-------------------------------
+[400]   # MONEAN CHAMBER
+Name = MONEAN CHAMBER
+ShowArea = true
+Bicycle = true
+MapPosition = 16,13,15
+#-------------------------------
+[401]   # LIPTOO CHAMBER
+Name = LIPTOO CHAMBER
+ShowArea = true
+Bicycle = true
+MapPosition = 16,12,15
+#-------------------------------
+[403]   # WEEPTH CHAMBER
+Name = WEEPTH CHAMBER
+ShowArea = true
+Bicycle = true
+MapPosition = 16,11,15
+#-------------------------------
+[404]   # DILFORD CHAMBER
+Name = DILFORD CHAMBER
+ShowArea = true
+Bicycle = true
+MapPosition = 16,9,15
+#-------------------------------
+[405]   # SCUFIB CHAMBER
+Name = SCUFIB CHAMBER
+ShowArea = true
+Bicycle = true
+MapPosition = 16,8,15
+#-------------------------------
+[406]   # RIXY CHAMBER
+Name = RIXY CHAMBER
+ShowArea = true
+Bicycle = true
+MapPosition = 16,7,15
+#-------------------------------
+[407]   # VIAPOIS CHAMBER
+Name = VIAPOIS CHAMBER
+ShowArea = true
+Bicycle = true
+MapPosition = 16,7,15
+#-------------------------------
+[408]   # MONEAN EMPTY
+Name = MONEAN CHAMBER
+ShowArea = true
+Bicycle = true
+MapPosition = 16,13,15
+#-------------------------------
+[409]   # LIPTOO EMPTY
+Name = LIPTOO CHAMBER
+ShowArea = true
+Bicycle = true
+MapPosition = 16,12,15
+#-------------------------------
+[410]   # WEEPTH EMPTY
+Name = WEEPTH CHAMBER
+ShowArea = true
+Bicycle = true
+MapPosition = 16,11,15
+#-------------------------------
+[411]   # DILFORD EMPTY
+Name = DILFORD CHAMBER
+ShowArea = true
+Bicycle = true
+MapPosition = 16,9,15
+#-------------------------------
+[412]   # SCUFIB EMPTY
+Name = SCUFIB CHAMBER
+ShowArea = true
+Bicycle = true
+MapPosition = 16,8,15
+#-------------------------------
+[413]   # RIXY EMPTY
+Name = RIXY CHAMBER
+ShowArea = true
+Bicycle = true
+MapPosition = 16,7,15
+#-------------------------------
+[414]   # VIAPOIS EMPTY
+Name = VIAPOIS CHAMBER
+ShowArea = true
+Bicycle = true
+MapPosition = 16,7,15
+#-------------------------------
+[415]   # TANOBY RUINS SUMMER
+Name = TANOBY RUINS: SUMMER
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 17,7,15
+#-------------------------------
+[416]   # TANOBY RUINS AUTUMN
+Name = TANOBY RUINS: AUTUMN
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 18,7,15
+#-------------------------------
+[417]   # TANOBY RUINS WINTER
+Name = TANOBY RUINS: WINTER
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 19,7,15
+#-------------------------------
+[419]   # OneIsl. Port
+Name = ONE ISLAND PORT
+MapPosition = 8,5,11
+#-------------------------------
+[420]   # TwoIsl. Port
+Name = TWO ISLAND PORT
+MapPosition = 8,13,12
+#-------------------------------
+[421]   # FourIsl. Port
+Name = FOUR ISLAND PORT
+MapPosition = 12,7,7
+#-------------------------------
+[422]   # Viridian Gym
+Name = VIRIDIAN GYM
+MapPosition = 0,8,10
+#-------------------------------
+[423]   # Pewter Gym
+Name = PEWTER GYM
+MapPosition = 0,8,6
+#-------------------------------
+[424]   # Cerulean City Gym
+Name = CERULEAN GYM
+MapPosition = 0,18,5
+#-------------------------------
+[425]   # Vermilion City Gym
+Name = VERMILION GYM
+MapPosition = 0,18,11
+#-------------------------------
+[426]   # Celadon Gym
+Name = CELADON GYM
+MapPosition = 0,15,8
+#-------------------------------
+[427]   # Fucshia City Gym
+Name = FUCHSIA GYM
+MapPosition = 0,16,14
+#-------------------------------
+[428]   # Saffron City Gym
+Name = SAFFRON GYM
+MapPosition = 0,18,8
+#-------------------------------
+[429]   # Cinnabar Gym
+Name = CINNABAR GYM
+MapPosition = 0,8,16
+#-------------------------------
+[430]   # MT.EMBER SPRING
+Name = MT. EMBER: SPRING
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 8,6,6
+#-------------------------------
+[431]   # SUMMIT PATH 1F
+Name = MT. EMBER
+Bicycle = true
+MapPosition = 8,6,6
+#-------------------------------
+[432]   # SUMMIT PATH 2F
+Name = MT. EMBER
+Bicycle = true
+MapPosition = 8,6,6
+#-------------------------------
+[433]   # SUMMIT PATH 3F
+Name = MT. EMBER
+Bicycle = true
+MapPosition = 8,6,6
+#-------------------------------
+[434]   # SUMMIT SPRING
+Name = MT. EMBER: SPRING
+Outdoor = true
+Bicycle = true
+MapPosition = 8,6,6
+#-------------------------------
+[435]   # RUBY PATH 1F
+Name = MT. EMBER
+Bicycle = true
+MapPosition = 8,6,6
+#-------------------------------
+[436]   # RUBY PATH B1F
+Name = MT. EMBER
+Bicycle = true
+MapPosition = 8,6,6
+#-------------------------------
+[437]   # RUBY PATH B2F
+Name = MT. EMBER
+Bicycle = true
+MapPosition = 8,6,6
+#-------------------------------
+[438]   # RUBY PATH B3F
+Name = MT. EMBER
+Bicycle = true
+MapPosition = 8,6,6
+#-------------------------------
+[439]   # RUBY PATH B4F
+Name = MT. EMBER
+Bicycle = true
+MapPosition = 8,6,6
+#-------------------------------
+[440]   # RUBY PATH B5F
+Name = MT. EMBER
+Bicycle = true
+MapPosition = 8,6,6
+#-------------------------------
+[441]   # MT.EMBER SUMMER
+Name = MT. EMBER: SUMMER
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 9,6,6
+#-------------------------------
+[442]   # MT.EMBER AUTUMN
+Name = MT. EMBER: AUTUMN
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 10,6,6
+#-------------------------------
+[443]   # MT.EMBER WINTER
+Name = MT. EMBER: WINTER
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 11,6,6
+#-------------------------------
+[444]   # SUMMIT SUMMER
+Name = MT. EMBER: SUMMER
+Outdoor = true
+Bicycle = true
+MapPosition = 9,6,6
+#-------------------------------
+[445]   # SUMMIT AUTUMN
+Name = MT. EMBER: AUTUMN
+Outdoor = true
+Bicycle = true
+MapPosition = 10,6,6
+#-------------------------------
+[446]   # SUMMIT WINTER
+Name = MT. EMBER: WINTER
+Outdoor = true
+Bicycle = true
+MapPosition = 11,6,6
+#-------------------------------
+[447]   # ICEFALL CAVE
+Name = ICEFALL CAVE
+ShowArea = true
+Bicycle = true
+MapPosition = 12,7,7
+#-------------------------------
+[448]   # ICEFALL CAVE 1F
+Name = ICEFALL CAVE
+Bicycle = true
+MapPosition = 12,7,7
+#-------------------------------
+[449]   # ICEFALL CAVE B1F
+Name = ICEFALL CAVE
+Bicycle = true
+MapPosition = 12,7,7
+#-------------------------------
+[450]   # ICEFALL CAVE BACK
+Name = ICEFALL CAVE
+Bicycle = true
+MapPosition = 12,7,7
+#-------------------------------
+[451]   # Viridian Poké Center
+Name = VIRIDIAN CITY
+MapPosition = 0,8,10
+#-------------------------------
+[452]   # Viridian Mart
+Name = VIRIDIAN CITY
+MapPosition = 0,8,10
+#-------------------------------
+[453]   # Pewter Mart
+Name = PEWTER CITY
+MapPosition = 0,8,6
+#-------------------------------
+[454]   # Cerulean Mart
+Name = CERULEAN CITY
+MapPosition = 0,18,5
+#-------------------------------
+[455]   # Vermilion Mart
+Name = VERMILION CITY
+MapPosition = 0,18,11
+#-------------------------------
+[456]   # Lavender Mart
+Name = LAVENDER TOWN
+MapPosition = 0,22,8
+#-------------------------------
+[457]   # Fuchsia Mart
+Name = FUCHSIA CITY
+MapPosition = 0,16,14
+#-------------------------------
+[458]   # Saffron Mart
+Name = SAFFRON CITY
+MapPosition = 0,18,8
+#-------------------------------
+[459]   # Cinnabar Mart
+Name = CINNABAR ISLAND
+MapPosition = 0,8,16
+#-------------------------------
+[460]   # ThreeIsl. Poké Center
+Name = THREE ISLAND
+MapPosition = 8,22,15
+#-------------------------------
+[461]   # FourIsl. Poké Center
+Name = FOUR ISLAND
+MapPosition = 12,7,7
+#-------------------------------
+[462]   # FourIsl. Mart
+Name = FOUR ISLAND
+MapPosition = 12,7,7
