@@ -11,14 +11,14 @@ Passcodes:
 
 When you get the PokeGear from Prof. Oak, you'll have an option to input a code for a reward. The codes are listed as listed:
 
-StrangeEgg,
+StrangeEgg
 
-GreatPack,
+GreatPack
 
-QuickPack,
+QuickPack
 
-ShinyCharm,
+ShinyCharm
 
-RarePack.
+RarePack
 
 *These are case-sensitive*
