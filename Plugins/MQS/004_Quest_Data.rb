@@ -78,7 +78,7 @@ module QuestModule
   }
   
   Quest6 = {
-    :ID => "6",
+    :ID => "5",
     :Name => "An Important File",
     :QuestGiver => "???",
     :Stage1 => "Take the file to Prof. Oak.",
