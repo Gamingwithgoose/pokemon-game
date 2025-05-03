@@ -1,0 +1,16 @@
+[BerryJuice]
+Item=BERRYJUICE
+Ingredients=Berry,1
+Flags=Cooking
+
+[BreakMaxRevive]
+Item=REVIVE
+Yield=5
+Ingredients=MAXREVIVE,1
+Flags=Crafting
+
+[HisuiPokeBall]
+Item=HISUIPOKEBALL
+Yield=3
+Ingredients=REDAPRICORN,1
+Flags=Crafting
