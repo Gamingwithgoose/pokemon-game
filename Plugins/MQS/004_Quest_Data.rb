@@ -54,7 +54,7 @@ module QuestModule
   
   # Other random examples you can look at if you want to fill out the UI and check out the page scrolling
   Quest5 = {
-    :ID => "6",
+    :ID => "5",
     :Name => "Indigo-go",
     :QuestGiver => "Main Story",
     :Stage1 => "Check out Pewter City's Gym.",
@@ -78,7 +78,7 @@ module QuestModule
   }
   
   Quest6 = {
-    :ID => "5",
+    :ID => "6",
     :Name => "An Important File",
     :QuestGiver => "???",
     :Stage1 => "Take the file to Prof. Oak.",
