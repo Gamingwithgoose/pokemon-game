@@ -10,7 +10,7 @@ Ingredients=MAXREVIVE,1
 Flags=Crafting
 
 [HisuiPokeBall]
-Item=HISUIPOKEBALL
+Item=HISUIANPOKEBALL
 Yield=3
 Ingredients=REDAPRICORN,1
 Flags=Crafting
