@@ -99,24 +99,21 @@ module QuestModule
   
   Quest8 = {
     :ID => "8",
-    :Name => "These boots were made for walking",
-    :QuestGiver => "Musician #1",
-    :Stage1 => "Listen to the musician's, uhh, music.",
-    :Stage2 => "Find the source of the power outage.",
-    :Location1 => "nil",
-    :Location2 => "Celadon City Sewers",
-    :QuestDescription => "A musician was feeling down because he thinks no one likes his music. I should help him drum up some business."
+    :Name => "The Elitest of the Four",
+    :QuestGiver => "Main Story",
+    :Stage1 => "Visit the Elite 4",
+    :Location1 => "Indigo Plateau",
+    :QuestDescription => "Time so see if you have what it takes to become the champion of KANTO."
   }
   
   Quest9 = {
     :ID => "9",
-    :Name => "Got any grapes?",
-    :QuestGiver => "Duck",
-    :Stage1 => "Listen to The Duck Song.",
-    :Stage2 => "Try not to sing it all day.",
-    :Location1 => "YouTube",
-    :QuestDescription => "Let's try to revive old memes by listening to this funny song about a duck wanting grapes.",
-    :RewardString => "A loss of braincells. Hurray!"
+    :Name => "A Road of Victories",
+    :QuestGiver => "Main Story",
+    :Stage1 => "Explore Victory Road",
+    :Location1 => "Victory Road",
+    :QuestDescription => "The path might not be easy, but it has to be done.",
+    :RewardString => "nil"
   }
   
   Quest10 = {
