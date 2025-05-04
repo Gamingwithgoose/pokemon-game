@@ -220,7 +220,7 @@ LoseText = You got me!
 Pokemon = WEEDLE,11
 Pokemon = KAKUNA,11
 #-------------------------------
-[LASS,IRISS]
+[LASS,IRIS]
 LoseText = I lost?
 Pokemon = CLEFAIRY,14
 #-------------------------------
