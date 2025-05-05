@@ -1,39 +1,44 @@
 #===============================================================================
-# Shiny Egg Display Plugin for Pokémon Essentials v21.1
-# Shows different PNGs for shiny and non-shiny eggs in party and summary screens.
-# No icon movement or placement changes.
+# Plugin: Shiny Egg Icons & Summary Display
+# Author: ChatGPT & Maver1ck
+# Essentials Version: 21.1
 #===============================================================================
 
-# Override icon loader to swap egg icon if shiny
 module GameData
   class Species
     class << self
-      alias shinyegg_icon_bitmap_from_pokemon icon_bitmap_from_pokemon unless method_defined?(:shinyegg_icon_bitmap_from_pokemon)
+      alias shinyegg_icon_filename_from_pokemon icon_filename_from_pokemon unless method_defined?(:shinyegg_icon_filename_from_pokemon)
 
-      def icon_bitmap_from_pokemon(pkmn)
-        if pkmn&.egg?
-          path = pkmn.shiny? ? "Graphics/Pokemon/Eggs/000shiny_icon.png" : "Graphics/Pokemon/Eggs/000_icon.png"
-          return Bitmap.new(path) if pbResolveBitmap(path)
-          echoln "[ShinyEggs] Missing icon file: #{path}.png"
-          return Bitmap.new(64, 64)
-        end
-        shinyegg_icon_bitmap_from_pokemon(pkmn)
+      def icon_filename_from_pokemon(pkmn)
+        return shinyegg_icon_filename_from_pokemon(pkmn) unless pkmn&.egg?
+        return pkmn.shiny? ? "Graphics/Pokemon/Eggs/000shiny_icon" : "Graphics/Pokemon/Eggs/000_icon"
       end
     end
   end
 end
 
-# Override summary screen sprite for shiny eggs
-class PokemonSummary_Scene
-  alias shinyegg_drawPage drawPage
-  def drawPage(page)
-    shinyegg_drawPage(page)
-    return unless @pokemon&.egg?
-    path = @pokemon.shiny? ? "Graphics/Pokemon/Eggs/000Shiny.png" : "Graphics/Pokemon/Eggs/000.png"
-    if File.exist?(path)
-        @sprites["pokemon"].bitmap = Bitmap.new(path)
-    else
-      echoln "[ShinyEggs] Missing summary sprite: #{path}"
+#===============================================================================
+# Shiny Egg Summary Sprite and Icon Display Fix
+# Pokémon Essentials v21.1 Compatible
+#===============================================================================
+class PokemonSprite < Sprite
+  alias shinyegg_setPokemonBitmap setPokemonBitmap unless method_defined?(:shinyegg_setPokemonBitmap)
+
+  def setPokemonBitmap(pkmn, back = false)
+    if pkmn&.egg?
+      path = pkmn.shiny? ? "Graphics/Pokemon/Eggs/000Shiny.png" : "Graphics/Pokemon/Eggs/000.png"
+      if File.exist?(path)
+        self.bitmap&.dispose
+        self.bitmap = Bitmap.new(path)
+        self.mirror = false
+        # Offset position to fit better in summary screen
+        self.x -= 50   # move left
+        self.y -= 50   # move up
+        return
+      else
+        echoln "[ShinyEggs] Missing summary image: #{path}"
+      end
     end
+    shinyegg_setPokemonBitmap(pkmn, back)
   end
 end
