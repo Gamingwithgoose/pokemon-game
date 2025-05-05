@@ -106,7 +106,13 @@ CallRateSOS = 30
 CallRateSOS = 30
 #-------------------------------
 [MEOWTH]
-SpecialSOS = MEOWTH,MEOWTH_1,MEOWTH_2
+CallRateSOS = 30
+#-------------------------------
+[MEOWTH_1]
+SpeciesSOS = MEOWTH_1
+CallRateSOS = 30
+#-------------------------------
+[MEOWTH_1]
 CallRateSOS = 30
 #-------------------------------
 [PERSIAN]
