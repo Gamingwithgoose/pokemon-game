@@ -450,6 +450,12 @@ FrontSprite = 2,26
 ShadowX = 0
 ShadowSize = 1
 #-------------------------------
+[MEOWTH,1]
+BackSprite = 0,54
+FrontSprite = 2,26
+ShadowX = 0
+ShadowSize = 1
+#-------------------------------
 [MEOWTH,2]
 BackSprite = 0,54
 FrontSprite = 0,24
