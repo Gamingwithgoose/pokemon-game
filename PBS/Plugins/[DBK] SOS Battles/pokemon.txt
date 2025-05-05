@@ -1,1505 +1,1510 @@
 ### Apply changes by holding SHIFT while compiling. ###
 #-------------------------------
 [CATERPIE]
-CallRateSOS = 15
+CallRateSOS = 40
 #-------------------------------
 [METAPOD]
 SpeciesSOS = CATERPIE,BUTTERFREE
-CallRateSOS = 15
+CallRateSOS = 40
 #-------------------------------
 [WEEDLE]
-CallRateSOS = 15
+CallRateSOS = 40
 #-------------------------------
 [KAKUNA]
 SpeciesSOS = WEEDLE,BEEDRILL
-CallRateSOS = 15
+CallRateSOS = 40
 #-------------------------------
 [PIDGEY]
 SpeciesSOS = PIDGEY,PIDGEOTTO
-CallRateSOS = 9
+CallRateSOS = 30
 #-------------------------------
 [PIDGEOTTO]
-CallRateSOS = 6
+CallRateSOS = 30
 #-------------------------------
 [RATTATA]
-CallRateSOS = 9
+SpeciesSOS = RATTATA_1
+CallRateSOS = 30
 #-------------------------------
 [RATICATE]
-CallRateSOS = 6
+CallRateSOS = 30
 #-------------------------------
 [SPEAROW]
-CallRateSOS = 9
+CallRateSOS = 30
 #-------------------------------
 [FEAROW]
-CallRateSOS = 6
+CallRateSOS = 30
 #-------------------------------
 [EKANS]
-CallRateSOS = 9
+CallRateSOS = 30
 #-------------------------------
 [ARBOK]
-CallRateSOS = 6
+CallRateSOS = 30
 #-------------------------------
 [PIKACHU]
-CallRateSOS = 6
+CallRateSOS = 30
 #-------------------------------
 [SANDSHREW]
-CallRateSOS = 9
+SpeciesSOS = SANDSHREW_1
+CallRateSOS = 30
 #-------------------------------
 [NIDORANfE]
 SpeciesSOS = NIDORANfE,NIDORANmA
-CallRateSOS = 9
+CallRateSOS = 30
 #-------------------------------
 [NIDORINA]
 SpeciesSOS = NIDORINA,NIDORINO
-CallRateSOS = 6
+CallRateSOS = 30
 #-------------------------------
 [NIDORANmA]
 SpeciesSOS = NIDORANmA,NIDORANfE
-CallRateSOS = 9
+CallRateSOS = 30
 #-------------------------------
 [NIDORINO]
 SpeciesSOS = NIDORINO,NIDORINA
-CallRateSOS = 6
+CallRateSOS = 30
 #-------------------------------
 [CLEFAIRY]
-CallRateSOS = 6
+CallRateSOS = 30
 #-------------------------------
 [VULPIX]
-CallRateSOS = 9
+SpeciesSOS = VULPIX_1
+CallRateSOS = 30
 #-------------------------------
 [JIGGLYPUFF]
-CallRateSOS = 6
+CallRateSOS = 30
 #-------------------------------
 [ZUBAT]
-CallRateSOS = 15
+CallRateSOS = 40
 #-------------------------------
 [GOLBAT]
 ConditionalSOS = CROBAT,Cave,
-CallRateSOS = 9
+CallRateSOS = 30
 #-------------------------------
 [ODDISH]
-CallRateSOS = 9
+CallRateSOS = 30
 #-------------------------------
 [GLOOM]
-CallRateSOS = 6
+CallRateSOS = 30
 #-------------------------------
 [PARAS]
-CallRateSOS = 9
+CallRateSOS = 30
 #-------------------------------
 [PARASECT]
-CallRateSOS = 6
+CallRateSOS = 30
 #-------------------------------
 [VENONAT]
-CallRateSOS = 9
+CallRateSOS = 30
 #-------------------------------
 [VENOMOTH]
-CallRateSOS = 6
+CallRateSOS = 30
 #-------------------------------
 [DIGLETT]
-CallRateSOS = 9
+SpeciesSOS = DIGLETT_1
+CallRateSOS = 30
 #-------------------------------
 [DUGTRIO]
-CallRateSOS = 6
+CallRateSOS = 30
 #-------------------------------
 [MEOWTH]
-CallRateSOS = 9
+SpecialSOS = MEOWTH_1,MEOWTH_2
+CallRateSOS = 30
 #-------------------------------
 [PERSIAN]
-CallRateSOS = 6
+CallRateSOS = 30
 #-------------------------------
 [PSYDUCK]
-CallRateSOS = 15
+CallRateSOS = 40
 #-------------------------------
 [GOLDUCK]
-CallRateSOS = 6
+CallRateSOS = 30
 #-------------------------------
 [MANKEY]
-CallRateSOS = 9
+CallRateSOS = 30
 #-------------------------------
 [PRIMEAPE]
-CallRateSOS = 6
+CallRateSOS = 30
 #-------------------------------
 [GROWLITHE]
-CallRateSOS = 9
+CallRateSOS = 30
 #-------------------------------
 [POLIWAG]
-CallRateSOS = 9
+CallRateSOS = 30
 #-------------------------------
 [POLIWHIRL]
-CallRateSOS = 6
+CallRateSOS = 30
 #-------------------------------
 [ABRA]
-CallRateSOS = 9
+CallRateSOS = 30
 #-------------------------------
 [KADABRA]
-CallRateSOS = 6
+CallRateSOS = 30
 #-------------------------------
 [MACHOP]
-CallRateSOS = 9
+CallRateSOS = 30
 #-------------------------------
 [MACHOKE]
-CallRateSOS = 6
+CallRateSOS = 30
 #-------------------------------
 [BELLSPROUT]
-CallRateSOS = 9
+CallRateSOS = 30
 #-------------------------------
 [WEEPINBELL]
-CallRateSOS = 6
+CallRateSOS = 30
 #-------------------------------
 [TENTACOOL]
-CallRateSOS = 15
+CallRateSOS = 40
 #-------------------------------
 [TENTACRUEL]
-CallRateSOS = 6
+CallRateSOS = 30
 #-------------------------------
 [GEODUDE]
-CallRateSOS = 9
+CallRateSOS = 30
 #-------------------------------
 [GRAVELER]
-CallRateSOS = 6
+CallRateSOS = 30
 #-------------------------------
 [PONYTA]
-CallRateSOS = 9
+CallRateSOS = 30
 #-------------------------------
 [RAPIDASH]
-CallRateSOS = 6
+CallRateSOS = 30
 #-------------------------------
 [SLOWPOKE]
 ConditionalSOS = SHELLDER,Water,,SLOWBRO,Land,,SLOWKING,Land,
-CallRateSOS = 9
+CallRateSOS = 30
 #-------------------------------
 [SLOWBRO]
-CallRateSOS = 3
+CallRateSOS = 10
 #-------------------------------
 [MAGNEMITE]
 ConditionalSOS = NOSEPASS,Cave,
-CallRateSOS = 9
+CallRateSOS = 30
 #-------------------------------
 [MAGNETON]
 ConditionalSOS = NOSEPASS,Cave,
-CallRateSOS = 6
+CallRateSOS = 30
 #-------------------------------
 [FARFETCHD]
-CallRateSOS = 9
+CallRateSOS = 30
 #-------------------------------
 [DODUO]
-CallRateSOS = 9
+CallRateSOS = 30
 #-------------------------------
 [DODRIO]
-CallRateSOS = 6
+CallRateSOS = 30
 #-------------------------------
 [SEEL]
-CallRateSOS = 9
+CallRateSOS = 30
 #-------------------------------
 [DEWGONG]
-CallRateSOS = 6
+CallRateSOS = 30
 #-------------------------------
 [GRIMER]
-CallRateSOS = 9
+CallRateSOS = 30
 #-------------------------------
 [MUK]
-CallRateSOS = 6
+CallRateSOS = 30
 #-------------------------------
 [SHELLDER]
-CallRateSOS = 9
+CallRateSOS = 30
 #-------------------------------
 [GASTLY]
-CallRateSOS = 9
+CallRateSOS = 30
 #-------------------------------
 [HAUNTER]
 SpeciesSOS = HAUNTER,GENGAR
-CallRateSOS = 6
+CallRateSOS = 30
 #-------------------------------
 [ONIX]
 SpeciesSOS = GEODUDE,ONIX
-CallRateSOS = 9
+CallRateSOS = 30
 #-------------------------------
 [DROWZEE]
-CallRateSOS = 9
+CallRateSOS = 30
 #-------------------------------
 [HYPNO]
-CallRateSOS = 6
+CallRateSOS = 30
 #-------------------------------
 [KRABBY]
-CallRateSOS = 9
+CallRateSOS = 30
 #-------------------------------
 [KINGLER]
-CallRateSOS = 6
+CallRateSOS = 30
 #-------------------------------
 [VOLTORB]
-CallRateSOS = 15
+CallRateSOS = 40
 #-------------------------------
 [EXEGGCUTE]
-CallRateSOS = 15
+CallRateSOS = 40
 #-------------------------------
 [CUBONE]
 SpeciesSOS = CUBONE,KANGASKHAN
 ConditionalSOS = MANDIBUZZ,Land,
-CallRateSOS = 15
+CallRateSOS = 40
 #-------------------------------
 [MAROWAK]
-CallRateSOS = 3
+CallRateSOS = 10
 #-------------------------------
 [HITMONLEE]
 SpeciesSOS = HITMONLEE,HITMONCHAN,HITMONTOP
-CallRateSOS = 3
+CallRateSOS = 10
 #-------------------------------
 [HITMONCHAN]
 SpeciesSOS = HITMONCHAN,HITMONLEE,HITMONTOP
-CallRateSOS = 3
+CallRateSOS = 10
 #-------------------------------
 [LICKITUNG]
-CallRateSOS = 3
+CallRateSOS = 10
 #-------------------------------
 [KOFFING]
-CallRateSOS = 9
+CallRateSOS = 30
 #-------------------------------
 [WEEZING]
-CallRateSOS = 6
+CallRateSOS = 30
 #-------------------------------
 [RHYHORN]
-CallRateSOS = 9
+CallRateSOS = 30
 #-------------------------------
 [RHYDON]
-CallRateSOS = 6
+CallRateSOS = 30
 #-------------------------------
 [CHANSEY]
 SpeciesSOS = CHANSEY,BLISSEY
-CallRateSOS = 9
+CallRateSOS = 30
 #-------------------------------
 [TANGELA]
-CallRateSOS = 9
+CallRateSOS = 30
 #-------------------------------
 [KANGASKHAN]
-CallRateSOS = 3
+CallRateSOS = 10
 #-------------------------------
 [HORSEA]
 SpeciesSOS = HORSEA,SEADRA
-CallRateSOS = 9
+CallRateSOS = 30
 #-------------------------------
 [SEADRA]
-CallRateSOS = 6
+CallRateSOS = 30
 #-------------------------------
 [GOLDEEN]
 SpeciesSOS = GOLDEEN,SEAKING
-CallRateSOS = 9
+CallRateSOS = 30
 #-------------------------------
 [SEAKING]
-CallRateSOS = 6
+CallRateSOS = 30
 #-------------------------------
 [STARYU]
 SpeciesSOS = STARYU,STARMIE
-CallRateSOS = 9
+CallRateSOS = 30
 #-------------------------------
 [SCYTHER]
-CallRateSOS = 3
+CallRateSOS = 10
 #-------------------------------
 [ELECTABUZZ]
-CallRateSOS = 6
+CallRateSOS = 30
 #-------------------------------
 [MAGMAR]
-CallRateSOS = 6
+CallRateSOS = 30
 #-------------------------------
 [PINSIR]
-CallRateSOS = 3
+CallRateSOS = 10
 #-------------------------------
 [TAUROS]
 SpeciesSOS = TAUROS,MILTANK
-CallRateSOS = 3
+CallRateSOS = 10
 #-------------------------------
 [MAGIKARP]
 SpeciesSOS = MAGIKARP,GYARADOS
-CallRateSOS = 9
+CallRateSOS = 30
 #-------------------------------
 [GYARADOS]
-CallRateSOS = 3
+CallRateSOS = 10
 #-------------------------------
 [LAPRAS]
-CallRateSOS = 3
+CallRateSOS = 10
 #-------------------------------
 [DITTO]
-CallRateSOS = 9
+CallRateSOS = 30
 #-------------------------------
 [EEVEE]
 ConditionalSOS = ESPEON,LandDay,,UMBREON,LandNight,
-CallRateSOS = 9
+CallRateSOS = 30
 #-------------------------------
 [DRATINI]
 SpeciesSOS = DRATINI,DRAGONAIR
-CallRateSOS = 9
+CallRateSOS = 30
 #-------------------------------
 [DRAGONAIR]
-CallRateSOS = 6
+CallRateSOS = 30
 #-------------------------------
 [SENTRET]
-CallRateSOS = 9
+CallRateSOS = 30
 #-------------------------------
 [FURRET]
-CallRateSOS = 6
+CallRateSOS = 30
 #-------------------------------
 [HOOTHOOT]
 SpeciesSOS = HOOTHOOT,NOCTOWL
-CallRateSOS = 9
+CallRateSOS = 30
 #-------------------------------
 [NOCTOWL]
-CallRateSOS = 6
+CallRateSOS = 30
 #-------------------------------
 [LEDYBA]
-CallRateSOS = 9
+CallRateSOS = 30
 #-------------------------------
 [LEDIAN]
-CallRateSOS = 6
+CallRateSOS = 30
 #-------------------------------
 [SPINARAK]
-CallRateSOS = 9
+CallRateSOS = 30
 #-------------------------------
 [ARIADOS]
-CallRateSOS = 6
+CallRateSOS = 30
 #-------------------------------
 [CHINCHOU]
 SpeciesSOS = CHINCHOU,LANTURN
-CallRateSOS = 9
+CallRateSOS = 30
 #-------------------------------
 [LANTURN]
-CallRateSOS = 6
+CallRateSOS = 30
 #-------------------------------
 [PICHU]
 Flags = SOSForm_0
 SpeciesSOS = PICHU,PIKACHU,HAPPINY
-CallRateSOS = 15
+CallRateSOS = 40
 #-------------------------------
 [CLEFFA]
 SpeciesSOS = CLEFFA,CLEFAIRY,HAPPINY
-CallRateSOS = 15
+CallRateSOS = 40
 #-------------------------------
 [IGGLYBUFF]
 SpeciesSOS = IGGLYBUFF,JIGGLYPUFF,HAPPINY
-CallRateSOS = 15
+CallRateSOS = 40
 #-------------------------------
 [TOGEPI]
 SpeciesSOS = TOGEPI,TOGETIC,HAPPINY
-CallRateSOS = 15
+CallRateSOS = 40
 #-------------------------------
 [NATU]
 SpeciesSOS = NATU,XATU
-CallRateSOS = 9
+CallRateSOS = 30
 #-------------------------------
 [XATU]
-CallRateSOS = 6
+CallRateSOS = 30
 #-------------------------------
 [MAREEP]
-CallRateSOS = 9
+CallRateSOS = 30
 #-------------------------------
 [FLAAFFY]
-CallRateSOS = 6
+CallRateSOS = 30
 #-------------------------------
 [MARILL]
-CallRateSOS = 9
+CallRateSOS = 30
 #-------------------------------
 [HOPPIP]
-CallRateSOS = 9
+CallRateSOS = 30
 #-------------------------------
 [SKIPLOOM]
-CallRateSOS = 6
+CallRateSOS = 30
 #-------------------------------
 [AIPOM]
 SpeciesSOS = AIPOM,AMBIPOM
-CallRateSOS = 9
+CallRateSOS = 30
 #-------------------------------
 [SUNKERN]
-CallRateSOS = 9
+CallRateSOS = 30
 #-------------------------------
 [YANMA]
 SpeciesSOS = YANMA,YANMEGA
-CallRateSOS = 9
+CallRateSOS = 30
 #-------------------------------
 [WOOPER]
 SpeciesSOS = WOOPER,QUAGSIRE
-CallRateSOS = 9
+CallRateSOS = 30
 #-------------------------------
 [MURKROW]
-CallRateSOS = 9
+CallRateSOS = 30
 #-------------------------------
 [SLOWKING]
-CallRateSOS = 3
+CallRateSOS = 10
 #-------------------------------
 [MISDREAVUS]
-CallRateSOS = 9
+CallRateSOS = 30
 #-------------------------------
 [UNOWN]
-CallRateSOS = 15
+CallRateSOS = 40
 #-------------------------------
 [GIRAFARIG]
-CallRateSOS = 9
+CallRateSOS = 30
 #-------------------------------
 [PINECO]
-CallRateSOS = 9
+CallRateSOS = 30
 #-------------------------------
 [FORRETRESS]
-CallRateSOS = 6
+CallRateSOS = 30
 #-------------------------------
 [DUNSPARCE]
-CallRateSOS = 3
+CallRateSOS = 10
 #-------------------------------
 [GLIGAR]
-CallRateSOS = 9
+CallRateSOS = 30
 #-------------------------------
 [SNUBBULL]
-CallRateSOS = 9
+CallRateSOS = 30
 #-------------------------------
 [GRANBULL]
-CallRateSOS = 6
+CallRateSOS = 30
 #-------------------------------
 [QWILFISH]
-CallRateSOS = 9
+CallRateSOS = 30
 #-------------------------------
 [SHUCKLE]
-CallRateSOS = 3
+CallRateSOS = 10
 #-------------------------------
 [HERACROSS]
-CallRateSOS = 3
+CallRateSOS = 10
 #-------------------------------
 [SNEASEL]
-CallRateSOS = 9
+CallRateSOS = 30
 #-------------------------------
 [TEDDIURSA]
 SpeciesSOS = TEDDIURSA,URSARING
-CallRateSOS = 9
+CallRateSOS = 30
 #-------------------------------
 [SLUGMA]
-CallRateSOS = 9
+CallRateSOS = 30
 #-------------------------------
 [MAGCARGO]
-CallRateSOS = 6
+CallRateSOS = 30
 #-------------------------------
 [SWINUB]
-CallRateSOS = 9
+CallRateSOS = 30
 #-------------------------------
 [PILOSWINE]
-CallRateSOS = 6
+CallRateSOS = 30
 #-------------------------------
 [CORSOLA]
 SpeciesSOS = CORSOLA,MAREANIE
-CallRateSOS = 9
+CallRateSOS = 30
 #-------------------------------
 [REMORAID]
 SpeciesSOS = REMORAID,OCTILLERY
-CallRateSOS = 3
+CallRateSOS = 10
 #-------------------------------
 [DELIBIRD]
-CallRateSOS = 9
+CallRateSOS = 30
 #-------------------------------
 [SKARMORY]
-CallRateSOS = 6
+CallRateSOS = 30
 #-------------------------------
 [HOUNDOUR]
-CallRateSOS = 9
+CallRateSOS = 30
 #-------------------------------
 [HOUNDOOM]
-CallRateSOS = 6
+CallRateSOS = 30
 #-------------------------------
 [PHANPY]
-CallRateSOS = 9
+CallRateSOS = 30
 #-------------------------------
 [STANTLER]
-CallRateSOS = 9
+CallRateSOS = 30
 #-------------------------------
 [SMEARGLE]
-CallRateSOS = 9
+CallRateSOS = 30
 #-------------------------------
 [TYROGUE]
 SpeciesSOS = TYROGUE,HITMONCHAN,HITMONLEE,HITMONTOP,HAPPINY
-CallRateSOS = 15
+CallRateSOS = 40
 #-------------------------------
 [HITMONTOP]
 SpeciesSOS = HITMONTOP,HITMONLEE,HITMONCHAN
-CallRateSOS = 3
+CallRateSOS = 10
 #-------------------------------
 [SMOOCHUM]
 SpeciesSOS = SMOOCHUM,JYNX,HAPPINY
-CallRateSOS = 15
+CallRateSOS = 40
 #-------------------------------
 [ELEKID]
 SpeciesSOS = ELEKID,ELECTABUZZ,HAPPINY
-CallRateSOS = 15
+CallRateSOS = 40
 #-------------------------------
 [MAGBY]
 SpeciesSOS = MAGBY,MAGMAR,HAPPINY
-CallRateSOS = 15
+CallRateSOS = 40
 #-------------------------------
 [MILTANK]
 SpeciesSOS = MILTANK,TAUROS
-CallRateSOS = 3
+CallRateSOS = 10
 #-------------------------------
 [LARVITAR]
-CallRateSOS = 9
+CallRateSOS = 30
 #-------------------------------
 [PUPITAR]
-CallRateSOS = 9
+CallRateSOS = 30
 #-------------------------------
 [POOCHYENA]
-CallRateSOS = 9
+CallRateSOS = 30
 #-------------------------------
 [MIGHTYENA]
-CallRateSOS = 6
+CallRateSOS = 30
 #-------------------------------
 [ZIGZAGOON]
-CallRateSOS = 9
+CallRateSOS = 30
 #-------------------------------
 [LINOONE]
-CallRateSOS = 6
+CallRateSOS = 30
 #-------------------------------
 [WURMPLE]
-CallRateSOS = 15
+CallRateSOS = 40
 #-------------------------------
 [SILCOON]
 SpeciesSOS = WURMPLE,BEAUTIFLY
-CallRateSOS = 15
+CallRateSOS = 40
 #-------------------------------
 [CASCOON]
 SpeciesSOS = WURMPLE,DUSTOX
-CallRateSOS = 15
+CallRateSOS = 40
 #-------------------------------
 [LOTAD]
-CallRateSOS = 9
+CallRateSOS = 30
 #-------------------------------
 [LOMBRE]
-CallRateSOS = 6
+CallRateSOS = 30
 #-------------------------------
 [SEEDOT]
-CallRateSOS = 9
+CallRateSOS = 30
 #-------------------------------
 [NUZLEAF]
-CallRateSOS = 6
+CallRateSOS = 30
 #-------------------------------
 [SHIFTRY]
 SpeciesSOS = SEEDOT,NUZLEAF
-CallRateSOS = 15
+CallRateSOS = 40
 #-------------------------------
 [TAILLOW]
-CallRateSOS = 9
+CallRateSOS = 30
 #-------------------------------
 [SWELLOW]
-CallRateSOS = 6
+CallRateSOS = 30
 #-------------------------------
 [WINGULL]
-CallRateSOS = 9
+CallRateSOS = 30
 #-------------------------------
 [PELIPPER]
-CallRateSOS = 6
+CallRateSOS = 30
 #-------------------------------
 [RALTS]
-CallRateSOS = 9
+CallRateSOS = 30
 #-------------------------------
 [KIRLIA]
-CallRateSOS = 6
+CallRateSOS = 30
 #-------------------------------
 [SURSKIT]
-CallRateSOS = 9
+CallRateSOS = 30
 #-------------------------------
 [MASQUERAIN]
-CallRateSOS = 6
+CallRateSOS = 30
 #-------------------------------
 [SHROOMISH]
-CallRateSOS = 9
+CallRateSOS = 30
 #-------------------------------
 [BRELOOM]
-CallRateSOS = 6
+CallRateSOS = 30
 #-------------------------------
 [SLAKOTH]
-CallRateSOS = 9
+CallRateSOS = 30
 #-------------------------------
 [VIGOROTH]
-CallRateSOS = 6
+CallRateSOS = 30
 #-------------------------------
 [NINCADA]
-CallRateSOS = 9
+CallRateSOS = 30
 #-------------------------------
 [NINJASK]
 SpeciesSOS = NINJASK,SHEDINJA
-CallRateSOS = 6
+CallRateSOS = 30
 #-------------------------------
 [WHISMUR]
-CallRateSOS = 9
+CallRateSOS = 30
 #-------------------------------
 [LOUDRED]
-CallRateSOS = 6
+CallRateSOS = 30
 #-------------------------------
 [MAKUHITA]
-CallRateSOS = 9
+CallRateSOS = 30
 #-------------------------------
 [HARIYAMA]
-CallRateSOS = 6
+CallRateSOS = 30
 #-------------------------------
 [AZURILL]
 SpeciesSOS = AZURILL,MARILL,HAPPINY
-CallRateSOS = 15
+CallRateSOS = 40
 #-------------------------------
 [NOSEPASS]
-CallRateSOS = 9
+CallRateSOS = 30
 #-------------------------------
 [SKITTY]
-CallRateSOS = 9
+CallRateSOS = 30
 #-------------------------------
 [DELCATTY]
-CallRateSOS = 6
+CallRateSOS = 30
 #-------------------------------
 [SABLEYE]
 RivalSpecies = CARBINK
 #-------------------------------
 [MAWILE]
-CallRateSOS = 6
+CallRateSOS = 30
 #-------------------------------
 [ARON]
-CallRateSOS = 9
+CallRateSOS = 30
 #-------------------------------
 [LAIRON]
-CallRateSOS = 6
+CallRateSOS = 30
 #-------------------------------
 [MEDITITE]
-CallRateSOS = 9
+CallRateSOS = 30
 #-------------------------------
 [MEDICHAM]
-CallRateSOS = 6
+CallRateSOS = 30
 #-------------------------------
 [ELECTRIKE]
-CallRateSOS = 9
+CallRateSOS = 30
 #-------------------------------
 [MANECTRIC]
-CallRateSOS = 6
+CallRateSOS = 30
 #-------------------------------
 [PLUSLE]
 SpeciesSOS = PLUSLE,MINUN
-CallRateSOS = 15
+CallRateSOS = 40
 #-------------------------------
 [MINUN]
 SpeciesSOS = MINUN,PLUSLE
-CallRateSOS = 15
+CallRateSOS = 40
 #-------------------------------
 [VOLBEAT]
 SpeciesSOS = VOLBEAT,ILLUMISE
-CallRateSOS = 9
+CallRateSOS = 30
 #-------------------------------
 [ILLUMISE]
 SpeciesSOS = ILLUMISE,VOLBEAT
-CallRateSOS = 9
+CallRateSOS = 30
 #-------------------------------
 [ROSELIA]
-CallRateSOS = 9
+CallRateSOS = 30
 #-------------------------------
 [GULPIN]
-CallRateSOS = 9
+CallRateSOS = 30
 #-------------------------------
 [SWALOT]
-CallRateSOS = 6
+CallRateSOS = 30
 #-------------------------------
 [CARVANHA]
 SpeciesSOS = CARVANHA,SHARPEDO
-CallRateSOS = 9
+CallRateSOS = 30
 #-------------------------------
 [SHARPEDO]
-CallRateSOS = 3
+CallRateSOS = 10
 #-------------------------------
 [WAILMER]
 ConditionalSOS = WAILORD,GoodRod,,WAILORD,SuperRod,
-CallRateSOS = 9
+CallRateSOS = 30
 #-------------------------------
 [WAILORD]
-CallRateSOS = 6
+CallRateSOS = 30
 #-------------------------------
 [NUMEL]
-CallRateSOS = 9
+CallRateSOS = 30
 #-------------------------------
 [CAMERUPT]
-CallRateSOS = 6
+CallRateSOS = 30
 #-------------------------------
 [TORKOAL]
-CallRateSOS = 6
+CallRateSOS = 30
 #-------------------------------
 [SPOINK]
-CallRateSOS = 9
+CallRateSOS = 30
 #-------------------------------
 [GRUMPIG]
-CallRateSOS = 6
+CallRateSOS = 30
 #-------------------------------
 [SPINDA]
-CallRateSOS = 6
+CallRateSOS = 30
 #-------------------------------
 [TRAPINCH]
-CallRateSOS = 9
+CallRateSOS = 30
 #-------------------------------
 [VIBRAVA]
-CallRateSOS = 6
+CallRateSOS = 30
 #-------------------------------
 [CACNEA]
-CallRateSOS = 9
+CallRateSOS = 30
 #-------------------------------
 [CACTURNE]
-CallRateSOS = 6
+CallRateSOS = 30
 #-------------------------------
 [SWABLU]
-CallRateSOS = 9
+CallRateSOS = 30
 #-------------------------------
 [ALTARIA]
-CallRateSOS = 6
+CallRateSOS = 30
 #-------------------------------
 [ZANGOOSE]
 RivalSpecies = SEVIPER
 SpeciesSOS = ZANGOOSE,SEVIPER
-CallRateSOS = 9
+CallRateSOS = 30
 #-------------------------------
 [SEVIPER]
 RivalSpecies = ZANGOOSE
 SpeciesSOS = SEVIPER,ZANGOOSE
-CallRateSOS = 9
+CallRateSOS = 30
 #-------------------------------
 [LUNATONE]
 ConditionalSOS = SOLROCK,LandDay,,SOLROCK,CaveDay,
-CallRateSOS = 9
+CallRateSOS = 30
 #-------------------------------
 [SOLROCK]
 ConditionalSOS = LUNATONE,LandNight,,LUNATONE,CaveNight,
-CallRateSOS = 9
+CallRateSOS = 30
 #-------------------------------
 [BARBOACH]
 SpeciesSOS = BARBOACH,WHISCASH
-CallRateSOS = 9
+CallRateSOS = 30
 #-------------------------------
 [WHISCASH]
-CallRateSOS = 6
+CallRateSOS = 30
 #-------------------------------
 [CORPHISH]
 SpeciesSOS = CORPHISH,CRAWDAUNT
-CallRateSOS = 9
+CallRateSOS = 30
 #-------------------------------
 [CRAWDAUNT]
-CallRateSOS = 6
+CallRateSOS = 30
 #-------------------------------
 [BALTOY]
-CallRateSOS = 15
+CallRateSOS = 40
 #-------------------------------
 [CLAYDOL]
-CallRateSOS = 15
+CallRateSOS = 40
 #-------------------------------
 [FEEBAS]
-CallRateSOS = 9
+CallRateSOS = 30
 #-------------------------------
 [KECLEON]
-CallRateSOS = 9
+CallRateSOS = 30
 #-------------------------------
 [SHUPPET]
-CallRateSOS = 9
+CallRateSOS = 30
 #-------------------------------
 [BANETTE]
-CallRateSOS = 6
+CallRateSOS = 30
 #-------------------------------
 [DUSKULL]
-CallRateSOS = 9
+CallRateSOS = 30
 #-------------------------------
 [DUSCLOPS]
-CallRateSOS = 6
+CallRateSOS = 30
 #-------------------------------
 [TROPIUS]
-CallRateSOS = 3
+CallRateSOS = 10
 #-------------------------------
 [CHIMECHO]
-CallRateSOS = 6
+CallRateSOS = 30
 #-------------------------------
 [ABSOL]
-CallRateSOS = 3
+CallRateSOS = 10
 #-------------------------------
 [SNORUNT]
-CallRateSOS = 9
+CallRateSOS = 30
 #-------------------------------
 [GLALIE]
-CallRateSOS = 3
+CallRateSOS = 10
 #-------------------------------
 [SPHEAL]
-CallRateSOS = 9
+CallRateSOS = 30
 #-------------------------------
 [SEALEO]
-CallRateSOS = 6
+CallRateSOS = 30
 #-------------------------------
 [CLAMPERL]
 ConditionalSOS = HUNTAIL,WaterNight,,GOREBYSS,WaterDay,
-CallRateSOS = 15
+CallRateSOS = 40
 #-------------------------------
 [RELICANTH]
-CallRateSOS = 3
+CallRateSOS = 10
 #-------------------------------
 [LUVDISC]
-CallRateSOS = 6
+CallRateSOS = 30
 #-------------------------------
 [BAGON]
-CallRateSOS = 9
+CallRateSOS = 30
 #-------------------------------
 [SHELGON]
-CallRateSOS = 6
+CallRateSOS = 30
 #-------------------------------
 [BELDUM]
-CallRateSOS = 9
+CallRateSOS = 30
 #-------------------------------
 [METANG]
-CallRateSOS = 6
+CallRateSOS = 30
 #-------------------------------
 [STARLY]
-CallRateSOS = 9
+CallRateSOS = 30
 #-------------------------------
 [STARAVIA]
-CallRateSOS = 6
+CallRateSOS = 30
 #-------------------------------
 [BIDOOF]
-CallRateSOS = 9
+CallRateSOS = 30
 #-------------------------------
 [BIBAREL]
-CallRateSOS = 6
+CallRateSOS = 30
 #-------------------------------
 [KRICKETOT]
-CallRateSOS = 15
+CallRateSOS = 40
 #-------------------------------
 [KRICKETUNE]
-CallRateSOS = 9
+CallRateSOS = 30
 #-------------------------------
 [SHINX]
-CallRateSOS = 9
+CallRateSOS = 30
 #-------------------------------
 [LUXIO]
-CallRateSOS = 6
+CallRateSOS = 30
 #-------------------------------
 [BUDEW]
 SpeciesSOS = BUDEW,ROSELIA,HAPPINY
-CallRateSOS = 15
+CallRateSOS = 40
 #-------------------------------
 [BURMY]
 SpeciesSOS = BURMY,WORMADAM,MOTHIM
-CallRateSOS = 15
+CallRateSOS = 40
 #-------------------------------
 [COMBEE]
-CallRateSOS = 15
+CallRateSOS = 40
 #-------------------------------
 [VESPIQUEN]
 SpeciesSOS = COMBEE
-CallRateSOS = 15
+CallRateSOS = 40
 #-------------------------------
 [PACHIRISU]
-CallRateSOS = 9
+CallRateSOS = 30
 #-------------------------------
 [BUIZEL]
-CallRateSOS = 9
+CallRateSOS = 30
 #-------------------------------
 [FLOATZEL]
-CallRateSOS = 6
+CallRateSOS = 30
 #-------------------------------
 [CHERUBI]
-CallRateSOS = 9
+CallRateSOS = 30
 #-------------------------------
 [CHERRIM]
-CallRateSOS = 6
+CallRateSOS = 30
 #-------------------------------
 [SHELLOS]
-CallRateSOS = 9
+CallRateSOS = 30
 #-------------------------------
 [GASTRODON]
-CallRateSOS = 6
+CallRateSOS = 30
 #-------------------------------
 [DRIFLOON]
-CallRateSOS = 9
+CallRateSOS = 30
 #-------------------------------
 [DRIFBLIM]
-CallRateSOS = 6
+CallRateSOS = 30
 #-------------------------------
 [BUNEARY]
 ConditionalSOS = LOPUNNY,LandDay,
-CallRateSOS = 9
+CallRateSOS = 30
 #-------------------------------
 [LOPUNNY]
-CallRateSOS = 6
+CallRateSOS = 30
 #-------------------------------
 [HONCHKROW]
 SpeciesSOS = MURKROW
-CallRateSOS = 15
+CallRateSOS = 40
 #-------------------------------
 [GLAMEOW]
-CallRateSOS = 9
+CallRateSOS = 30
 #-------------------------------
 [PURUGLY]
-CallRateSOS = 6
+CallRateSOS = 30
 #-------------------------------
 [CHINGLING]
 SpeciesSOS = CHINGLING,CHIMECHO,HAPPINY
-CallRateSOS = 15
+CallRateSOS = 40
 #-------------------------------
 [STUNKY]
-CallRateSOS = 9
+CallRateSOS = 30
 #-------------------------------
 [SKUNTANK]
-CallRateSOS = 6
+CallRateSOS = 30
 #-------------------------------
 [BRONZOR]
-CallRateSOS = 9
+CallRateSOS = 30
 #-------------------------------
 [BRONZONG]
-CallRateSOS = 6
+CallRateSOS = 30
 #-------------------------------
 [BONSLY]
 SpeciesSOS = BONSLY,SUDOWOODO,HAPPINY
-CallRateSOS = 15
+CallRateSOS = 40
 #-------------------------------
 [MIMEJR]
 SpeciesSOS = MIMEJR,MRMIME,HAPPINY
-CallRateSOS = 15
+CallRateSOS = 40
 #-------------------------------
 [CHATOT]
-CallRateSOS = 9
+CallRateSOS = 30
 #-------------------------------
 [GIBLE]
-CallRateSOS = 9
+CallRateSOS = 30
 #-------------------------------
 [MUNCHLAX]
 SpeciesSOS = MUNCHLAX,SNORLAX,HAPPINY
-CallRateSOS = 6
+CallRateSOS = 30
 #-------------------------------
 [RIOLU]
 SpeciesSOS = RIOLU,LUCARIO,HAPPINY
-CallRateSOS = 15
+CallRateSOS = 40
 #-------------------------------
 [HIPPOPOTAS]
-CallRateSOS = 9
+CallRateSOS = 30
 #-------------------------------
 [HIPPOWDON]
-CallRateSOS = 6
+CallRateSOS = 30
 #-------------------------------
 [SKORUPI]
-CallRateSOS = 9
+CallRateSOS = 30
 #-------------------------------
 [DRAPION]
-CallRateSOS = 6
+CallRateSOS = 30
 #-------------------------------
 [CROAGUNK]
-CallRateSOS = 9
+CallRateSOS = 30
 #-------------------------------
 [TOXICROAK]
-CallRateSOS = 6
+CallRateSOS = 30
 #-------------------------------
 [CARNIVINE]
-CallRateSOS = 9
+CallRateSOS = 30
 #-------------------------------
 [FINNEON]
 SpeciesSOS = FINNEON,LUMINEON
-CallRateSOS = 9
+CallRateSOS = 30
 #-------------------------------
 [LUMINEON]
-CallRateSOS = 6
+CallRateSOS = 30
 #-------------------------------
 [MANTYKE]
 SpeciesSOS = MANTYKE,REMORAID
-CallRateSOS = 15
+CallRateSOS = 40
 #-------------------------------
 [SNOVER]
-CallRateSOS = 9
+CallRateSOS = 30
 #-------------------------------
 [ABOMASNOW]
-CallRateSOS = 6
+CallRateSOS = 30
 #-------------------------------
 [PATRAT]
-CallRateSOS = 9
+CallRateSOS = 30
 #-------------------------------
 [WATCHOG]
-CallRateSOS = 6
+CallRateSOS = 30
 #-------------------------------
 [LILLIPUP]
-CallRateSOS = 9
+CallRateSOS = 30
 #-------------------------------
 [HERDIER]
-CallRateSOS = 6
+CallRateSOS = 30
 #-------------------------------
 [PURRLOIN]
-CallRateSOS = 9
+CallRateSOS = 30
 #-------------------------------
 [LIEPARD]
-CallRateSOS = 6
+CallRateSOS = 30
 #-------------------------------
 [PANSAGE]
 SpeciesSOS = PANSAGE,PANSEAR,PANPOUR
-CallRateSOS = 9
+CallRateSOS = 30
 #-------------------------------
 [SIMISAGE]
 SpeciesSOS = SIMISAGE,SIMISEAR,SIMIPOUR
-CallRateSOS = 6
+CallRateSOS = 30
 #-------------------------------
 [PANSEAR]
 SpeciesSOS = PANSEAR,PANSAGE,PANPOUR
-CallRateSOS = 9
+CallRateSOS = 30
 #-------------------------------
 [SIMISEAR]
 SpeciesSOS = SIMISEAR,SIMISAGE,SIMIPOUR
-CallRateSOS = 6
+CallRateSOS = 30
 #-------------------------------
 [PANPOUR]
 SpeciesSOS = PANPOUR,PANSAGE,PANSEAR
-CallRateSOS = 9
+CallRateSOS = 30
 #-------------------------------
 [SIMIPOUR]
 SpeciesSOS = SIMIPOUR,SIMISAGE,SIMISEAR
-CallRateSOS = 6
+CallRateSOS = 30
 #-------------------------------
 [MUNNA]
-CallRateSOS = 9
+CallRateSOS = 30
 #-------------------------------
 [PIDOVE]
-CallRateSOS = 9
+CallRateSOS = 30
 #-------------------------------
 [TRANQUILL]
-CallRateSOS = 6
+CallRateSOS = 30
 #-------------------------------
 [BLITZLE]
-CallRateSOS = 9
+CallRateSOS = 30
 #-------------------------------
 [ZEBSTRIKA]
-CallRateSOS = 6
+CallRateSOS = 30
 #-------------------------------
 [ROGGENROLA]
-CallRateSOS = 9
+CallRateSOS = 30
 #-------------------------------
 [BOLDORE]
-CallRateSOS = 6
+CallRateSOS = 30
 #-------------------------------
 [WOOBAT]
-CallRateSOS = 9
+CallRateSOS = 30
 #-------------------------------
 [SWOOBAT]
-CallRateSOS = 6
+CallRateSOS = 30
 #-------------------------------
 [DRILBUR]
-CallRateSOS = 9
+CallRateSOS = 30
 #-------------------------------
 [EXCADRILL]
-CallRateSOS = 6
+CallRateSOS = 30
 #-------------------------------
 [TIMBURR]
-CallRateSOS = 9
+CallRateSOS = 30
 #-------------------------------
 [GURDURR]
-CallRateSOS = 6
+CallRateSOS = 30
 #-------------------------------
 [TYMPOLE]
-CallRateSOS = 9
+CallRateSOS = 30
 #-------------------------------
 [PALPITOAD]
-CallRateSOS = 6
+CallRateSOS = 30
 #-------------------------------
 [THROH]
 SpeciesSOS = THROH,SAWK
-CallRateSOS = 6
+CallRateSOS = 30
 #-------------------------------
 [SAWK]
 SpeciesSOS = SAWK,THROH
-CallRateSOS = 6
+CallRateSOS = 30
 #-------------------------------
 [SEWADDLE]
-CallRateSOS = 9
+CallRateSOS = 30
 #-------------------------------
 [SWADLOON]
-CallRateSOS = 6
+CallRateSOS = 30
 #-------------------------------
 [VENIPEDE]
-CallRateSOS = 9
+CallRateSOS = 30
 #-------------------------------
 [WHIRLIPEDE]
-CallRateSOS = 6
+CallRateSOS = 30
 #-------------------------------
 [COTTONEE]
-CallRateSOS = 9
+CallRateSOS = 30
 #-------------------------------
 [PETILIL]
-CallRateSOS = 9
+CallRateSOS = 30
 #-------------------------------
 [BASCULIN]
-CallRateSOS = 9
+CallRateSOS = 30
 #-------------------------------
 [SANDILE]
-CallRateSOS = 9
+CallRateSOS = 30
 #-------------------------------
 [KROKOROK]
-CallRateSOS = 6
+CallRateSOS = 30
 #-------------------------------
 [DARUMAKA]
-CallRateSOS = 9
+CallRateSOS = 30
 #-------------------------------
 [DARMANITAN]
-CallRateSOS = 6
+CallRateSOS = 30
 #-------------------------------
 [MARACTUS]
-CallRateSOS = 9
+CallRateSOS = 30
 #-------------------------------
 [DWEBBLE]
-CallRateSOS = 9
+CallRateSOS = 30
 #-------------------------------
 [CRUSTLE]
-CallRateSOS = 6
+CallRateSOS = 30
 #-------------------------------
 [SCRAGGY]
-CallRateSOS = 9
+CallRateSOS = 30
 #-------------------------------
 [SCRAFTY]
-CallRateSOS = 6
+CallRateSOS = 30
 #-------------------------------
 [YAMASK]
-CallRateSOS = 9
+CallRateSOS = 30
 #-------------------------------
 [COFAGRIGUS]
-CallRateSOS = 6
+CallRateSOS = 30
 #-------------------------------
 [TRUBBISH]
 SpeciesSOS = TRUBBISH,GARBODOR
-CallRateSOS = 9
+CallRateSOS = 30
 #-------------------------------
 [GARBODOR]
-CallRateSOS = 6
+CallRateSOS = 30
 #-------------------------------
 [ZORUA]
-CallRateSOS = 9
+CallRateSOS = 30
 #-------------------------------
 [ZOROARK]
-CallRateSOS = 6
+CallRateSOS = 30
 #-------------------------------
 [MINCCINO]
-CallRateSOS = 9
+CallRateSOS = 30
 #-------------------------------
 [GOTHITA]
-CallRateSOS = 9
+CallRateSOS = 30
 #-------------------------------
 [GOTHORITA]
-CallRateSOS = 6
+CallRateSOS = 30
 #-------------------------------
 [SOLOSIS]
-CallRateSOS = 9
+CallRateSOS = 30
 #-------------------------------
 [DUOSION]
-CallRateSOS = 6
+CallRateSOS = 30
 #-------------------------------
 [DUCKLETT]
-CallRateSOS = 9
+CallRateSOS = 30
 #-------------------------------
 [SWANNA]
-CallRateSOS = 6
+CallRateSOS = 30
 #-------------------------------
 [VANILLITE]
-CallRateSOS = 9
+CallRateSOS = 30
 #-------------------------------
 [VANILLISH]
-CallRateSOS = 6
+CallRateSOS = 30
 #-------------------------------
 [DEERLING]
 SpeciesSOS = DEERLING,SAWSBUCK
-CallRateSOS = 9
+CallRateSOS = 30
 #-------------------------------
 [SAWSBUCK]
 SpeciesSOS = DEERLING
-CallRateSOS = 15
+CallRateSOS = 40
 #-------------------------------
 [EMOLGA]
-CallRateSOS = 9
+CallRateSOS = 30
 #-------------------------------
 [KARRABLAST]
 SpeciesSOS = KARRABLAST,SHELMET
-CallRateSOS = 9
+CallRateSOS = 30
 #-------------------------------
 [FOONGUS]
-CallRateSOS = 9
+CallRateSOS = 30
 #-------------------------------
 [FRILLISH]
-CallRateSOS = 9
+CallRateSOS = 30
 #-------------------------------
 [JELLICENT]
-CallRateSOS = 6
+CallRateSOS = 30
 #-------------------------------
 [ALOMOMOLA]
-CallRateSOS = 6
+CallRateSOS = 30
 #-------------------------------
 [JOLTIK]
 SpeciesSOS = JOLTIK,GALVANTULA
-CallRateSOS = 9
+CallRateSOS = 30
 #-------------------------------
 [GALVANTULA]
-CallRateSOS = 6
+CallRateSOS = 30
 #-------------------------------
 [FERROSEED]
-CallRateSOS = 9
+CallRateSOS = 30
 #-------------------------------
 [FERROTHORN]
-CallRateSOS = 6
+CallRateSOS = 30
 #-------------------------------
 [KLINK]
-CallRateSOS = 9
+CallRateSOS = 30
 #-------------------------------
 [KLANG]
-CallRateSOS = 6
+CallRateSOS = 30
 #-------------------------------
 [TYNAMO]
 SpeciesSOS = TYNAMO,EELEKTRIK
-CallRateSOS = 15
+CallRateSOS = 40
 #-------------------------------
 [EELEKTRIK]
-CallRateSOS = 9
+CallRateSOS = 30
 #-------------------------------
 [ELGYEM]
-CallRateSOS = 15
+CallRateSOS = 40
 #-------------------------------
 [BEHEEYEM]
-CallRateSOS = 15
+CallRateSOS = 40
 #-------------------------------
 [LITWICK]
-CallRateSOS = 9
+CallRateSOS = 30
 #-------------------------------
 [LAMPENT]
-CallRateSOS = 6
+CallRateSOS = 30
 #-------------------------------
 [AXEW]
-CallRateSOS = 9
+CallRateSOS = 30
 #-------------------------------
 [FRAXURE]
-CallRateSOS = 6
+CallRateSOS = 30
 #-------------------------------
 [CUBCHOO]
 SpeciesSOS = CUBCHOO,BEARTIC
-CallRateSOS = 9
+CallRateSOS = 30
 #-------------------------------
 [BEARTIC]
-CallRateSOS = 6
+CallRateSOS = 30
 #-------------------------------
 [CRYOGONAL]
-CallRateSOS = 9
+CallRateSOS = 30
 #-------------------------------
 [SHELMET]
 SpeciesSOS = SHELMET,KARRABLAST
-CallRateSOS = 9
+CallRateSOS = 30
 #-------------------------------
 [STUNFISK]
-CallRateSOS = 9
+CallRateSOS = 30
 #-------------------------------
 [MIENFOO]
-CallRateSOS = 6
+CallRateSOS = 30
 #-------------------------------
 [MIENSHAO]
-CallRateSOS = 3
+CallRateSOS = 10
 #-------------------------------
 [DRUDDIGON]
-CallRateSOS = 3
+CallRateSOS = 10
 #-------------------------------
 [GOLETT]
-CallRateSOS = 15
+CallRateSOS = 40
 #-------------------------------
 [GOLURK]
-CallRateSOS = 15
+CallRateSOS = 40
 #-------------------------------
 [PAWNIARD]
 SpeciesSOS = PAWNIARD,TINKATUFF
-CallRateSOS = 9
+CallRateSOS = 30
 #-------------------------------
 [BISHARP]
 SpeciesSOS = PAWNIARD,TINKATUFF
-CallRateSOS = 15
+CallRateSOS = 40
 #-------------------------------
 [BOUFFALANT]
-CallRateSOS = 9
+CallRateSOS = 30
 #-------------------------------
 [RUFFLET]
-CallRateSOS = 9
+CallRateSOS = 30
 #-------------------------------
 [BRAVIARY]
-CallRateSOS = 6
+CallRateSOS = 30
 #-------------------------------
 [VULLABY]
-CallRateSOS = 9
+CallRateSOS = 30
 #-------------------------------
 [MANDIBUZZ]
-CallRateSOS = 6
+CallRateSOS = 30
 #-------------------------------
 [HEATMOR]
 RivalSpecies = DURANT
 #-------------------------------
 [DURANT]
 SpeciesSOS = DURANT,HEATMOR
-CallRateSOS = 9
+CallRateSOS = 30
 #-------------------------------
 [DEINO]
-CallRateSOS = 9
+CallRateSOS = 30
 #-------------------------------
 [ZWEILOUS]
-CallRateSOS = 6
+CallRateSOS = 30
 #-------------------------------
 [LARVESTA]
 SpeciesSOS = LARVESTA,VOLCARONA
-CallRateSOS = 3
+CallRateSOS = 10
 #-------------------------------
 [BUNNELBY]
-CallRateSOS = 9
+CallRateSOS = 30
 #-------------------------------
 [DIGGERSBY]
-CallRateSOS = 6
+CallRateSOS = 30
 #-------------------------------
 [FLETCHLING]
 SpeciesSOS = FLETCHLING,FLETCHINDER
-CallRateSOS = 9
+CallRateSOS = 30
 #-------------------------------
 [FLETCHINDER]
-CallRateSOS = 6
+CallRateSOS = 30
 #-------------------------------
 [SCATTERBUG]
-CallRateSOS = 15
+CallRateSOS = 40
 #-------------------------------
 [SPEWPA]
 SpeciesSOS = SCATTERBUG,VIVILLON
-CallRateSOS = 15
+CallRateSOS = 40
 #-------------------------------
 [LITLEO]
-CallRateSOS = 9
+CallRateSOS = 30
 #-------------------------------
 [PYROAR]
-CallRateSOS = 6
+CallRateSOS = 30
 #-------------------------------
 [FLABEBE]
-CallRateSOS = 15
+CallRateSOS = 40
 #-------------------------------
 [FLOETTE]
-CallRateSOS = 9
+CallRateSOS = 30
 #-------------------------------
 [SKIDDO]
-CallRateSOS = 9
+CallRateSOS = 30
 #-------------------------------
 [GOGOAT]
-CallRateSOS = 6
+CallRateSOS = 30
 #-------------------------------
 [PANCHAM]
 SpeciesSOS = PANCHAM,PANGORO
-CallRateSOS = 9
+CallRateSOS = 30
 #-------------------------------
 [FURFROU]
-CallRateSOS = 6
+CallRateSOS = 30
 #-------------------------------
 [ESPURR]
-CallRateSOS = 9
+CallRateSOS = 30
 #-------------------------------
 [MEOWSTIC]
-CallRateSOS = 6
+CallRateSOS = 30
 #-------------------------------
 [HONEDGE]
-CallRateSOS = 9
+CallRateSOS = 30
 #-------------------------------
 [SPRITZEE]
-CallRateSOS = 9
+CallRateSOS = 30
 #-------------------------------
 [SWIRLIX]
-CallRateSOS = 9
+CallRateSOS = 30
 #-------------------------------
 [INKAY]
-CallRateSOS = 9
+CallRateSOS = 30
 #-------------------------------
 [MALAMAR]
-CallRateSOS = 6
+CallRateSOS = 30
 #-------------------------------
 [BINACLE]
-CallRateSOS = 9
+CallRateSOS = 30
 #-------------------------------
 [BARBARACLE]
-CallRateSOS = 6
+CallRateSOS = 30
 #-------------------------------
 [SKRELP]
-CallRateSOS = 9
+CallRateSOS = 30
 #-------------------------------
 [DRAGALGE]
-CallRateSOS = 6
+CallRateSOS = 30
 #-------------------------------
 [CLAUNCHER]
-CallRateSOS = 9
+CallRateSOS = 30
 #-------------------------------
 [CLAWITZER]
-CallRateSOS = 6
+CallRateSOS = 30
 #-------------------------------
 [HELIOPTILE]
-CallRateSOS = 9
+CallRateSOS = 30
 #-------------------------------
 [HELIOLISK]
-CallRateSOS = 6
+CallRateSOS = 30
 #-------------------------------
 [HAWLUCHA]
-CallRateSOS = 3
+CallRateSOS = 10
 #-------------------------------
 [DEDENNE]
 SpeciesSOS = DEDENNE,TOGEDEMARU
-CallRateSOS = 9
+CallRateSOS = 30
 #-------------------------------
 [CARBINK]
 SpeciesSOS = CARBINK,SABLEYE
-CallRateSOS = 9
+CallRateSOS = 30
 #-------------------------------
 [GOOMY]
-CallRateSOS = 9
+CallRateSOS = 30
 #-------------------------------
 [SLIGGOO]
-CallRateSOS = 6
+CallRateSOS = 30
 #-------------------------------
 [KLEFKI]
-CallRateSOS = 6
+CallRateSOS = 30
 #-------------------------------
 [PHANTUMP]
-CallRateSOS = 9
+CallRateSOS = 30
 #-------------------------------
 [PUMPKABOO]
-CallRateSOS = 9
+CallRateSOS = 30
 #-------------------------------
 [BERGMITE]
-CallRateSOS = 9
+CallRateSOS = 30
 #-------------------------------
 [AVALUGG]
-CallRateSOS = 6
+CallRateSOS = 30
 #-------------------------------
 [NOIBAT]
-CallRateSOS = 9
+CallRateSOS = 30
 #-------------------------------
 [NOIVERN]
-CallRateSOS = 6
+CallRateSOS = 30
 #-------------------------------
 [PIKIPEK]
-CallRateSOS = 15
+CallRateSOS = 40
 #-------------------------------
 [TRUMBEAK]
-CallRateSOS = 9
+CallRateSOS = 30
 #-------------------------------
 [YUNGOOS]
-CallRateSOS = 9
+CallRateSOS = 30
 #-------------------------------
 [GUMSHOOS]
-CallRateSOS = 6
+CallRateSOS = 30
 #-------------------------------
 [GRUBBIN]
-CallRateSOS = 9
+CallRateSOS = 30
 #-------------------------------
 [CHARJABUG]
 SpeciesSOS = GRUBBIN,CHARJABUG
-CallRateSOS = 15
+CallRateSOS = 40
 #-------------------------------
 [CRABRAWLER]
-CallRateSOS = 9
+CallRateSOS = 30
 #-------------------------------
 [ORICORIO]
-CallRateSOS = 6
+CallRateSOS = 30
 #-------------------------------
 [CUTIEFLY]
-CallRateSOS = 9
+CallRateSOS = 30
 #-------------------------------
 [RIBOMBEE]
-CallRateSOS = 6
+CallRateSOS = 30
 #-------------------------------
 [ROCKRUFF]
-CallRateSOS = 9
+CallRateSOS = 30
 #-------------------------------
 [LYCANROC]
-CallRateSOS = 3
+CallRateSOS = 10
 #-------------------------------
 [WISHIWASHI]
-CallRateSOS = 9
+CallRateSOS = 30
 #-------------------------------
 [MAREANIE]
 RivalSpecies = CORSOLA
@@ -1508,257 +1513,339 @@ RivalSpecies = CORSOLA
 RivalSpecies = CORSOLA
 #-------------------------------
 [MUDBRAY]
-CallRateSOS = 9
+CallRateSOS = 30
 #-------------------------------
 [MUDSDALE]
-CallRateSOS = 6
+CallRateSOS = 30
 #-------------------------------
 [DEWPIDER]
-CallRateSOS = 9
+CallRateSOS = 30
 #-------------------------------
 [ARAQUANID]
-CallRateSOS = 6
+CallRateSOS = 30
 #-------------------------------
 [FOMANTIS]
 SpeciesSOS = FOMANTIS,CUTIEFLY
-CallRateSOS = 9
+CallRateSOS = 30
 #-------------------------------
 [LURANTIS]
-CallRateSOS = 3
+CallRateSOS = 10
 #-------------------------------
 [MORELULL]
-CallRateSOS = 9
+CallRateSOS = 30
 #-------------------------------
 [SHIINOTIC]
-CallRateSOS = 6
+CallRateSOS = 30
 #-------------------------------
 [SALANDIT]
-CallRateSOS = 9
+CallRateSOS = 30
 #-------------------------------
 [SALAZZLE]
 SpeciesSOS = SALANDIT
-CallRateSOS = 15
+CallRateSOS = 40
 #-------------------------------
 [STUFFUL]
-CallRateSOS = 9
+CallRateSOS = 30
 #-------------------------------
 [BEWEAR]
-CallRateSOS = 6
+CallRateSOS = 30
 #-------------------------------
 [BOUNSWEET]
-CallRateSOS = 9
+CallRateSOS = 30
 #-------------------------------
 [STEENEE]
-CallRateSOS = 6
+CallRateSOS = 30
 #-------------------------------
 [COMFEY]
-CallRateSOS = 9
+CallRateSOS = 30
 #-------------------------------
 [ORANGURU]
 CallRateSOS = PASSIMIAN
-CallRateSOS = 6
+CallRateSOS = 30
 #-------------------------------
 [PASSIMIAN]
 SpeciesSOS = ORANGURU
-CallRateSOS = 6
+CallRateSOS = 30
 #-------------------------------
 [SANDYGAST]
-CallRateSOS = 9
+CallRateSOS = 30
 #-------------------------------
 [PALOSSAND]
-CallRateSOS = 6
+CallRateSOS = 30
 #-------------------------------
 [PYUKUMUKU]
 SpeciesSOS = PYUKUMUKU,WINGULL
-CallRateSOS = 6
+CallRateSOS = 30
 #-------------------------------
 [TURTONATOR]
-CallRateSOS = 3
+CallRateSOS = 10
 #-------------------------------
 [TOGEDEMARU]
 SpeciesSOS = TOGEDEMARU,DEDENNE
-CallRateSOS = 9
+CallRateSOS = 30
 #-------------------------------
 [MIMIKYU]
-CallRateSOS = 9
+CallRateSOS = 30
 #-------------------------------
 [BRUXISH]
-CallRateSOS = 6
+CallRateSOS = 30
 #-------------------------------
 [DRAMPA]
-CallRateSOS = 3
+CallRateSOS = 10
 #-------------------------------
 [DHELMISE]
-CallRateSOS = 3
+CallRateSOS = 10
 #-------------------------------
 [JANGMOO]
 SpeciesSOS = HAKAMOO,KOMMOO
-CallRateSOS = 9
+CallRateSOS = 30
 #-------------------------------
 [HAKAMOO]
-CallRateSOS = 6
+CallRateSOS = 30
 #-------------------------------
 [SKWOVET]
-CallRateSOS = 9
+CallRateSOS = 30
 #-------------------------------
 [GREEDENT]
-CallRateSOS = 6
+CallRateSOS = 30
 #-------------------------------
 [ROOKIDEE]
-CallRateSOS = 9
+CallRateSOS = 30
 #-------------------------------
 [CORVISQUIRE]
-CallRateSOS = 6
+CallRateSOS = 30
 #-------------------------------
 [BLIPBUG]
-CallRateSOS = 9
+CallRateSOS = 30
 #-------------------------------
 [DOTTLER]
-CallRateSOS = 6
+CallRateSOS = 30
 #-------------------------------
 [NICKIT]
-CallRateSOS = 9
+CallRateSOS = 30
 #-------------------------------
 [THIEVUL]
-CallRateSOS = 6
+CallRateSOS = 30
 #-------------------------------
 [GOSSIFLEUR]
-CallRateSOS = 9
+CallRateSOS = 30
 #-------------------------------
 [ELDEGOSS]
-CallRateSOS = 6
+CallRateSOS = 30
 #-------------------------------
 [WOOLOO]
-CallRateSOS = 9
+CallRateSOS = 30
 #-------------------------------
 [DUBWOOL]
-CallRateSOS = 6
+CallRateSOS = 30
 #-------------------------------
 [CHEWTLE]
-CallRateSOS = 9
+CallRateSOS = 30
 #-------------------------------
 [DREDNAW]
-CallRateSOS = 6
+CallRateSOS = 30
 #-------------------------------
 [YAMPER]
-CallRateSOS = 9
+CallRateSOS = 30
 #-------------------------------
 [BOLTUND]
-CallRateSOS = 6
+CallRateSOS = 30
 #-------------------------------
 [ROLYCOLY]
-CallRateSOS = 9
+CallRateSOS = 30
 #-------------------------------
 [CARKOL]
-CallRateSOS = 6
+CallRateSOS = 30
 #-------------------------------
 [APPLIN]
-CallRateSOS = 9
+CallRateSOS = 30
 #-------------------------------
 [SILICOBRA]
-CallRateSOS = 9
+CallRateSOS = 30
 #-------------------------------
 [SANDACONDA]
-CallRateSOS = 6
+CallRateSOS = 30
 #-------------------------------
 [CRAMORANT]
-CallRateSOS = 3
+CallRateSOS = 10
 #-------------------------------
 [ARROKUDA]
 SpeciesSOS = ARROKUDA,CRAMORANT
-CallRateSOS = 9
+CallRateSOS = 30
 #-------------------------------
 [BARRASKEWDA]
-CallRateSOS = 6
+CallRateSOS = 30
 #-------------------------------
 [TOXEL]
 SpeciesSOS = TOXEL,TOXTRICITY,HAPPINY
-CallRateSOS = 9
+CallRateSOS = 30
 #-------------------------------
 [TOXTRICITY]
-CallRateSOS = 6
+CallRateSOS = 30
 #-------------------------------
 [SIZZLIPEDE]
-CallRateSOS = 9
+CallRateSOS = 30
 #-------------------------------
 [CENTISKORCH]
-CallRateSOS = 6
+CallRateSOS = 30
 #-------------------------------
 [CLOBBOPUS]
-CallRateSOS = 9
+CallRateSOS = 30
 #-------------------------------
 [GRAPPLOCT]
-CallRateSOS = 6
+CallRateSOS = 30
 #-------------------------------
 [SINISTEA]
-CallRateSOS = 9
+CallRateSOS = 30
 #-------------------------------
 [POLTEAGEIST]
-CallRateSOS = 6
+CallRateSOS = 30
 #-------------------------------
 [HATENNA]
-CallRateSOS = 9
+CallRateSOS = 30
 #-------------------------------
 [HATTREM]
-CallRateSOS = 6
+CallRateSOS = 30
 #-------------------------------
 [IMPIDIMP]
-CallRateSOS = 9
+CallRateSOS = 30
 #-------------------------------
 [MORGREM]
-CallRateSOS = 6
+CallRateSOS = 30
 #-------------------------------
 [PERRSERKER]
-CallRateSOS = 6
+CallRateSOS = 30
 #-------------------------------
 [CURSOLA]
-CallRateSOS = 6
+CallRateSOS = 30
 #-------------------------------
 [SIRFETCHD]
-CallRateSOS = 3
+CallRateSOS = 10
 #-------------------------------
 [RUNERIGUS]
-CallRateSOS = 6
+CallRateSOS = 30
 #-------------------------------
 [MILCERY]
-CallRateSOS = 9
+CallRateSOS = 30
 #-------------------------------
 [FALINKS]
-CallRateSOS = 3
+CallRateSOS = 10
 #-------------------------------
 [PINCURCHIN]
-CallRateSOS = 9
+CallRateSOS = 30
 #-------------------------------
 [SNOM]
-CallRateSOS = 15
+CallRateSOS = 40
 #-------------------------------
 [FROSMOTH]
-CallRateSOS = 6
+CallRateSOS = 30
 #-------------------------------
 [STONJOURNER]
-CallRateSOS = 3
+CallRateSOS = 10
 #-------------------------------
 [EISCUE]
-CallRateSOS = 9
+CallRateSOS = 30
 #-------------------------------
 [INDEEDEE]
-CallRateSOS = 9
+CallRateSOS = 30
 #-------------------------------
 [MORPEKO]
-CallRateSOS = 9
+CallRateSOS = 30
 #-------------------------------
 [CUFANT]
-CallRateSOS = 9
+CallRateSOS = 30
 #-------------------------------
 [COPPERAJAH]
-CallRateSOS = 6
+CallRateSOS = 30
 #-------------------------------
 [DURALUDON]
-CallRateSOS = 3
+CallRateSOS = 10
 #-------------------------------
 [DREEPY]
 SpeciesSOS = DREEPY,DRAKLOAK
-CallRateSOS = 9
+CallRateSOS = 30
 #-------------------------------
 [DRAKLOAK]
-CallRateSOS = 6
+CallRateSOS = 30
+#-------------------------------
+[CHARMANDER]
+CallRateSOS = 30
+#-------------------------------
+[CYNDAQUIL]
+CallRateSOS = 30
+#-------------------------------
+[TORCHIC]
+CallRateSOS = 30
+#-------------------------------
+[CHIMCHAR]
+CallRateSOS = 30
+#-------------------------------
+[TEPIG]
+CallRateSOS = 30
+#-------------------------------
+[FENNEKIN]
+CallRateSOS = 30
+#-------------------------------
+[LITTEN]
+CallRateSOS = 30
+#-------------------------------
+[SCORBUNNY]
+CallRateSOS = 30
+#-------------------------------
+[CFUECOCO]
+CallRateSOS = 30
+#-------------------------------
+[BULBASAUR]
+CallRateSOS = 30
+#-------------------------------
+[CHIKORITA]
+CallRateSOS = 30
+#-------------------------------
+[TREECKO]
+CallRateSOS = 30
+#-------------------------------
+[SNIVY]
+CallRateSOS = 30
+#-------------------------------
+[TURTWIG]
+CallRateSOS = 30
+#-------------------------------
+[CHESPIN]
+CallRateSOS = 30
+#-------------------------------
+[ROWLET]
+CallRateSOS = 30
+#-------------------------------
+[GROOKEY]
+CallRateSOS = 30
+#-------------------------------
+[SPRIGATITO]
+CallRateSOS = 30
+#-------------------------------
+[SQUIRTLE]
+CallRateSOS = 30
+#-------------------------------
+[TOTODILE]
+CallRateSOS = 30
+#-------------------------------
+[MUDKIP]
+CallRateSOS = 30
+#-------------------------------
+[PIPLUP]
+CallRateSOS = 30
+#-------------------------------
+[OSHAWOTT]
+CallRateSOS = 30
+#-------------------------------
+[FROAKIE]
+CallRateSOS = 30
+#-------------------------------
+[POPPLIO]
+CallRateSOS = 30
+#-------------------------------
+[SOBBLE]
+CallRateSOS = 30
+#-------------------------------
+[QUAXLY]
+CallRateSOS = 30
+#-------------------------------
