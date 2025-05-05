@@ -24339,6 +24339,7 @@ Pokedex = With its muscular strength now greatly increased, it can fly continuou
 Generation = 6
 #-------------------------------
 [RATTATA_1]
+Name = A.RATTATA
 FormName = ALOLAN
 Types = DARK,NORMAL
 Abilities = GLUTTONY,HUSTLE
@@ -24354,6 +24355,7 @@ WildItemUncommon = PECHABERRY
 Evolutions = RATICATE,LevelNight,20
 #-------------------------------
 [RATICATE_1]
+Name = A.RATICATE
 FormName = ALOLAN
 Types = DARK,NORMAL
 BaseStats = 75,71,70,77,40,80
@@ -24368,9 +24370,11 @@ Flags = InheritFormWithEverStone
 WildItemUncommon = PECHABERRY
 #-------------------------------
 [PIKACHU_1]
+Name = A.PIKACHU
 Generation = 7
 #-------------------------------
 [RAICHU_1]
+Name = A.RAICHU
 FormName = ALOLAN
 Types = ELECTRIC,PSYCHIC
 BaseStats = 70,90,62,120,100,87
@@ -24386,6 +24390,7 @@ Pokedex = It uses psychokinesis to control electricity. It hops aboard its own t
 Generation = 7
 #-------------------------------
 [SANDSHREW_1]
+Name = A.SANDSHREW
 FormName = ALOLAN
 Types = ICE,STEEL
 BaseStats = 50,75,90,40,10,35
@@ -24403,6 +24408,7 @@ Flags = InheritFormWithEverStone
 Evolutions = SANDSLASH,Item,ICESTONE
 #-------------------------------
 [SANDSLASH_1]
+Name = A.SANDSLASH
 FormName = ALOLAN
 Types = ICE,STEEL
 BaseStats = 75,100,120,65,25,65
@@ -24418,6 +24424,7 @@ Generation = 7
 Flags = InheritFormWithEverStone
 #-------------------------------
 [VULPIX_1]
+Name = A.VULPIX
 FormName = ALOLAN
 Types = ICE
 Abilities = SNOWCLOAK
@@ -24433,6 +24440,7 @@ WildItemUncommon = SNOWBALL
 Evolutions = NINETALES,Item,ICESTONE
 #-------------------------------
 [NINETALES_1]
+Name = A.NINETAILS
 FormName = ALOLAN
 Types = ICE,FAIRY
 BaseStats = 73,67,75,109,81,100
@@ -24448,6 +24456,7 @@ Flags = InheritFormWithEverStone
 WildItemUncommon = SNOWBALL
 #-------------------------------
 [DIGLETT_1]
+Name = A.DIGLETT
 FormName = ALOLAN
 Types = GROUND,STEEL
 BaseStats = 10,55,30,90,35,45
@@ -24461,6 +24470,7 @@ Generation = 7
 Flags = InheritFormWithEverStone
 #-------------------------------
 [DUGTRIO_1]
+Name = A.DUGTRIO
 FormName = ALOLAN
 Types = GROUND,STEEL
 BaseStats = 35,100,60,110,50,70
@@ -24474,6 +24484,7 @@ Generation = 7
 Flags = InheritFormWithEverStone
 #-------------------------------
 [MEOWTH_1]
+Name = A.MEOWTH
 FormName = ALOLAN
 Types = DARK
 BaseStats = 40,35,35,90,50,40
@@ -24488,6 +24499,7 @@ Flags = InheritFormWithEverStone
 Evolutions = PERSIAN,Happiness,
 #-------------------------------
 [MEOWTH_2]
+Name = G.MEOWTH
 FormName = GALARIAN
 Types = STEEL
 BaseStats = 50,65,55,40,40,40
@@ -24504,6 +24516,7 @@ Flags = InheritFormWithEverStone
 Evolutions = PERRSERKER,Level,28
 #-------------------------------
 [PERSIAN_1]
+Name = A.PERSIAN
 FormName = ALOLAN
 Types = DARK
 BaseStats = 65,60,60,115,75,65
@@ -24530,6 +24543,7 @@ Pokedex = Having traded away its muscles, Alakazam's true power has been unleash
 Generation = 6
 #-------------------------------
 [GEODUDE_1]
+Name = A.GEODUDE
 FormName = ALOLAN
 Types = ROCK,ELECTRIC
 Abilities = MAGNETPULL,STURDY
@@ -24545,6 +24559,7 @@ Flags = InheritFormWithEverStone
 WildItemUncommon = CELLBATTERY
 #-------------------------------
 [GRAVELER_1]
+Name = A.GRAVELER
 FormName = ALOLAN
 Types = ROCK,ELECTRIC
 Abilities = MAGNETPULL,STURDY
@@ -24559,6 +24574,7 @@ Flags = InheritFormWithEverStone
 WildItemUncommon = CELLBATTERY
 #-------------------------------
 [GOLEM_1]
+Name = A.GOLEM
 FormName = ALOLAN
 Types = ROCK,ELECTRIC
 Abilities = MAGNETPULL,STURDY
@@ -24574,6 +24590,7 @@ Flags = InheritFormWithEverStone
 WildItemCommon = CELLBATTERY
 #-------------------------------
 [PONYTA_1]
+Name = G.PONYTA
 FormName = GALARIAN
 Types = PSYCHIC
 Abilities = RUNAWAY,PASTELVEIL
@@ -24589,6 +24606,7 @@ Generation = 8
 Flags = InheritFormWithEverStone
 #-------------------------------
 [RAPIDASH_1]
+Name = G.RAPIDASH
 FormName = GALARIAN
 Types = PSYCHIC,FAIRY
 Abilities = RUNAWAY,PASTELVEIL
@@ -24603,6 +24621,7 @@ Generation = 8
 Flags = InheritFormWithEverStone
 #-------------------------------
 [SLOWPOKE_1]
+Name = G.SLOWPOKE
 FormName = GALARIAN
 Types = PSYCHIC
 Abilities = GLUTTONY,OWNTEMPO
@@ -24613,6 +24632,7 @@ Flags = InheritFormWithEverStone
 Evolutions = SLOWBRO,Item,GALARICACUFF,SLOWKING,Item,GALARICAWREATH
 #-------------------------------
 [SLOWBRO_1]
+Name = G.SLOWBRO
 FormName = GALARIAN
 Types = POISON,PSYCHIC
 BaseStats = 95,100,95,30,100,70
@@ -24638,6 +24658,7 @@ Pokedex = Having been swallowed whole by Shellder, Slowbro now has an iron defen
 Generation = 6
 #-------------------------------
 [FARFETCHD_1]
+Name = G.FARFETCHD
 FormName = GALARIAN
 Types = FIGHTING
 BaseStats = 52,95,55,55,58,62
@@ -24654,6 +24675,7 @@ WildItemCommon = LEEK
 Evolutions = SIRFETCHD,BattleDealCriticalHit,3
 #-------------------------------
 [GRIMER_1]
+Name = A.GRIMER
 FormName = ALOLAN
 Types = POISON,DARK
 Abilities = POISONTOUCH,GLUTTONY
@@ -24669,6 +24691,7 @@ Generation = 7
 Flags = InheritFormWithEverStone
 #-------------------------------
 [MUK_1]
+Name = A.MUK
 FormName = ALOLAN
 Types = POISON,DARK
 Abilities = POISONTOUCH,GLUTTONY
@@ -24694,9 +24717,11 @@ Pokedex = The energy of Mega Evolution awakened it. It sinks into another dimens
 Generation = 6
 #-------------------------------
 [EXEGGCUTE_1]
+Name = A.EXEGGCUTE
 Generation = 7
 #-------------------------------
 [EXEGGUTOR_1]
+Name = A.EXEGGUTOR
 FormName = ALOLAN
 Types = GRASS,DRAGON
 BaseStats = 95,105,85,45,125,75
@@ -24709,10 +24734,12 @@ Pokedex = As it grew taller and taller, it outgrew its reliance on psychic power
 Generation = 7
 #-------------------------------
 [CUBONE_1]
+Name = A.CUBONE
 Generation = 7
 Evolutions = MAROWAK,LevelNight,28
 #-------------------------------
 [MAROWAK_1]
+Name = A.MAROWAK
 FormName = ALOLAN
 Types = FIRE,GHOST
 Abilities = CURSEDBODY,LIGHTNINGROD
@@ -24725,9 +24752,11 @@ Pokedex = Its custom is to mourn its lost companions. Mounds of dirt by the side
 Generation = 7
 #-------------------------------
 [KOFFING_1]
+Name = G.KOFFING
 Generation = 8
 #-------------------------------
 [WEEZING_1]
+Name = G.WEEZING
 FormName = GALARIAN
 Types = POISON,FAIRY
 HiddenAbilities = MISTYSURGE
@@ -24752,9 +24781,11 @@ Pokedex = The explosive energy the child is bathed in causes temporary growth. T
 Generation = 6
 #-------------------------------
 [MIMEJR_1]
+Name = G.MIMEJR
 Generation = 8
 #-------------------------------
 [MRMIME_1]
+Name = G.MRMIME
 FormName = GALARIAN
 Types = ICE,PSYCHIC
 BaseStats = 50,65,65,100,90,90
@@ -24811,6 +24842,7 @@ Pokedex = When it Mega Evolves, it becomes more vicious than ever before. Some s
 Generation = 6
 #-------------------------------
 [ARTICUNO_1]
+Name = G.ARTICUNO
 FormName = GALARIAN
 Types = PSYCHIC,FLYING
 BaseStats = 90,85,85,95,125,100
@@ -24826,6 +24858,7 @@ Pokedex = Its feather-like blades are composed of psychic energy and can shear t
 Generation = 8
 #-------------------------------
 [ZAPDOS_1]
+Name = G.ZAPDOS
 FormName = GALARIAN
 Types = FIGHTING,FLYING
 BaseStats = 90,125,90,100,85,90
@@ -24840,6 +24873,7 @@ Pokedex = When its feathers rub together, they produce a crackling sound like th
 Generation = 8
 #-------------------------------
 [MOLTRES_1]
+Name = G.MOLTRES
 FormName = GALARIAN
 Types = DARK,FLYING
 BaseStats = 90,85,90,90,100,125
@@ -24880,6 +24914,7 @@ Pokedex = Despite its diminished size, its mental power has grown phenomenally. 
 Generation = 6
 #-------------------------------
 [PICHU_2]
+Name = PICHU
 FormName = SPIKY-EARED
 Generation = 4
 Evolutions = PIKACHU,None,
@@ -24897,6 +24932,7 @@ Pokedex = Massive amounts of energy intensely stimulated Ampharos's cells, appar
 Generation = 6
 #-------------------------------
 [SLOWKING_1]
+Name = G.SLOWKING
 FormName = GALARIAN
 Types = POISON,PSYCHIC
 BaseStats = 95,65,80,30,110,110
