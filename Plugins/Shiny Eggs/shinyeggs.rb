@@ -22,7 +22,7 @@ end
 # Pokémon Essentials v21.1 Compatible
 #===============================================================================
 class PokemonSprite < Sprite
-  alias shinyegg_setPokemonBitmap setPokemonBitmap unless method_defined?(:shinyegg_setPokemonBitmap)
+  alias_method :shinyegg_setPokemonBitmap, :setPokemonBitmap
 
   def setPokemonBitmap(pkmn, back = false)
     if pkmn&.egg?
@@ -31,9 +31,6 @@ class PokemonSprite < Sprite
         self.bitmap&.dispose
         self.bitmap = Bitmap.new(path)
         self.mirror = false
-        # Offset position to fit better in summary screen
-        self.x -= 50   # move left
-        self.y -= 50   # move up
         return
       else
         echoln "[ShinyEggs] Missing summary image: #{path}"
