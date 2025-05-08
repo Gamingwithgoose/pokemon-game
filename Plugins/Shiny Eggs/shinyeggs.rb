@@ -20,8 +20,7 @@ end
 
 
 #===============================================================================
-# Shiny Egg Summary Sprite and Icon Display Fix
-# Pokémon Essentials v21.1 Compatible
+# Shiny Egg Summary Sprite
 #===============================================================================
 
 class PokemonSummary_Scene
@@ -60,7 +59,7 @@ class PokemonBoxIcon < IconSprite
 end
 
 #========================================================================
-# Box Icon Sprite
+# Box Summary Sprite
 #========================================================================
 
 class PokemonStorageScene
