@@ -28,7 +28,7 @@ module WonderTradeSettings
  
  # Setting for Male and Female names. Names are randomly selected from one of the listed, if not otherwised defined.
  MALE_NAMES = [
-    "Adam",
+   "Adam",
   "Alexander",
   "Anthony",
   "Austin",

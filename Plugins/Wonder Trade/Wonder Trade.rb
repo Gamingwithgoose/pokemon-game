@@ -51,12 +51,12 @@ def pbWonderTrade(nickName = nil, trainerName = nil, trainerGender = nil)
   else
     # Probability for rarity levels
     rarityProb = {
-      common: 50,
-      uncommon: 25,
-      rare: 16,
-      veryRare: 5,
-      ultraRare: 3,
-      legendary: 1
+      common: 68,
+      uncommon: 20,
+      rare: 10,
+      veryRare: 2,
+      ultraRare: 0,
+      legendary: 0
     }
     
     pokemonData = Hash.new(0)

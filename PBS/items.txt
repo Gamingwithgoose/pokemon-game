@@ -6825,3 +6825,23 @@ Pocket = 8
 Price = 0
 Flags = KeyItem, UsableInField
 Description = Allows you to send and view multiplayer chat messages.
+#-------------------------------
+[EXPALL]
+Name = EXP All
+NamePlural = EXP Alls
+Pocket = 8
+Price = 0
+Flags = KeyItem
+CanUseInField = true
+FieldUse = Direct
+Description = A sleek device that evenly distributes battle experience to all party Pokémon by syncing brainwaves.
+#-------------------------------
+[EXPALLOFF]
+Name = EXP All
+NamePlural = EXP Alls
+Pocket = 8
+Price = 0
+Flags = KeyItem
+CanUseInField = true
+FieldUse = Direct
+Description = A sleek device that evenly distributes battle experience to all party Pokémon by syncing brainwaves.
